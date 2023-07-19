@@ -26,3 +26,4 @@ jobs:
         with:
           http_url: https://api.miluma.lumapr.com/miluma-outage-api/outage/regionsWithoutService # THE URL YOU WISH TO FETCH GOES HERE
           downloaded_filename: regionsWithoutService.json # The http_url gets saved and renamed in our repository. Example: data.json, data.csv, image.png
+          postprocess: prettyprint_json.ts
