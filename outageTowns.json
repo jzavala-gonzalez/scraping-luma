@@ -15,13 +15,26 @@
     }
   ],
   "SANTURCE": [],
-  "GUAYANILLA": [],
+  "GUAYANILLA": [
+    {
+      "zone": "BARRERO",
+      "area": "GUAYANILLA"
+    }
+  ],
   "RINCÓN": [],
   "HATO REY": [],
   "CANÓVANAS": [],
   "VIEQUES": [],
   "ESTANCIAS DE FLORIDA": [],
   "RIO GRANDE": [
+    {
+      "zone": "ALTURAS DE RIO GRANDE",
+      "area": "RIO GRANDE"
+    },
+    {
+      "zone": "ESTANCIAS DEL SOL",
+      "area": "RIO GRANDE"
+    },
     {
       "zone": "MAMEYES II",
       "area": "RIO GRANDE"
@@ -114,10 +127,6 @@
     {
       "zone": "URB VILLA FONTANA",
       "area": "CAROLINA"
-    },
-    {
-      "zone": "Urb. Valle Arriba Heig",
-      "area": "CAROLINA"
     }
   ],
   "RÍO PIEDRAS": [],
@@ -161,13 +170,14 @@
     {
       "zone": "BO. CIBAO, SECTOR OCASIO",
       "area": "CAMUY"
-    },
-    {
-      "zone": "MEMBRILLO/ESTANCIAS MEMBRTILLO",
-      "area": "CAMUY"
     }
   ],
-  "PONCE": [],
+  "PONCE": [
+    {
+      "zone": "URB SAN ANTONIO",
+      "area": "PONCE"
+    }
+  ],
   "CAYEY": [],
   "COAMO": [
     {
@@ -214,12 +224,7 @@
       "area": "DORADO"
     }
   ],
-  "GUAYAMA": [
-    {
-      "zone": "Urb. Ciudad Universita",
-      "area": "GUAYAMA"
-    }
-  ],
+  "GUAYAMA": [],
   "HATILLO": [],
   "BARCELONETA": [],
   "AGUAS BUENAS": [
@@ -237,6 +242,10 @@
   "FLORIDA": [],
   "LOIZA": [
     {
+      "zone": "Urb. Brisas De Loiza",
+      "area": "LOIZA"
+    },
+    {
       "zone": "Zona Ind. Loiza",
       "area": "LOIZA"
     }
@@ -246,9 +255,23 @@
   "ISABEL SEGUNDA": [],
   "MANATÍ": [],
   "ANASCO": [],
-  "CIDRA": [],
+  "CIDRA": [
+    {
+      "zone": "BO RINCON CANDELAS",
+      "area": "CIDRA"
+    },
+    {
+      "zone": "BO RINCON EL CHICHON",
+      "area": "CIDRA"
+    }
+  ],
   "MOCA": [],
-  "YABUCOA": [],
+  "YABUCOA": [
+    {
+      "zone": "BO CALABAZAS ABAJO       29030",
+      "area": "YABUCOA"
+    }
+  ],
   "JUANA DIAZ": [],
   "LARES": [],
   "CANDELARIA": [],
@@ -260,9 +283,6 @@
   "PENUELAS": [
     {
       "zone": "Bo. Tallaboa Alta",
-      "area": "PENUELAS"
-    },
-    {
       "area": "PENUELAS"
     }
   ],
