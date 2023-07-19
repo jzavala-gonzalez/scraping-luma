@@ -8,4 +8,9 @@ const data = await readJSON(filename)
 // and write it out to a different file
 // Careful! any uncaught errors and the workflow will fail, committing nothing.
 const newfile = filename
-await writeJSON(newfile, data)
+
+// Using two spaces to format
+await Deno.writeTextFile(
+  new URL(newfile, import.meta.url),
+  JSON.stringify(data, null, 2),
+);
