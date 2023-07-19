@@ -20,10 +20,6 @@
       "area": "GUAYANILLA"
     },
     {
-      "zone": "Bo. Magas",
-      "area": "GUAYANILLA"
-    },
-    {
       "zone": "Urb. Estela",
       "area": "GUAYANILLA"
     }
@@ -58,10 +54,6 @@
       "area": "ARECIBO"
     },
     {
-      "zone": "Pueblo",
-      "area": "ARECIBO"
-    },
-    {
       "zone": "Sector El Junco",
       "area": "ARECIBO"
     },
@@ -82,6 +74,10 @@
   "SAN ANTONIO": [],
   "ISABELA": [
     {
+      "zone": "BO BEJUCOS",
+      "area": "ISABELA"
+    },
+    {
       "zone": "Bo. Planas II",
       "area": "ISABELA"
     }
@@ -96,11 +92,11 @@
   "HORMIGUEROS": [],
   "AGUADILLA": [
     {
-      "zone": "BO BORINQUEN / SECT PLAYUELA",
+      "zone": "AGUACATE",
       "area": "AGUADILLA"
     },
     {
-      "zone": "URB VILLA OLGA BO AGUACATE",
+      "zone": "BO BORINQUEN / SECT PLAYUELA",
       "area": "AGUADILLA"
     }
   ],
@@ -108,15 +104,16 @@
   "QUEBRADILLAS": [],
   "GUAYNABO": [
     {
-      "zone": "URB PARQUE SAN PATRICIO",
-      "area": "GUAYNABO"
-    },
-    {
       "zone": "URB. BELLOMONTE",
       "area": "GUAYNABO"
     }
   ],
-  "JUNCOS": [],
+  "JUNCOS": [
+    {
+      "zone": "VIRGINIA VALLEY R-055",
+      "area": "JUNCOS"
+    }
+  ],
   "CABO ROJO": [
     {
       "zone": "URB JOYUDA COAST",
@@ -266,10 +263,6 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "Urb. Pérez Moris",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "Urb. Valencia",
       "area": "SAN JUAN"
     },
@@ -282,7 +275,7 @@
   "CEIBA": [],
   "NARANJITO": [
     {
-      "zone": "BO CEDRO ABAJO INT",
+      "zone": "CEDRO ABAJO---CUATRO CALLES",
       "area": "NARANJITO"
     }
   ],
@@ -332,32 +325,18 @@
       "area": "BARCELONETA"
     }
   ],
-  "AGUAS BUENAS": [
-    {
-      "zone": "SUMIDERO",
-      "area": "AGUAS BUENAS"
-    }
-  ],
+  "AGUAS BUENAS": [],
   "HUMACAO": [],
   "INGENIO": [],
   "FLORIDA": [],
   "LOIZA": [],
-  "VEGA ALTA": [
-    {
-      "zone": "GOLDEN HILLS",
-      "area": "VEGA ALTA"
-    }
-  ],
+  "VEGA ALTA": [],
   "AIBONITO": [],
   "ISABEL SEGUNDA": [],
   "MANATÍ": [],
   "ANASCO": [
     {
       "zone": "BO ESPINO",
-      "area": "ANASCO"
-    },
-    {
-      "zone": "Bo. Miraflores",
       "area": "ANASCO"
     }
   ],
@@ -375,10 +354,6 @@
   "YABUCOA": [
     {
       "zone": "BO CALABAZAS ABAJO       29030",
-      "area": "YABUCOA"
-    },
-    {
-      "zone": "SECTOR PANDURA",
       "area": "YABUCOA"
     }
   ],
@@ -430,10 +405,6 @@
   "CAMPANILLA": [],
   "TRUJILLO ALTO": [
     {
-      "zone": "Bo. Saint Just",
-      "area": "TRUJILLO ALTO"
-    },
-    {
       "zone": "CARRAIZO ALTO,LA VARIANTE",
       "area": "TRUJILLO ALTO"
     }
@@ -469,6 +440,18 @@
       "area": "CAGUAS"
     },
     {
+      "zone": "COND SANTA JUANA",
+      "area": "CAGUAS"
+    },
+    {
+      "zone": "MIRADOR BAIROA",
+      "area": "CAGUAS"
+    },
+    {
+      "zone": "PINAS BO BEATRIZ",
+      "area": "CAGUAS"
+    },
+    {
       "zone": "Sector La Changa",
       "area": "CAGUAS"
     },
@@ -482,6 +465,22 @@
     },
     {
       "zone": "URB SANTA ELVIRA",
+      "area": "CAGUAS"
+    },
+    {
+      "zone": "Urb. El Verde",
+      "area": "CAGUAS"
+    },
+    {
+      "zone": "Urb. Villa Blanca",
+      "area": "CAGUAS"
+    },
+    {
+      "zone": "Urb. Villa Turabo",
+      "area": "CAGUAS"
+    },
+    {
+      "zone": "VILLA BLANCA",
       "area": "CAGUAS"
     }
   ],
