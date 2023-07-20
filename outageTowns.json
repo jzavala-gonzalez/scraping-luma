@@ -8,12 +8,7 @@
       "area": "CIALES"
     }
   ],
-  "LAS MARIAS": [
-    {
-      "zone": "BUCARABONES",
-      "area": "LAS MARIAS"
-    }
-  ],
+  "LAS MARIAS": [],
   "SANTURCE": [],
   "GUAYANILLA": [],
   "RINCÓN": [],
@@ -22,10 +17,6 @@
   "VIEQUES": [],
   "ESTANCIAS DE FLORIDA": [],
   "RIO GRANDE": [
-    {
-      "zone": "Bo. Guzman Abajo",
-      "area": "RIO GRANDE"
-    },
     {
       "zone": "CIENAGA ALTA",
       "area": "RIO GRANDE"
@@ -42,42 +33,41 @@
   "OROCOVIS": [],
   "ARECIBO": [
     {
-      "zone": "Bo. Arenalejos",
-      "area": "ARECIBO"
-    },
-    {
-      "zone": "RESIDENCIAL VISTA AZUL",
-      "area": "ARECIBO"
-    },
-    {
-      "zone": "SANTANA PASEOS REALES",
-      "area": "ARECIBO"
-    },
-    {
       "zone": "Sector El Junco",
       "area": "ARECIBO"
     }
   ],
-  "TOA ALTA": [],
+  "TOA ALTA": [
+    {
+      "zone": "Bo. Rio Lajas",
+      "area": "TOA ALTA"
+    }
+  ],
   "LAJAS": [],
   "JUANA DÍAZ": [],
   "PEÑUELAS": [],
   "SAN ANTONIO": [],
-  "ISABELA": [
-    {
-      "zone": "BO LLANADAS",
-      "area": "ISABELA"
-    },
-    {
-      "area": "ISABELA"
-    }
-  ],
+  "ISABELA": [],
   "SALINAS": [],
   "SAN SEBASTIAN": [],
   "HORMIGUEROS": [],
-  "AGUADILLA": [],
+  "AGUADILLA": [
+    {
+      "zone": "BO CAMASEYES",
+      "area": "AGUADILLA"
+    },
+    {
+      "zone": "ESTANCIAS DEL PARAISO",
+      "area": "AGUADILLA"
+    }
+  ],
   "CULEBRA": [],
-  "QUEBRADILLAS": [],
+  "QUEBRADILLAS": [
+    {
+      "zone": "Bo. San Antonio",
+      "area": "QUEBRADILLAS"
+    }
+  ],
   "GUAYNABO": [
     {
       "zone": "Bo. Juan Domingo",
@@ -97,6 +87,10 @@
     },
     {
       "zone": "Urb. Garden Hills",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "Urb. Garden Ville",
       "area": "GUAYNABO"
     },
     {
@@ -172,7 +166,7 @@
   ],
   "GURABO": [
     {
-      "zone": "Bo. Celada Carrete",
+      "zone": "Bo. Hato Nuevo",
       "area": "GURABO"
     },
     {
@@ -217,14 +211,6 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "BO SABANA LLANA PARC HILL BROTHERS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Bo. Caimito Alto",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "COND ALTAMESA GARDENS",
       "area": "SAN JUAN"
     },
@@ -234,10 +220,6 @@
     },
     {
       "zone": "COND NEW PLAZA CENTER",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
@@ -257,7 +239,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB CAPARRA TERRACE",
+      "zone": "UNIVERSITY GARDENS",
       "area": "SAN JUAN"
     },
     {
@@ -281,10 +263,6 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB VILLA ANDALUCIA",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "URB VILLA NEVAREZ",
       "area": "SAN JUAN"
     },
@@ -294,10 +272,6 @@
     },
     {
       "zone": "Urb. College Park",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Floral Park HR",
       "area": "SAN JUAN"
     },
     {
@@ -335,6 +309,10 @@
     {
       "zone": "Bo. Mayagüez Arriba",
       "area": "MAYAGUEZ"
+    },
+    {
+      "zone": "Casco Urbano Mayagüez",
+      "area": "MAYAGUEZ"
     }
   ],
   "YAUCO": [
@@ -346,7 +324,16 @@
   "LUQUILLO": [],
   "PATILLAS": [],
   "DORADO": [],
-  "GUAYAMA": [],
+  "GUAYAMA": [
+    {
+      "zone": "Bo. Del Carmen",
+      "area": "GUAYAMA"
+    },
+    {
+      "zone": "Urb. San Martin",
+      "area": "GUAYAMA"
+    }
+  ],
   "HATILLO": [],
   "BARCELONETA": [],
   "AGUAS BUENAS": [
@@ -370,7 +357,12 @@
     }
   ],
   "INGENIO": [],
-  "FLORIDA": [],
+  "FLORIDA": [
+    {
+      "zone": "Vertedero Florida Afue",
+      "area": "FLORIDA"
+    }
+  ],
   "LOIZA": [
     {
       "zone": "Bo. Torrecilla Baja",
@@ -396,6 +388,10 @@
   "ANASCO": [],
   "CIDRA": [
     {
+      "zone": "BO RABANAL LOS PANES",
+      "area": "CIDRA"
+    },
+    {
       "zone": "Bo. Salto",
       "area": "CIDRA"
     }
@@ -410,11 +406,39 @@
     {
       "zone": "Bo. Singapur",
       "area": "JUANA DIAZ"
+    },
+    {
+      "zone": "COM CRISTINA",
+      "area": "JUANA DIAZ"
+    },
+    {
+      "zone": "COM RURAL PASTILLITO",
+      "area": "JUANA DIAZ"
+    },
+    {
+      "zone": "URB.CAMINO REAL II",
+      "area": "JUANA DIAZ"
     }
   ],
   "LARES": [
     {
+      "zone": "BO BARTOLO",
+      "area": "LARES"
+    },
+    {
+      "zone": "BUENOS AIRES LA MATILDE",
+      "area": "LARES"
+    },
+    {
+      "zone": "Bo. Pezuela",
+      "area": "LARES"
+    },
+    {
       "zone": "Bo. Rio Prieto",
+      "area": "LARES"
+    },
+    {
+      "zone": "Zona Urbana Lares",
       "area": "LARES"
     }
   ],
@@ -447,6 +471,18 @@
   "SAN GERMÁN": [],
   "TOA BAJA": [
     {
+      "zone": "Bo. Candelaria Arenas",
+      "area": "TOA BAJA"
+    },
+    {
+      "zone": "Bo. Macum",
+      "area": "TOA BAJA"
+    },
+    {
+      "zone": "Bo. Pajaros",
+      "area": "TOA BAJA"
+    },
+    {
       "zone": "RES. COVADONGA",
       "area": "TOA BAJA"
     }
@@ -471,6 +507,10 @@
   "PUNTA SANTIAGO": [],
   "MANATI": [
     {
+      "zone": "BO RIO ARRIBA SALIENTE PAJONAL",
+      "area": "MANATI"
+    },
+    {
       "zone": "Bo. Coto Norte",
       "area": "MANATI"
     }
@@ -488,6 +528,10 @@
   "MOROVIS": [
     {
       "zone": "LA LINEA SOLARES MARIA ROSA 6",
+      "area": "MOROVIS"
+    },
+    {
+      "zone": "Parc. Barahona",
       "area": "MOROVIS"
     }
   ],
