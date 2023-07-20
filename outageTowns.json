@@ -1,7 +1,12 @@
 {
   "PUERTO NUEVO": [],
   "LOÍZA": [],
-  "COROZAL": [],
+  "COROZAL": [
+    {
+      "zone": "Bo. Abras",
+      "area": "COROZAL"
+    }
+  ],
   "CIALES": [
     {
       "zone": "URB DOS RIOS NO 67",
@@ -43,7 +48,16 @@
       "area": "TOA ALTA"
     }
   ],
-  "LAJAS": [],
+  "LAJAS": [
+    {
+      "zone": "BO PARGUERA",
+      "area": "LAJAS"
+    },
+    {
+      "zone": "Bo. La Parguera",
+      "area": "LAJAS"
+    }
+  ],
   "JUANA DÍAZ": [],
   "PEÑUELAS": [],
   "SAN ANTONIO": [],
@@ -51,16 +65,7 @@
   "SALINAS": [],
   "SAN SEBASTIAN": [],
   "HORMIGUEROS": [],
-  "AGUADILLA": [
-    {
-      "zone": "BO CAMASEYES",
-      "area": "AGUADILLA"
-    },
-    {
-      "zone": "ESTANCIAS DEL PARAISO",
-      "area": "AGUADILLA"
-    }
-  ],
+  "AGUADILLA": [],
   "CULEBRA": [],
   "QUEBRADILLAS": [
     {
@@ -70,19 +75,23 @@
   ],
   "GUAYNABO": [
     {
+      "zone": "BO GUARAGUAO/SEC JUANA RAMOS",
+      "area": "GUAYNABO"
+    },
+    {
       "zone": "Bo. Juan Domingo",
       "area": "GUAYNABO"
     },
     {
-      "zone": "Bo. Mamey",
+      "zone": "Bo. Santa Rosa",
       "area": "GUAYNABO"
     },
     {
-      "zone": "SANTA ROSA",
+      "zone": "URB EL RETIRO",
       "area": "GUAYNABO"
     },
     {
-      "zone": "Urb. Altamira",
+      "zone": "URB VILLA CAPARRA",
       "area": "GUAYNABO"
     },
     {
@@ -99,7 +108,12 @@
     }
   ],
   "JUNCOS": [],
-  "CABO ROJO": [],
+  "CABO ROJO": [
+    {
+      "zone": "COND PASEO DEL FARO",
+      "area": "CABO ROJO"
+    }
+  ],
   "MAYAGÜEZ": [],
   "CATANO": [],
   "AÑASCO": [],
@@ -138,7 +152,19 @@
   "SAN GERMAN": [],
   "BAYAMON": [
     {
-      "zone": "Bo. Guaraguao Abajo",
+      "zone": "RES. BRISAS DE BAYAMON",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SIERRA BAYAMON",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SIERRA BAYAMON APARTMENTS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB FLAMINGO TERRACE",
       "area": "BAYAMON"
     },
     {
@@ -146,7 +172,19 @@
       "area": "BAYAMON"
     },
     {
+      "zone": "URB RIVERVIEW",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA TERESITA",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "URB SIERRA BAYAMON",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB VILLA VERDE",
       "area": "BAYAMON"
     },
     {
@@ -170,13 +208,17 @@
       "area": "GURABO"
     },
     {
-      "zone": "Urb. Massas I",
+      "zone": "GURABO",
       "area": "GURABO"
     }
   ],
   "LAS PIEDRAS": [],
   "CAMUY": [],
   "PONCE": [
+    {
+      "zone": "BDA BELGICA",
+      "area": "PONCE"
+    },
     {
       "zone": "CANAS URBANO",
       "area": "PONCE"
@@ -203,23 +245,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "BO CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "BO MORCELO CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "COND ALTAMESA GARDENS",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "COND EL PRADO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "COND NEW PLAZA CENTER",
       "area": "SAN JUAN"
     },
     {
@@ -231,23 +257,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "Sector Morcelo",
+      "zone": "URB ALTAMESA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "Sector Quebrada Arenas",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "UNIVERSITY GARDENS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB DEL PILAR",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB RIO PIEDRAS HEIGHTS",
+      "zone": "URB CAPARRA TERRACE",
       "area": "SAN JUAN"
     },
     {
@@ -259,23 +273,7 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SANTA MARIA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VILLA NEVAREZ",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "Urb. Caparra Terrace SO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. College Park",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Santiago Iglesias",
       "area": "SAN JUAN"
     },
     {
@@ -284,10 +282,6 @@
     },
     {
       "zone": "Walkups Villa del Senorial",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Zona Ind. Tres Monjita",
       "area": "SAN JUAN"
     }
   ],
@@ -326,6 +320,10 @@
   "DORADO": [],
   "GUAYAMA": [
     {
+      "zone": "BO CORAZON",
+      "area": "GUAYAMA"
+    },
+    {
       "zone": "Bo. Del Carmen",
       "area": "GUAYAMA"
     },
@@ -337,6 +335,14 @@
   "HATILLO": [],
   "BARCELONETA": [],
   "AGUAS BUENAS": [
+    {
+      "zone": "BO SUMIDERO/SECT CAPILLA",
+      "area": "AGUAS BUENAS"
+    },
+    {
+      "zone": "BO. MULAS",
+      "area": "AGUAS BUENAS"
+    },
     {
       "zone": "Bo. Sumidero",
       "area": "AGUAS BUENAS"
@@ -412,23 +418,11 @@
       "area": "JUANA DIAZ"
     },
     {
-      "zone": "COM RURAL PASTILLITO",
-      "area": "JUANA DIAZ"
-    },
-    {
-      "zone": "URB.CAMINO REAL II",
+      "zone": "URB PORTAL DEL VALLE",
       "area": "JUANA DIAZ"
     }
   ],
   "LARES": [
-    {
-      "zone": "BO BARTOLO",
-      "area": "LARES"
-    },
-    {
-      "zone": "BUENOS AIRES LA MATILDE",
-      "area": "LARES"
-    },
     {
       "zone": "Bo. Pezuela",
       "area": "LARES"
@@ -497,12 +491,7 @@
   ],
   "MARICAO": [],
   "CAMPANILLA": [],
-  "TRUJILLO ALTO": [
-    {
-      "zone": "Bo. Carraizo",
-      "area": "TRUJILLO ALTO"
-    }
-  ],
+  "TRUJILLO ALTO": [],
   "JAYUYA": [],
   "PUNTA SANTIAGO": [],
   "MANATI": [
@@ -523,6 +512,10 @@
     {
       "zone": "CAÑABONCITO",
       "area": "CAGUAS"
+    },
+    {
+      "zone": "Sector La Guasabara",
+      "area": "CAGUAS"
     }
   ],
   "MOROVIS": [
@@ -535,16 +528,7 @@
       "area": "MOROVIS"
     }
   ],
-  "VEGA BAJA": [
-    {
-      "zone": "BO QUEBRADA ARENAS",
-      "area": "VEGA BAJA"
-    },
-    {
-      "zone": "Urb. Jard. De Vega Baja",
-      "area": "VEGA BAJA"
-    }
-  ],
+  "VEGA BAJA": [],
   "SAN ISIDRO": [],
   "FAJARDO": [],
   "MAUNABO": []
