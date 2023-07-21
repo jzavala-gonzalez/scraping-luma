@@ -34,8 +34,6 @@ jobs:
       - name: Save historical data
         run: |-
           python ./build_regionsService.py
-          git config user.name "Automated"
-          git config user.email "actions@users.noreply.github.com"
           git pull
           git add regionsWithoutService_historical.csv
           timestamp=$(date -u)
