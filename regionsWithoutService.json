@@ -1,1 +1,68 @@
-{"regions":[{"name":"Arecibo","totalClients":177369,"totalClientsWithoutService":234,"totalClientsWithService":177135,"percentageClientsWithoutService":0.13,"percentageClientsWithService":99.87},{"name":"Bayamon","totalClients":216496,"totalClientsWithoutService":370,"totalClientsWithService":216126,"percentageClientsWithoutService":0.17,"percentageClientsWithService":99.83},{"name":"Carolina","totalClients":141663,"totalClientsWithoutService":6,"totalClientsWithService":141657,"percentageClientsWithoutService":0.0,"percentageClientsWithService":100.0},{"name":"Caguas","totalClients":250514,"totalClientsWithoutService":1156,"totalClientsWithService":249358,"percentageClientsWithoutService":0.46,"percentageClientsWithService":99.54},{"name":"Mayaguez","totalClients":216605,"totalClientsWithoutService":529,"totalClientsWithService":216076,"percentageClientsWithoutService":0.24,"percentageClientsWithService":99.76},{"name":"Ponce","totalClients":212508,"totalClientsWithoutService":2,"totalClientsWithService":212506,"percentageClientsWithoutService":0.0,"percentageClientsWithService":100.0},{"name":"San Juan","totalClients":253068,"totalClientsWithoutService":165,"totalClientsWithService":252903,"percentageClientsWithoutService":0.07,"percentageClientsWithService":99.93}],"totals":{"totalClientsWithoutService":2462,"totalClients":1468223,"totalClientsWithService":1465761,"totalPercentageWithoutService":0.17,"totalPercentageWithService":99.83},"timestamp":"07/21/2023 12:30 AM"}
+{
+  "regions": [
+    {
+      "name": "Arecibo",
+      "percentageClientsWithService": 99.87,
+      "percentageClientsWithoutService": 0.13,
+      "totalClients": 177369,
+      "totalClientsWithService": 177135,
+      "totalClientsWithoutService": 234
+    },
+    {
+      "name": "Bayamon",
+      "percentageClientsWithService": 99.83,
+      "percentageClientsWithoutService": 0.17,
+      "totalClients": 216496,
+      "totalClientsWithService": 216126,
+      "totalClientsWithoutService": 370
+    },
+    {
+      "name": "Carolina",
+      "percentageClientsWithService": 100.0,
+      "percentageClientsWithoutService": 0.0,
+      "totalClients": 141663,
+      "totalClientsWithService": 141657,
+      "totalClientsWithoutService": 6
+    },
+    {
+      "name": "Caguas",
+      "percentageClientsWithService": 99.54,
+      "percentageClientsWithoutService": 0.46,
+      "totalClients": 250514,
+      "totalClientsWithService": 249358,
+      "totalClientsWithoutService": 1156
+    },
+    {
+      "name": "Mayaguez",
+      "percentageClientsWithService": 99.76,
+      "percentageClientsWithoutService": 0.24,
+      "totalClients": 216605,
+      "totalClientsWithService": 216076,
+      "totalClientsWithoutService": 529
+    },
+    {
+      "name": "Ponce",
+      "percentageClientsWithService": 100.0,
+      "percentageClientsWithoutService": 0.0,
+      "totalClients": 212508,
+      "totalClientsWithService": 212506,
+      "totalClientsWithoutService": 2
+    },
+    {
+      "name": "San Juan",
+      "percentageClientsWithService": 99.93,
+      "percentageClientsWithoutService": 0.07,
+      "totalClients": 253068,
+      "totalClientsWithService": 252903,
+      "totalClientsWithoutService": 165
+    }
+  ],
+  "timestamp": "07/21/2023 12:30 AM",
+  "totals": {
+    "totalClients": 1468223,
+    "totalClientsWithService": 1465761,
+    "totalClientsWithoutService": 2462,
+    "totalPercentageWithService": 99.83,
+    "totalPercentageWithoutService": 0.17
+  }
+}
