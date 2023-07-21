@@ -2,10 +2,16 @@ import json
 import datetime
 import os
 import polars as pl
+import requests
+
+# Get the data from the API
+url = 'https://api.miluma.lumapr.com/miluma-outage-api/outage/regionsWithoutService'
+r = requests.get(url)
+regions_dict = r.json()
 
 fname = 'regionsWithoutService.json'
-with open(fname, 'r') as f:
-    regions_dict = json.load(f)
+with open(fname, 'w') as f:
+    json.dump(regions_dict, f, indent=2, sort_keys=True)
 
 print(json.dumps(regions_dict, indent=2, sort_keys=True))
 
