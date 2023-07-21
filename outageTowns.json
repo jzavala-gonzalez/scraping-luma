@@ -7,6 +7,10 @@
       "area": "COROZAL"
     },
     {
+      "zone": "BO PALMAREJO",
+      "area": "COROZAL"
+    },
+    {
       "zone": "URB EST DE PALMAREJO",
       "area": "COROZAL"
     }
@@ -53,7 +57,12 @@
   "SAN ANTONIO": [],
   "ISABELA": [],
   "SALINAS": [],
-  "SAN SEBASTIAN": [],
+  "SAN SEBASTIAN": [
+    {
+      "zone": "BO PIEDRAS BLANCAS",
+      "area": "SAN SEBASTIAN"
+    }
+  ],
   "HORMIGUEROS": [],
   "AGUADILLA": [
     {
@@ -68,10 +77,6 @@
   "CULEBRA": [],
   "QUEBRADILLAS": [],
   "GUAYNABO": [
-    {
-      "zone": "Bo.Guaraguao",
-      "area": "GUAYNABO"
-    },
     {
       "zone": "SANTA ROSA",
       "area": "GUAYNABO"
@@ -88,14 +93,14 @@
   "AÑASCO": [],
   "CAROLINA": [
     {
-      "zone": "BO FILIPINA",
+      "zone": "Bo. Cacao",
       "area": "CAROLINA"
     }
   ],
   "RÍO PIEDRAS": [],
   "BARRANQUITAS": [
     {
-      "zone": "BO QUEBRADA GRANDE",
+      "zone": "QUEBRADA GRANDE",
       "area": "BARRANQUITAS"
     }
   ],
@@ -103,16 +108,7 @@
   "BAYAMÓN": [],
   "ADJUNTAS": [],
   "SAN GERMAN": [],
-  "BAYAMON": [
-    {
-      "zone": "URB VILLA ESPANA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Urb. Vista Alegre",
-      "area": "BAYAMON"
-    }
-  ],
+  "BAYAMON": [],
   "ARROYO": [],
   "GURABO": [],
   "LAS PIEDRAS": [],
@@ -236,17 +232,12 @@
   ],
   "DORADO": [
     {
-      "zone": "Urb. Doraville",
+      "zone": "Bo. Maguayo",
       "area": "DORADO"
     }
   ],
   "GUAYAMA": [],
-  "HATILLO": [
-    {
-      "zone": "BO PUEBLO/SEC CARRIZALES",
-      "area": "HATILLO"
-    }
-  ],
+  "HATILLO": [],
   "BARCELONETA": [],
   "AGUAS BUENAS": [],
   "HUMACAO": [],
@@ -265,11 +256,20 @@
   "ANASCO": [],
   "CIDRA": [
     {
+      "zone": "BO ARENAS",
+      "area": "CIDRA"
+    },
+    {
       "zone": "BO CEIBA",
       "area": "CIDRA"
     }
   ],
-  "MOCA": [],
+  "MOCA": [
+    {
+      "zone": "Bo. Rocha",
+      "area": "MOCA"
+    }
+  ],
   "YABUCOA": [
     {
       "zone": "BO CALABAZAS SODOMA RL-29014",
@@ -358,10 +358,6 @@
   ],
   "CAGUAS": [
     {
-      "zone": "Bo. Canabon",
-      "area": "CAGUAS"
-    },
-    {
       "zone": "CAÑABON",
       "area": "CAGUAS"
     }
@@ -377,10 +373,6 @@
   "FAJARDO": [
     {
       "zone": "COND DOS MARINAS",
-      "area": "FAJARDO"
-    },
-    {
-      "zone": "Urb. Monte Brisas 5",
       "area": "FAJARDO"
     }
   ],
