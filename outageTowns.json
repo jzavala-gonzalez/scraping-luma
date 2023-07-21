@@ -21,7 +21,12 @@
   "VIEQUES": [],
   "ESTANCIAS DE FLORIDA": [],
   "RIO GRANDE": [],
-  "COMERIO": [],
+  "COMERIO": [
+    {
+      "zone": "BO NARANJO",
+      "area": "COMERIO"
+    }
+  ],
   "RINCON": [
     {
       "zone": "BO ATALAYA SEC LA BANDERA",
@@ -53,8 +58,17 @@
   "PEÑUELAS": [],
   "SAN ANTONIO": [],
   "ISABELA": [],
-  "SALINAS": [],
+  "SALINAS": [
+    {
+      "zone": "Urb. La Arboleda",
+      "area": "SALINAS"
+    }
+  ],
   "SAN SEBASTIAN": [
+    {
+      "zone": "BO CALABAZAS",
+      "area": "SAN SEBASTIAN"
+    },
     {
       "zone": "ROBLES SEC VILLA LEE",
       "area": "SAN SEBASTIAN"
@@ -105,19 +119,11 @@
   "ARROYO": [],
   "GURABO": [
     {
-      "zone": "Bo. Celada Carrete",
-      "area": "GURABO"
-    },
-    {
       "zone": "Bo. Rincon",
       "area": "GURABO"
     },
     {
       "zone": "CELADA",
-      "area": "GURABO"
-    },
-    {
-      "zone": "COND MODENA III",
       "area": "GURABO"
     },
     {
@@ -164,7 +170,11 @@
     }
   ],
   "SAN LORENZO": [],
-  "MAYAGUEZ": [],
+  "MAYAGUEZ": [
+    {
+      "area": "MAYAGUEZ"
+    }
+  ],
   "YAUCO": [],
   "LUQUILLO": [],
   "PATILLAS": [],
@@ -225,19 +235,23 @@
     {
       "zone": "BO ROCHA SECTOR LOS VELAZQUEZ",
       "area": "MOCA"
+    },
+    {
+      "zone": "Bo. Rocha",
+      "area": "MOCA"
     }
   ],
   "YABUCOA": [],
-  "JUANA DIAZ": [],
+  "JUANA DIAZ": [
+    {
+      "zone": "Bo. Rio Canas Arriba",
+      "area": "JUANA DIAZ"
+    }
+  ],
   "LARES": [],
   "CANDELARIA": [],
   "SABANA GRANDE": [],
-  "SANTA ISABEL": [
-    {
-      "zone": "URB PRADOS DEL SOÑADOR",
-      "area": "SANTA ISABEL"
-    }
-  ],
+  "SANTA ISABEL": [],
   "SAN SEBASTIÁN": [],
   "LAS MARÍAS": [],
   "PAJAROS": [],
@@ -255,6 +269,10 @@
     },
     {
       "zone": "RES. COVADONGA",
+      "area": "TOA BAJA"
+    },
+    {
+      "zone": "VILLA ESPERANZA BO CAMPANILLAS",
       "area": "TOA BAJA"
     }
   ],
@@ -276,10 +294,6 @@
   "TRUJILLO ALTO": [
     {
       "zone": "BO CARRAIZO BAJO T ALTO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "BO LA GLORIA SECT MIGUEL ANDIN",
       "area": "TRUJILLO ALTO"
     },
     {
@@ -312,6 +326,13 @@
     },
     {
       "zone": "RIO ARRIBA - SECT LA CUCHILLA",
+      "area": "MANATI"
+    },
+    {
+      "zone": "null",
+      "area": "MANATI"
+    },
+    {
       "area": "MANATI"
     }
   ],
