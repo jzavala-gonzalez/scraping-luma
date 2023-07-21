@@ -15,13 +15,6 @@ jobs:
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v2
-      # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
-      - name: Fetch regions service data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://api.miluma.lumapr.com/miluma-outage-api/outage/regionsWithoutService # THE URL YOU WISH TO FETCH GOES HERE
-          downloaded_filename: regionsWithoutService.json # The http_url gets saved and renamed in our repository. Example: data.json, data.csv, image.png
-          postprocess: prettyprint_json.ts
       # Install python requirements
       - name: Pip install requirements
         run: |
