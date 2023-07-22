@@ -61,7 +61,9 @@ with pl.Config(tbl_cols=-1):
 
 out_fname = 'regionsWithoutService_historical.csv'
 if os.path.exists(out_fname):
-    existing_df = pl.read_csv(out_fname).rename({'csv_timestamp': 'timestamp_saved'})
+    existing_df = pl.read_csv(out_fname)
+    if ('csv_timestamp' in existing_df.columns):
+        existing_df = existing_df.rename({'csv_timestamp': 'timestamp_saved'})
     df = existing_df.vstack(df)
 
 df.write_csv(out_fname)
