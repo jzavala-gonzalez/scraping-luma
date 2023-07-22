@@ -46,11 +46,7 @@
   "JUANA DÍAZ": [],
   "PEÑUELAS": [],
   "SAN ANTONIO": [],
-  "ISABELA": [
-    {
-      "area": "ISABELA"
-    }
-  ],
+  "ISABELA": [],
   "SALINAS": [],
   "SAN SEBASTIAN": [],
   "HORMIGUEROS": [],
@@ -76,7 +72,12 @@
   "JUNCOS": [],
   "CABO ROJO": [],
   "MAYAGÜEZ": [],
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "URB VALPARAISO",
+      "area": "CATANO"
+    }
+  ],
   "AÑASCO": [],
   "CAROLINA": [],
   "RÍO PIEDRAS": [],
@@ -92,15 +93,15 @@
   ],
   "BAYAMON": [
     {
+      "zone": "COND COLINAS DEL BOSQUE",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "JUAN SANCHEZ",
       "area": "BAYAMON"
     },
     {
       "zone": "URB FLAMBOYAN GARDENS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB VALLE VERDE 3",
       "area": "BAYAMON"
     },
     {
@@ -194,6 +195,10 @@
     },
     {
       "zone": "PUNTA SANTIAGO",
+      "area": "HUMACAO"
+    },
+    {
+      "zone": "Urb. Verde Mar",
       "area": "HUMACAO"
     }
   ],
