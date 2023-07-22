@@ -37,7 +37,16 @@
   "SALINAS": [],
   "SAN SEBASTIAN": [],
   "HORMIGUEROS": [],
-  "AGUADILLA": [],
+  "AGUADILLA": [
+    {
+      "zone": "BO CAMASEYES",
+      "area": "AGUADILLA"
+    },
+    {
+      "zone": "Bo. Camaseyes",
+      "area": "AGUADILLA"
+    }
+  ],
   "CULEBRA": [],
   "QUEBRADILLAS": [],
   "GUAYNABO": [
@@ -55,6 +64,10 @@
     {
       "zone": "Bo. Trujillo Bajo",
       "area": "CAROLINA"
+    },
+    {
+      "zone": "SABANA ABAJO",
+      "area": "CAROLINA"
     }
   ],
   "RÍO PIEDRAS": [],
@@ -66,10 +79,6 @@
   "BAYAMON": [
     {
       "zone": "Bo. Santa Olaya",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "HATO TEJAS",
       "area": "BAYAMON"
     },
     {
@@ -85,27 +94,27 @@
       "area": "BAYAMON"
     }
   ],
-  "ARROYO": [
-    {
-      "zone": "URB VILLAS DE ARROYO",
-      "area": "ARROYO"
-    }
-  ],
+  "ARROYO": [],
   "GURABO": [],
   "LAS PIEDRAS": [],
-  "CAMUY": [],
-  "PONCE": [],
-  "CAYEY": [],
-  "COAMO": [
+  "CAMUY": [
     {
-      "zone": "JARDINES DE SANTA ANA",
-      "area": "COAMO"
+      "zone": "PUENTE",
+      "area": "CAMUY"
     }
   ],
+  "PONCE": [
+    {
+      "zone": "Zona Urbana Ponce",
+      "area": "PONCE"
+    }
+  ],
+  "CAYEY": [],
+  "COAMO": [],
   "RIO PIEDRAS": [],
   "SAN JUAN": [
     {
-      "zone": "Bo. Cupey Alto",
+      "zone": "Res. San Agustin",
       "area": "SAN JUAN"
     },
     {
@@ -118,16 +127,22 @@
   "NARANJITO": [],
   "SAN LORENZO": [
     {
-      "zone": "BO ESPINO",
-      "area": "SAN LORENZO"
-    },
-    {
       "zone": "BO. FLORIDA, SECTOR EL MAMEY",
       "area": "SAN LORENZO"
     }
   ],
-  "MAYAGUEZ": [],
-  "YAUCO": [],
+  "MAYAGUEZ": [
+    {
+      "zone": "null",
+      "area": "MAYAGUEZ"
+    }
+  ],
+  "YAUCO": [
+    {
+      "zone": "Bo. Palomas",
+      "area": "YAUCO"
+    }
+  ],
   "LUQUILLO": [],
   "PATILLAS": [],
   "DORADO": [
@@ -144,13 +159,18 @@
   ],
   "HATILLO": [
     {
-      "zone": "BAYANEY SECT LOS MANANTIALES",
+      "zone": "BAYANEY",
       "area": "HATILLO"
     }
   ],
   "BARCELONETA": [],
   "AGUAS BUENAS": [],
-  "HUMACAO": [],
+  "HUMACAO": [
+    {
+      "zone": "BO NAVARRO-COLLEGE HILLS",
+      "area": "HUMACAO"
+    }
+  ],
   "INGENIO": [],
   "FLORIDA": [],
   "LOIZA": [],
@@ -163,7 +183,12 @@
   "MOCA": [],
   "YABUCOA": [],
   "JUANA DIAZ": [],
-  "LARES": [],
+  "LARES": [
+    {
+      "zone": "PILETAS/CABAN",
+      "area": "LARES"
+    }
+  ],
   "CANDELARIA": [],
   "SABANA GRANDE": [],
   "SANTA ISABEL": [],
@@ -177,12 +202,7 @@
   "COCO": [],
   "LEVITTOWN": [],
   "SAN GERMÁN": [],
-  "TOA BAJA": [
-    {
-      "zone": "RES. COVADONGA",
-      "area": "TOA BAJA"
-    }
-  ],
+  "TOA BAJA": [],
   "CANOVANAS": [
     {
       "zone": "PAR PUEBLO INDIO",
@@ -191,11 +211,11 @@
   ],
   "AGUADA": [
     {
-      "zone": "BO CERRO GORDO",
+      "zone": "BO QUEBRADA LARGA",
       "area": "AGUADA"
     },
     {
-      "zone": "BO QUEBRADA LARGA",
+      "zone": "Bo. Cerro Gordo",
       "area": "AGUADA"
     }
   ],
@@ -209,7 +229,11 @@
   "SANTA BARBARA": [],
   "RÍO GRANDE": [],
   "UTUADO": [],
-  "NAGUABO": [],
+  "NAGUABO": [
+    {
+      "area": "NAGUABO"
+    }
+  ],
   "CAGUAS": [
     {
       "zone": "Bo. Canaboncito",
@@ -225,12 +249,7 @@
     }
   ],
   "MOROVIS": [],
-  "VEGA BAJA": [
-    {
-      "zone": "Parc. Pueblo Nuevo",
-      "area": "VEGA BAJA"
-    }
-  ],
+  "VEGA BAJA": [],
   "SAN ISIDRO": [],
   "FAJARDO": [],
   "MAUNABO": []
