@@ -21,10 +21,10 @@ jobs:
           python -m pip install -r requirements.txt
       - name: Save historical data
         run: |-
-          python ./build_regionsService.py
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
           git pull
+          python ./build_regionsService.py
           git add -A
           timestamp=$(date -u)
           git commit -m "Update regionsWithoutService $timestamp" || exit 0
