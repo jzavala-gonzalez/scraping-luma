@@ -12,19 +12,20 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      # This step installs Deno, which is a new Javascript runtime that improves on Node. Can be used for an optional postprocessing step
-      - name: Setup deno
-        uses: denoland/setup-deno@main
-        with:
-          deno-version: v1.10.x
       # Check out the repository so it can read the files inside of it and do other operations
       - name: Check out repo
         uses: actions/checkout@v2
-      # The Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://api.miluma.lumapr.com/miluma-outage-api/outage/municipality/towns # THE URL YOU WISH TO FETCH GOES HERE
-          downloaded_filename: outageTowns.json # The http_url gets saved and renamed in our repository. Example: data.json, data.csv, image.png
-          axios_config: outageTownsConfig.json # The axios_config is a JSON file that contains the headers and other configurations for the request. Example: axios_config.json
-          postprocess: prettyprint_json.ts
+      # Install python requirements
+      - name: Pip install requirements
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Save towns data
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git pull
+          python ./build_outageTowns.py
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Update outageTowns $timestamp" || exit 0
+          git push
