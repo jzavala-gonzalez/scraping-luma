@@ -13,14 +13,14 @@
     {
       "area": "AGUADA",
       "zone": "BO LAGUNAS SECTOR CONCEPCION"
-    },
-    {
-      "area": "AGUADA",
-      "zone": "Bo. Guayabo"
     }
   ],
   "AGUADILLA": [],
-  "AGUAS BUENAS": [],
+  "AGUAS BUENAS": [
+    {
+      "area": "AGUAS BUENAS"
+    }
+  ],
   "AIBONITO": [],
   "ANASCO": [],
   "ARECIBO": [
@@ -110,7 +110,12 @@
   "CAYEY": [],
   "CEIBA": [],
   "CIALES": [],
-  "CIDRA": [],
+  "CIDRA": [
+    {
+      "area": "CIDRA",
+      "zone": "Bo. Rabanal Almirante"
+    }
+  ],
   "COAMO": [],
   "COCO": [],
   "COMERIO": [
@@ -134,7 +139,12 @@
   ],
   "DORADO": [],
   "ESTANCIAS DE FLORIDA": [],
-  "FAJARDO": [],
+  "FAJARDO": [
+    {
+      "area": "FAJARDO",
+      "zone": "QUEBRADA FAJARDO"
+    }
+  ],
   "FLORIDA": [],
   "GUANICA": [],
   "GUAYAMA": [
@@ -175,6 +185,10 @@
     }
   ],
   "GURABO": [
+    {
+      "area": "GURABO",
+      "zone": "Bo. Hato Nuevo"
+    },
     {
       "area": "GURABO",
       "zone": "Bo. Mamey"
@@ -358,7 +372,12 @@
       "zone": "CAYAGUAS"
     }
   ],
-  "SAN SEBASTIAN": [],
+  "SAN SEBASTIAN": [
+    {
+      "area": "SAN SEBASTIAN",
+      "zone": "REPARTO SOFIA"
+    }
+  ],
   "SAN SEBASTIÁN": [],
   "SANTA BARBARA": [],
   "SANTA ISABEL": [],
@@ -370,6 +389,10 @@
     }
   ],
   "TOA BAJA": [
+    {
+      "area": "TOA BAJA",
+      "zone": "RES COVADONGA"
+    },
     {
       "area": "TOA BAJA",
       "zone": "URB BAY VIEW"
@@ -384,24 +407,19 @@
     {
       "area": "UTUADO",
       "zone": "Bo. Cerro Gordo Rio Ab"
-    },
-    {
-      "area": "UTUADO",
-      "zone": "Centro De Gobierno"
     }
   ],
   "VEGA ALTA": [
     {
       "area": "VEGA ALTA",
       "zone": "BO SABANA HOYOS"
-    }
-  ],
-  "VEGA BAJA": [
+    },
     {
-      "area": "VEGA BAJA",
-      "zone": "URB SAN AGUSTIN"
+      "area": "VEGA ALTA",
+      "zone": "Bo. Sabana Hoyos"
     }
   ],
+  "VEGA BAJA": [],
   "VIEQUES": [],
   "VILLALBA": [],
   "YABUCOA": [
@@ -420,5 +438,5 @@
       "zone": "Bo. Rancheras"
     }
   ],
-  "timestamp_saved": "07/24/2023 01:32 PM"
+  "timestamp_saved": "07/24/2023 01:40 PM"
 }
