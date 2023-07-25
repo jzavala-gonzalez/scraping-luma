@@ -150,6 +150,12 @@ if len(missing_cols) > 0:
 out_fname = 'genera/historical/dataLoadPerSite_historical.csv'
 if os.path.exists(out_fname):
     existing_df = pl.read_csv(out_fname)
+    existing_df = (
+        existing_df
+        .with_columns([
+            pl.col(k).cast(v) for k, v in df.schema.items()
+        ])
+    )
     
     df = existing_df.vstack(df)
 
