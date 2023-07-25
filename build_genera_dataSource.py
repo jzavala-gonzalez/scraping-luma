@@ -130,15 +130,15 @@ df = df.select([
     pl.lit(dataFechaActualizado).alias('dataFechaActualizado'),
     
     # Not casting all of it because some are strings in the original data (idk why)
-    pl.col('site_index'),#.cast(int),
+    pl.col('site_index').cast(str),
     'Type', 'Desc',
     pl.col('SiteTotal').cast(int),
-    pl.col('unit_index'),#.cast(int),
+    pl.col('unit_index').cast(str),
     'Unit',
     pl.col('MW').cast(int),
-    'MVar',
+    pl.col('MVar').cast(str),
     pl.col('Cost').cast(float), 
-    'ParentId',
+    pl.col('ParentId').cast(str),
 ])
 with pl.Config(tbl_cols=-1):
     print(df)
