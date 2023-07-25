@@ -1,0 +1,36 @@
+name: Genera - Data Source
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '*/6 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      # Check out the repository so it can read the files inside of it and do other operations
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # Install python requirements
+      - name: Pip install requirements
+        run: |
+          python -m pip install -r requirements.txt
+      # Install Node
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+      - name: Save historical data
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git pull
+          python ./build_genera_dataSource.py
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Update genera/dataSource $timestamp" || exit 0
+          git push
