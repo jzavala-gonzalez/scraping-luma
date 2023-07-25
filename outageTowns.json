@@ -48,10 +48,6 @@
     },
     {
       "area": "AGUAS BUENAS",
-      "zone": "Bo. Bayamoncito"
-    },
-    {
-      "area": "AGUAS BUENAS",
       "zone": "Bo. Sonadora"
     },
     {
@@ -78,11 +74,11 @@
     },
     {
       "area": "ARECIBO",
-      "zone": "BO ESPERANZA"
+      "zone": "CARRERAS 1"
     },
     {
       "area": "ARECIBO",
-      "zone": "CARRERAS 1"
+      "zone": "HATO ARRIBA"
     },
     {
       "area": "ARECIBO",
@@ -101,10 +97,6 @@
   "BAYAMON": [
     {
       "area": "BAYAMON",
-      "zone": "BO CERRO GORDO SEC LA TOSCA"
-    },
-    {
-      "area": "BAYAMON",
       "zone": "BO GUARAGUAO"
     },
     {
@@ -118,10 +110,6 @@
     {
       "area": "BAYAMON",
       "zone": "BO NUEVOSECT LAS 13 CUERDAS"
-    },
-    {
-      "area": "BAYAMON",
-      "zone": "Bo. Nuevo"
     },
     {
       "area": "BAYAMON",
@@ -144,19 +132,11 @@
     },
     {
       "area": "CABO ROJO",
-      "zone": "Bo. Pedernales"
-    },
-    {
-      "area": "CABO ROJO",
       "zone": "COND PLAYA BUYE  BO PEDERNALES"
     },
     {
       "area": "CABO ROJO",
       "zone": "LLANOS TUNA"
-    },
-    {
-      "area": "CABO ROJO",
-      "zone": "R 8 REPARTO VISTA VERDE"
     }
   ],
   "CAGUAS": [
@@ -182,10 +162,6 @@
     },
     {
       "area": "CAGUAS",
-      "zone": "TURABO"
-    },
-    {
-      "area": "CAGUAS",
       "zone": "URB PALMA DEL TURABO    R400"
     }
   ],
@@ -196,15 +172,7 @@
   "CANOVANAS": [
     {
       "area": "CANOVANAS",
-      "zone": "BO CUBUY"
-    },
-    {
-      "area": "CANOVANAS",
       "zone": "Bo. Campo Rico"
-    },
-    {
-      "area": "CANOVANAS",
-      "zone": "CUBUY SECT ANORANZAS"
     },
     {
       "area": "CANOVANAS",
@@ -276,10 +244,19 @@
     {
       "area": "COROZAL",
       "zone": "Bo. Padilla"
+    },
+    {
+      "area": "COROZAL",
+      "zone": "RES EL CENTRO"
     }
   ],
   "CULEBRA": [],
-  "DORADO": [],
+  "DORADO": [
+    {
+      "area": "DORADO",
+      "zone": "Bo. Rio Lajas"
+    }
+  ],
   "ESTANCIAS DE FLORIDA": [],
   "FAJARDO": [],
   "FLORIDA": [],
@@ -340,8 +317,17 @@
     }
   ],
   "HATO REY": [],
-  "HORMIGUEROS": [],
-  "HUMACAO": [],
+  "HORMIGUEROS": [
+    {
+      "area": "HORMIGUEROS"
+    }
+  ],
+  "HUMACAO": [
+    {
+      "area": "HUMACAO",
+      "zone": "Urb. Ciudad Cristiana"
+    }
+  ],
   "INGENIO": [],
   "ISABEL SEGUNDA": [],
   "ISABELA": [
@@ -356,7 +342,7 @@
   "JUNCOS": [
     {
       "area": "JUNCOS",
-      "zone": "Bo. Caimito"
+      "zone": "CAIMITO"
     },
     {
       "area": "JUNCOS",
@@ -377,11 +363,11 @@
   "LAS MARIAS": [
     {
       "area": "LAS MARIAS",
-      "zone": "BUCARABONES"
+      "zone": "BO ANONES"
     },
     {
       "area": "LAS MARIAS",
-      "zone": "Bo. Bucarabones"
+      "zone": "BUCARABONES LAS MARIAS"
     },
     {
       "area": "LAS MARIAS",
@@ -479,10 +465,6 @@
     },
     {
       "area": "PONCE",
-      "zone": "URB CONSTANCIA"
-    },
-    {
-      "area": "PONCE",
       "zone": "URB STARLIGHT"
     },
     {
@@ -501,6 +483,10 @@
     {
       "area": "QUEBRADILLAS",
       "zone": "Bo. Cocos"
+    },
+    {
+      "area": "QUEBRADILLAS",
+      "zone": "COCOS/PALLENS"
     }
   ],
   "RINCON": [
@@ -510,15 +496,11 @@
     },
     {
       "area": "RINCON",
-      "zone": "BO CALVACHE"
-    },
-    {
-      "area": "RINCON",
       "zone": "BO PUNTAS"
     },
     {
       "area": "RINCON",
-      "zone": "BO RIO GRANDE"
+      "zone": "BO RIO GRANDE/ANTS CARR 400"
     },
     {
       "area": "RINCON",
@@ -530,24 +512,19 @@
     },
     {
       "area": "RINCON",
-      "zone": "Bo. Rio Grande"
-    },
-    {
-      "area": "RINCON",
       "zone": "RIO GRANDE/SECT MINGO MELA"
     }
   ],
   "RINCÓN": [],
-  "RIO GRANDE": [
-    {
-      "area": "RIO GRANDE",
-      "zone": "Zona Ind. Las Flores"
-    }
-  ],
+  "RIO GRANDE": [],
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
   "SABANA GRANDE": [
+    {
+      "area": "SABANA GRANDE",
+      "zone": "Bo. La Torre"
+    },
     {
       "area": "SABANA GRANDE",
       "zone": "GARDENIA 124 B"
@@ -604,7 +581,15 @@
     },
     {
       "area": "SAN JUAN",
+      "zone": "Res. El Mirador Santu"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "SABANA LLANA NORTE"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "URB COLLEGE PARK"
     },
     {
       "area": "SAN JUAN",
@@ -617,6 +602,10 @@
     {
       "area": "SAN JUAN",
       "zone": "Urb. Hyde Park"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Urb. Puerto Nuevo Nombres"
     },
     {
       "area": "SAN JUAN",
@@ -652,16 +641,12 @@
   "SANTA ISABEL": [
     {
       "area": "SANTA ISABEL",
-      "zone": "BO PLAYA CORTADA"
+      "zone": "PLAYA CORTADA CALLE 2"
     }
   ],
   "SANTURCE": [],
   "TOA ALTA": [],
   "TOA BAJA": [
-    {
-      "area": "TOA BAJA",
-      "zone": "URB CAMINO DEL MAR"
-    },
     {
       "area": "TOA BAJA",
       "zone": "VILLA HOSTOS CAMPANILLA"
@@ -679,6 +664,10 @@
     {
       "area": "TRUJILLO ALTO",
       "zone": "Bo. Carraizo"
+    },
+    {
+      "area": "TRUJILLO ALTO",
+      "zone": "Bo. Quebrada Grande"
     }
   ],
   "UTUADO": [
@@ -753,5 +742,5 @@
       "zone": "Bo. Rubias"
     }
   ],
-  "timestamp_saved": "07/25/2023 05:22 PM"
+  "timestamp_saved": "07/25/2023 05:30 PM"
 }
