@@ -84,10 +84,6 @@
   "CAGUAS": [
     {
       "area": "CAGUAS",
-      "zone": "BO TOMAS DE CASTRO,VALLE HERMO"
-    },
-    {
-      "area": "CAGUAS",
       "zone": "Casco Urbano Caguas"
     },
     {
@@ -118,10 +114,6 @@
     {
       "area": "CAROLINA",
       "zone": "COND PLAYA SERENA"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "Cond. Coral Beach"
     }
   ],
   "CATANO": [],
@@ -293,13 +285,14 @@
   "LARES": [],
   "LAS MARIAS": [],
   "LAS MARÍAS": [],
-  "LAS PIEDRAS": [],
+  "LAS PIEDRAS": [
+    {
+      "area": "LAS PIEDRAS",
+      "zone": "TEJAS/ASOMANTE II"
+    }
+  ],
   "LEVITTOWN": [],
   "LOIZA": [
-    {
-      "area": "LOIZA",
-      "zone": "Bo. Torrecilla Baja"
-    },
     {
       "area": "LOIZA",
       "zone": "VILLAS DE LOIZA"
@@ -338,7 +331,12 @@
   "MOROVIS": [],
   "NAGUABO": [],
   "NARANJITO": [],
-  "OROCOVIS": [],
+  "OROCOVIS": [
+    {
+      "area": "OROCOVIS",
+      "zone": "BO ALA DE LA PIEDRA"
+    }
+  ],
   "PAJAROS": [],
   "PATILLAS": [],
   "PENUELAS": [],
@@ -346,11 +344,15 @@
   "PONCE": [
     {
       "area": "PONCE",
-      "zone": "BUCANA"
+      "zone": "  -  "
     },
     {
       "area": "PONCE",
-      "zone": "URB HILLCREST"
+      "zone": "Bo. La Playa"
+    },
+    {
+      "area": "PONCE",
+      "zone": "PARQUE MONTERREY APTS"
     },
     {
       "area": "PONCE",
@@ -359,10 +361,6 @@
     {
       "area": "PONCE",
       "zone": "URB LOS CAOBOS"
-    },
-    {
-      "area": "PONCE",
-      "zone": "URB PUB LA CEIBA"
     }
   ],
   "PUERTO NUEVO": [],
@@ -373,10 +371,6 @@
     {
       "area": "RINCON",
       "zone": "JAGUEYCUESTA MODESTO MENDOZA"
-    },
-    {
-      "area": "RINCON",
-      "zone": "PUNTAS/COND LANDING VIEW"
     },
     {
       "area": "RINCON",
@@ -468,5 +462,5 @@
   "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "07/28/2023 04:58 PM"
+  "timestamp_saved": "07/28/2023 05:07 PM"
 }
