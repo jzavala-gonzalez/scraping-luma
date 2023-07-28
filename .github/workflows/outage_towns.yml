@@ -1,9 +1,6 @@
 name: Outages - towns
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
