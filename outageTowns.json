@@ -53,6 +53,10 @@
     {
       "area": "BAYAMON",
       "zone": "HATO TEJAS"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "URB SANTA JUANITA"
     }
   ],
   "BAYAMÓN": [],
@@ -150,10 +154,6 @@
     },
     {
       "area": "GUAYNABO",
-      "zone": "MAMEY"
-    },
-    {
-      "area": "GUAYNABO",
       "zone": "URB COLINAS DE PARKVILLE"
     },
     {
@@ -208,10 +208,6 @@
     {
       "area": "LAS MARIAS",
       "zone": "BUCARABONES/SECT LA JOSEFA"
-    },
-    {
-      "area": "LAS MARIAS",
-      "zone": "Bo. Furnias"
     }
   ],
   "LAS MARÍAS": [],
@@ -233,7 +229,11 @@
     }
   ],
   "MAUNABO": [],
-  "MAYAGUEZ": [],
+  "MAYAGUEZ": [
+    {
+      "area": "MAYAGUEZ"
+    }
+  ],
   "MAYAGÜEZ": [],
   "MOCA": [
     {
@@ -250,11 +250,23 @@
   "NARANJITO": [
     {
       "area": "NARANJITO",
+      "zone": "ANONES"
+    },
+    {
+      "area": "NARANJITO",
       "zone": "BO ANONES SEC EL PALMAR"
     },
     {
       "area": "NARANJITO",
+      "zone": "BO ANONES-SECT LOS CATALA"
+    },
+    {
+      "area": "NARANJITO",
       "zone": "BO NUEVO"
+    },
+    {
+      "area": "NARANJITO",
+      "zone": "Bo. Cedro Abajo"
     }
   ],
   "OROCOVIS": [
@@ -293,14 +305,6 @@
     {
       "area": "SAN JUAN",
       "zone": "Ave. Ponce De Leon"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "Bo. Caimito Alto"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "Bo. Cupey Alto"
     },
     {
       "area": "SAN JUAN",
@@ -364,12 +368,7 @@
   "SANTA ISABEL": [],
   "SANTURCE": [],
   "TOA ALTA": [],
-  "TOA BAJA": [
-    {
-      "area": "TOA BAJA",
-      "zone": "SAN JOSE"
-    }
-  ],
+  "TOA BAJA": [],
   "TRUJILLO ALTO": [
     {
       "area": "TRUJILLO ALTO",
@@ -377,10 +376,6 @@
     }
   ],
   "UTUADO": [
-    {
-      "area": "UTUADO",
-      "zone": "Bo. Limon"
-    },
     {
       "area": "UTUADO",
       "zone": "Bo. Roncador"
@@ -392,5 +387,5 @@
   "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "07/31/2023 07:20 PM"
+  "timestamp_saved": "07/31/2023 07:25 PM"
 }
