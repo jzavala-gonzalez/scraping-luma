@@ -30,10 +30,6 @@
     },
     {
       "area": "BARRANQUITAS",
-      "zone": "Bo. Palo Hincado"
-    },
-    {
-      "area": "BARRANQUITAS",
       "zone": "PALO HINCADO"
     }
   ],
@@ -79,7 +75,12 @@
   "CAMUY": [],
   "CANDELARIA": [],
   "CANDELARIA ARENAS": [],
-  "CANOVANAS": [],
+  "CANOVANAS": [
+    {
+      "area": "CANOVANAS",
+      "zone": "Bo. Torrecilla Alta"
+    }
+  ],
   "CANÓVANAS": [],
   "CAROLINA": [
     {
@@ -139,10 +140,6 @@
     {
       "area": "DORADO",
       "zone": "BO RIO LAJAS"
-    },
-    {
-      "area": "DORADO",
-      "zone": "Bo. Mameyal"
     },
     {
       "area": "DORADO",
@@ -250,10 +247,6 @@
   "MOROVIS": [
     {
       "area": "MOROVIS",
-      "zone": "BO CUCHILLAS"
-    },
-    {
-      "area": "MOROVIS",
       "zone": "BO MOROVIS NORTE"
     },
     {
@@ -355,15 +348,15 @@
     },
     {
       "area": "SAN JUAN",
-      "zone": "URB EL PARAISO"
-    },
-    {
-      "area": "SAN JUAN",
       "zone": "URB LAS LOMAS"
     },
     {
       "area": "SAN JUAN",
       "zone": "URB LEVITTOWN"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "URB REP METROPOLITANO"
     },
     {
       "area": "SAN JUAN",
@@ -383,12 +376,25 @@
   "SAN SEBASTIAN": [],
   "SAN SEBASTIÁN": [],
   "SANTA BARBARA": [],
-  "SANTA ISABEL": [],
+  "SANTA ISABEL": [
+    {
+      "area": "SANTA ISABEL",
+      "zone": "BO OLLAS"
+    },
+    {
+      "area": "SANTA ISABEL",
+      "zone": "BO OLLAS SITIO BALCANES"
+    }
+  ],
   "SANTURCE": [],
   "TOA ALTA": [
     {
       "area": "TOA ALTA",
       "zone": "BO GALATEO SECTOR VILLA JOSCO"
+    },
+    {
+      "area": "TOA ALTA",
+      "zone": "Bo. Pinas"
     }
   ],
   "TOA BAJA": [
@@ -470,5 +476,5 @@
       "zone": "BO SUSUA BAJA"
     }
   ],
-  "timestamp_saved": "08/02/2023 10:30 AM"
+  "timestamp_saved": "08/02/2023 10:35 AM"
 }
