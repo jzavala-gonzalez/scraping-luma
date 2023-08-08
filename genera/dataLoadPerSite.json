@@ -195,13 +195,13 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 451,
+    "SiteTotal": 450,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
         "MW": 251,
-        "MVar": "60",
+        "MVar": "59",
         "Cost": 4.4,
         "ParentId": "6"
       },
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 391,
+    "SiteTotal": 395,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 171,
-        "MVar": "38",
-        "Cost": 11.38,
+        "MW": 170,
+        "MVar": "40",
+        "Cost": 11.36,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 91,
-        "MVar": "45",
-        "Cost": 11.38,
+        "MW": 98,
+        "MVar": "46",
+        "Cost": 11.36,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
         "MW": 129,
-        "MVar": "56",
-        "Cost": 11.38,
+        "MVar": "55",
+        "Cost": 11.36,
         "ParentId": "7"
       }
     ]
@@ -251,14 +251,14 @@
     "Index": "8",
     "Type": "Turbina de Gas",
     "Desc": "Estaciones GT",
-    "SiteTotal": 117,
+    "SiteTotal": 116,
     "units": [
       {
         "Index": "0",
         "Unit": "Palo Seco",
-        "MW": 117,
+        "MW": 116,
         "MVar": "0",
-        "Cost": 7.11,
+        "Cost": 7.09,
         "ParentId": "8"
       },
       {
@@ -306,14 +306,14 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 18.19,
+        "Cost": 18.22,
         "ParentId": "8"
       },
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
         "MW": 154,
-        "MVar": "19",
+        "MVar": "17",
         "Cost": 0,
         "ParentId": "8"
       },
@@ -410,15 +410,15 @@
         "Unit": "CTG 5",
         "MW": 125,
         "MVar": "37",
-        "Cost": 8.77,
+        "Cost": 20.51,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 43,
-        "MVar": "8",
-        "Cost": 8.77,
+        "MVar": "9",
+        "Cost": 20.51,
         "ParentId": "11"
       },
       {
@@ -458,7 +458,7 @@
         "Unit": "Gas 2",
         "MW": 30,
         "MVar": "0",
-        "Cost": 30.6,
+        "Cost": 31.23,
         "ParentId": "12"
       },
       {
@@ -562,7 +562,7 @@
         "Unit": "Unit 9",
         "MW": 72,
         "MVar": "11",
-        "Cost": 19.27,
+        "Cost": 19.28,
         "ParentId": "14"
       },
       {
@@ -610,7 +610,7 @@
         "Unit": "Unit 4",
         "MW": 120,
         "MVar": "26",
-        "Cost": 16.34,
+        "Cost": 16.33,
         "ParentId": "15"
       }
     ]
@@ -619,7 +619,7 @@
     "Index": "16",
     "Type": "Vapor",
     "Desc": "Aguirre",
-    "SiteTotal": 230,
+    "SiteTotal": 229,
     "units": [
       {
         "Index": "0",
@@ -632,9 +632,9 @@
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 230,
-        "MVar": "133",
-        "Cost": 18.19,
+        "MW": 229,
+        "MVar": "134",
+        "Cost": 18.22,
         "ParentId": "16"
       }
     ]
@@ -674,7 +674,7 @@
         "Unit": "Unit 6",
         "MW": 350,
         "MVar": "78",
-        "Cost": 11.64,
+        "Cost": 11.63,
         "ParentId": "17"
       }
     ]
@@ -779,12 +779,12 @@
     "Index": "21",
     "Type": "Turbina de Gas",
     "Desc": "Palo Seco",
-    "SiteTotal": 67,
+    "SiteTotal": 66,
     "units": [
       {
         "Index": "0",
         "Unit": "CT Block 1",
-        "MW": 34,
+        "MW": 33,
         "MVar": "0",
         "Cost": 26,
         "ParentId": "21"
@@ -810,7 +810,7 @@
         "Unit": "GT1",
         "MW": 19,
         "MVar": "0",
-        "Cost": 25.85,
+        "Cost": 25.91,
         "ParentId": "21"
       },
       {
@@ -834,7 +834,7 @@
         "Unit": "GT4",
         "MW": 0,
         "MVar": "0",
-        "Cost": 23.26,
+        "Cost": 23.4,
         "ParentId": "21"
       },
       {
