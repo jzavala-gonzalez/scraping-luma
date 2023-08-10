@@ -1,5 +1,5 @@
-const timestamp_saved = '08/10/2023 02:00 PM';
-const dataFechaAcualizado = '8/10/2023' + ' 9:55:43 AM';
+const timestamp_saved = '08/10/2023 02:05 PM';
+const dataFechaAcualizado = '8/10/2023' + ' 10:00:43 AM';
 const dataFuelCost = [
 	{place: 'San Juan', value: 100},
 	{place: 'San Juan CC', value: 144},
@@ -85,16 +85,16 @@ const dataLoadPerSite = [
 			{Index:'2', Unit:'STG', MW: 142, MVar:'59', Cost:10.84, ParentId: '7'},
 		]
 	},
-	{Index:'8', Type:'Turbina de Gas', Desc:'Estaciones GT', SiteTotal: 85,
+	{Index:'8', Type:'Turbina de Gas', Desc:'Estaciones GT', SiteTotal: 84,
 		units:[
-			{Index:'0', Unit:'Palo Seco', MW: 85, MVar:'0', Cost:8.98, ParentId: '8'},
+			{Index:'0', Unit:'Palo Seco', MW: 84, MVar:'0', Cost:9.02, ParentId: '8'},
 			{Index:'1', Unit:'Vega Baja', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'2', Unit:'Costa Sur', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'3', Unit:'Jobos', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'4', Unit:'Daguao', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'5', Unit:'Yabucoa', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'6', Unit:'Aguirre', MW: 0, MVar:'0', Cost:17.37, ParentId: '8'},
-			{Index:'7', Unit:'FEMA GT PS', MW: 145, MVar:'31', Cost:0, ParentId: '8'},
+			{Index:'7', Unit:'FEMA GT PS', MW: 145, MVar:'30', Cost:0, ParentId: '8'},
 			{Index:'8', Unit:'FEMA GT SJ', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 		]
 	},
@@ -113,11 +113,11 @@ const dataLoadPerSite = [
 			{Index:'2', Unit:'Gas 3', MW: 51, MVar:'6', Cost:30.99, ParentId: '10'},
 		]
 	},
-	{Index:'11', Type:'Ciclo Combinado', Desc:'San Juan', SiteTotal: 391,
+	{Index:'11', Type:'Ciclo Combinado', Desc:'San Juan', SiteTotal: 392,
 		units:[
-			{Index:'0', Unit:'CTG 5', MW: 140, MVar:'42', Cost:20.15, ParentId: '11'},
-			{Index:'1', Unit:'STG 5', MW: 47, MVar:'9', Cost:20.15, ParentId: '11'},
-			{Index:'2', Unit:'CTG 6', MW: 153, MVar:'0', Cost:8.12, ParentId: '11'},
+			{Index:'0', Unit:'CTG 5', MW: 140, MVar:'42', Cost:20.10, ParentId: '11'},
+			{Index:'1', Unit:'STG 5', MW: 47, MVar:'9', Cost:20.10, ParentId: '11'},
+			{Index:'2', Unit:'CTG 6', MW: 154, MVar:'0', Cost:8.12, ParentId: '11'},
 			{Index:'3', Unit:'STG 6', MW: 50, MVar:'11', Cost:8.12, ParentId: '11'},
 		]
 	},
