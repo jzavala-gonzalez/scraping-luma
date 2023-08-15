@@ -134,15 +134,17 @@
   ],
   "FLORIDA": [],
   "GUANICA": [],
-  "GUAYAMA": [],
+  "GUAYAMA": [
+    {
+      "area": "GUAYAMA",
+      "zone": "JOBOS"
+    }
+  ],
   "GUAYANILLA": [],
   "GUAYNABO": [
     {
       "area": "GUAYNABO",
       "zone": "Urb. Caparra Hills"
-    },
-    {
-      "area": "GUAYNABO"
     }
   ],
   "GURABO": [
@@ -245,7 +247,20 @@
     }
   ],
   "PEÑUELAS": [],
-  "PONCE": [],
+  "PONCE": [
+    {
+      "area": "PONCE",
+      "zone": "SABANETAS"
+    },
+    {
+      "area": "PONCE",
+      "zone": "URB ALTAVISTA"
+    },
+    {
+      "area": "PONCE",
+      "zone": "Urb. Los Almendros"
+    }
+  ],
   "PUERTO NUEVO": [],
   "PUERTO REAL": [],
   "PUNTA SANTIAGO": [],
@@ -343,10 +358,6 @@
   "SAN SEBASTIAN": [
     {
       "area": "SAN SEBASTIAN",
-      "zone": "BO.SALTOS/MANSIONES VILLA LEE"
-    },
-    {
-      "area": "SAN SEBASTIAN",
       "zone": "GUATEMALA"
     }
   ],
@@ -384,14 +395,13 @@
     {
       "area": "UTUADO",
       "zone": "BO TETUAN-SECT TETUAN II"
-    }
-  ],
-  "VEGA ALTA": [
+    },
     {
-      "area": "VEGA ALTA",
-      "zone": "BAJURA"
+      "area": "UTUADO",
+      "zone": "UTUADO"
     }
   ],
+  "VEGA ALTA": [],
   "VEGA BAJA": [],
   "VIEQUES": [],
   "VILLALBA": [
@@ -407,5 +417,5 @@
     }
   ],
   "YAUCO": [],
-  "timestamp_saved": "08/15/2023 09:50 PM"
+  "timestamp_saved": "08/15/2023 09:56 PM"
 }
