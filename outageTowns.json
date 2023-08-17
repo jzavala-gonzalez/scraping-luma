@@ -54,6 +54,10 @@
   "BAYAMON": [
     {
       "area": "BAYAMON",
+      "zone": "BO BUENA VISTA SEC LOS NIEVES"
+    },
+    {
+      "area": "BAYAMON",
       "zone": "BO MINILLAS SEC PEPE TORRES"
     },
     {
@@ -90,6 +94,10 @@
     },
     {
       "area": "CAGUAS",
+      "zone": "URB BOSQUE DE LA SIERRA"
+    },
+    {
+      "area": "CAGUAS",
       "zone": "URB BOSQUES DE LA SIERRA"
     }
   ],
@@ -107,28 +115,28 @@
     {
       "area": "CAROLINA",
       "zone": "CANGREJO ARRIBA"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "COND PINE GROVE"
     }
   ],
   "CATANO": [],
   "CATAÑO": [],
   "CAYEY": [],
   "CEIBA": [],
-  "CIALES": [
-    {
-      "area": "CIALES",
-      "zone": "BO FRONTON"
-    }
-  ],
+  "CIALES": [],
   "CIDRA": [],
   "COAMO": [],
   "COCO": [],
   "COMERIO": [],
   "COMERÍO": [],
-  "COROZAL": [],
+  "COROZAL": [
+    {
+      "area": "COROZAL",
+      "zone": "BO CUCHILLAS SECT LOS COCOS"
+    },
+    {
+      "area": "COROZAL",
+      "zone": "BO PADILLA ERMITA"
+    }
+  ],
   "CULEBRA": [],
   "DORADO": [
     {
@@ -145,23 +153,15 @@
   "GUAYNABO": [
     {
       "area": "GUAYNABO",
-      "zone": "Ave. San Patricio"
-    },
-    {
-      "area": "GUAYNABO",
-      "zone": "Bo. Frailes"
-    },
-    {
-      "area": "GUAYNABO",
       "zone": "Casco Urbano Guaynabo"
     },
     {
       "area": "GUAYNABO",
-      "zone": "Res. Jardines De Guaynabo"
+      "zone": "Urb. Colinas Metropolitanas"
     },
     {
       "area": "GUAYNABO",
-      "zone": "Urb. Colinas Metropolitanas"
+      "zone": "Urb. Sierra Berdecia"
     }
   ],
   "GURABO": [
@@ -178,7 +178,12 @@
   "HATILLO": [],
   "HATO REY": [],
   "HORMIGUEROS": [],
-  "HUMACAO": [],
+  "HUMACAO": [
+    {
+      "area": "HUMACAO",
+      "zone": "PARC MARTINEZ--26021"
+    }
+  ],
   "INGENIO": [],
   "ISABEL SEGUNDA": [],
   "ISABELA": [
@@ -191,7 +196,12 @@
     }
   ],
   "JAYUYA": [],
-  "JUANA DIAZ": [],
+  "JUANA DIAZ": [
+    {
+      "area": "JUANA DIAZ",
+      "zone": "BO JACAGUAS - URB LAS QUINTAS"
+    }
+  ],
   "JUANA DÍAZ": [],
   "JUNCOS": [],
   "LAJAS": [],
@@ -213,6 +223,10 @@
     {
       "area": "LOIZA",
       "zone": "Bo. Mediania Alta"
+    },
+    {
+      "area": "LOIZA",
+      "zone": "VILLA CRISTIANA"
     }
   ],
   "LOÍZA": [],
@@ -220,19 +234,11 @@
   "MANATI": [
     {
       "area": "MANATI",
-      "zone": "BO ALTAGRACIA 102"
+      "zone": "MANATI"
     },
     {
       "area": "MANATI",
       "zone": "RIO ARRIBA PONIENTE"
-    },
-    {
-      "area": "MANATI",
-      "zone": "URB ATENAS"
-    },
-    {
-      "area": "MANATI",
-      "zone": "Urb. Atenas"
     }
   ],
   "MANATÍ": [],
@@ -252,10 +258,6 @@
     }
   ],
   "MOROVIS": [
-    {
-      "area": "MOROVIS",
-      "zone": "Bo. Pastos"
-    },
     {
       "area": "MOROVIS",
       "zone": "RIO GRANDE"
@@ -284,6 +286,10 @@
     {
       "area": "OROCOVIS",
       "zone": "Bo. Gato"
+    },
+    {
+      "area": "OROCOVIS",
+      "zone": "EL GATO"
     }
   ],
   "PAJAROS": [],
@@ -322,6 +328,10 @@
   ],
   "RINCÓN": [],
   "RIO GRANDE": [
+    {
+      "area": "RIO GRANDE",
+      "zone": "Bo. Cienaga Baja"
+    },
     {
       "area": "RIO GRANDE",
       "zone": "PORTALES DE RIO GRANDE"
@@ -402,10 +412,6 @@
     {
       "area": "SAN JUAN",
       "zone": "URB SAN GERARDO"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "Urb. Caldas"
     }
   ],
   "SAN LORENZO": [
@@ -414,7 +420,12 @@
       "zone": "BO CERRO GORDO"
     }
   ],
-  "SAN SEBASTIAN": [],
+  "SAN SEBASTIAN": [
+    {
+      "area": "SAN SEBASTIAN",
+      "zone": "BO SALTOS"
+    }
+  ],
   "SAN SEBASTIÁN": [],
   "SANTA BARBARA": [],
   "SANTA ISABEL": [
@@ -425,10 +436,6 @@
   ],
   "SANTURCE": [],
   "TOA ALTA": [
-    {
-      "area": "TOA ALTA",
-      "zone": "BO PI¬AS/SECT LA PRA"
-    },
     {
       "area": "TOA ALTA",
       "zone": "DETRAS CENTRO SALUD FAMILIAR"
@@ -466,19 +473,10 @@
   "VEGA ALTA": [
     {
       "area": "VEGA ALTA",
-      "zone": "Bo. Cieneguita"
-    },
-    {
-      "area": "VEGA ALTA",
       "zone": "MARICAO"
     }
   ],
-  "VEGA BAJA": [
-    {
-      "area": "VEGA BAJA",
-      "zone": "BO MINI MINI MED. ALTA CALCANO"
-    }
-  ],
+  "VEGA BAJA": [],
   "VIEQUES": [],
   "VILLALBA": [
     {
@@ -488,5 +486,5 @@
   ],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "08/17/2023 06:01 PM"
+  "timestamp_saved": "08/17/2023 06:05 PM"
 }
