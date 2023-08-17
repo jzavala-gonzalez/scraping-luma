@@ -48,10 +48,6 @@
     },
     {
       "area": "AGUAS BUENAS",
-      "zone": "Bo. Juan Asencio"
-    },
-    {
-      "area": "AGUAS BUENAS",
       "zone": "Bo. Sumidero"
     }
   ],
@@ -139,7 +135,12 @@
   "ESTANCIAS DE FLORIDA": [],
   "FAJARDO": [],
   "FLORIDA": [],
-  "GUANICA": [],
+  "GUANICA": [
+    {
+      "area": "GUANICA",
+      "zone": "MONTALVA"
+    }
+  ],
   "GUAYAMA": [],
   "GUAYANILLA": [],
   "GUAYNABO": [
@@ -159,12 +160,7 @@
     }
   ],
   "GUÁNICA": [],
-  "HATILLO": [
-    {
-      "area": "HATILLO",
-      "zone": "BAYANEY"
-    }
-  ],
+  "HATILLO": [],
   "HATO REY": [],
   "HORMIGUEROS": [],
   "HUMACAO": [],
@@ -219,15 +215,32 @@
     {
       "area": "MOCA",
       "zone": "MARIAS III/REF NEG LA SOCIA"
+    },
+    {
+      "area": "MOCA",
+      "zone": "NARANJO SEGUI"
     }
   ],
   "MOROVIS": [],
   "NAGUABO": [],
-  "NARANJITO": [],
+  "NARANJITO": [
+    {
+      "area": "NARANJITO",
+      "zone": "Bo. Cedro Arriba"
+    },
+    {
+      "area": "NARANJITO",
+      "zone": "CEDRO ARRIBA-SECT FERRER"
+    }
+  ],
   "OROCOVIS": [
     {
       "area": "OROCOVIS",
-      "zone": "BO CACAO-HACIENDA"
+      "zone": "Bo. Cacao Alturitas"
+    },
+    {
+      "area": "OROCOVIS",
+      "zone": "Bo. Cacao Hacienda"
     },
     {
       "area": "OROCOVIS",
@@ -236,12 +249,7 @@
   ],
   "PAJAROS": [],
   "PATILLAS": [],
-  "PENUELAS": [
-    {
-      "area": "PENUELAS",
-      "zone": "Bo. Rucio"
-    }
-  ],
+  "PENUELAS": [],
   "PEÑUELAS": [],
   "PONCE": [
     {
@@ -277,12 +285,7 @@
   "SABANA SECA": [],
   "SALINAS": [],
   "SAN ANTONIO": [],
-  "SAN GERMAN": [
-    {
-      "area": "SAN GERMAN",
-      "zone": "Bo. Rosario Alto"
-    }
-  ],
+  "SAN GERMAN": [],
   "SAN GERMÁN": [],
   "SAN ISIDRO": [],
   "SAN JUAN": [
@@ -321,6 +324,10 @@
     {
       "area": "SAN JUAN",
       "zone": "URB LAS LOMAS"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "URB VENUS GARDENS"
     }
   ],
   "SAN LORENZO": [
@@ -376,6 +383,10 @@
     },
     {
       "area": "VEGA ALTA",
+      "zone": "Bo. Candelaria"
+    },
+    {
+      "area": "VEGA ALTA",
       "zone": "Bo. Maricao"
     },
     {
@@ -416,5 +427,5 @@
   "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "08/17/2023 10:46 PM"
+  "timestamp_saved": "08/17/2023 10:50 PM"
 }
