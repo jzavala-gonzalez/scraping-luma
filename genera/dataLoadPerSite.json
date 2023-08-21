@@ -200,17 +200,17 @@
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 255,
+        "MW": 254,
         "MVar": "68",
-        "Cost": 4.38,
+        "Cost": 4.4,
         "ParentId": "6"
       },
       {
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 200,
-        "MVar": "76",
-        "Cost": 4.38,
+        "MVar": "77",
+        "Cost": 4.4,
         "ParentId": "6"
       }
     ]
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 451,
+    "SiteTotal": 450,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 173,
-        "MVar": "59",
-        "Cost": 10.58,
+        "MW": 172,
+        "MVar": "60",
+        "Cost": 10.56,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
         "MW": 134,
-        "MVar": "37",
-        "Cost": 10.58,
+        "MVar": "38",
+        "Cost": 10.56,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
         "MW": 143,
-        "MVar": "60",
-        "Cost": 10.58,
+        "MVar": "58",
+        "Cost": 10.56,
         "ParentId": "7"
       }
     ]
@@ -306,14 +306,14 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 17.25,
+        "Cost": 17.32,
         "ParentId": "8"
       },
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
         "MW": 144,
-        "MVar": "37",
+        "MVar": "36",
         "Cost": 0,
         "ParentId": "8"
       },
@@ -346,7 +346,7 @@
         "Unit": "Gas 2",
         "MW": 25,
         "MVar": "0",
-        "Cost": 26.09,
+        "Cost": 26.16,
         "ParentId": "9"
       },
       {
@@ -371,7 +371,7 @@
     "Index": "10",
     "Type": "Turbina de Gas",
     "Desc": "Cambalache",
-    "SiteTotal": 103,
+    "SiteTotal": 102,
     "units": [
       {
         "Index": "0",
@@ -386,7 +386,7 @@
         "Unit": "Gas 2",
         "MW": 51,
         "MVar": "13",
-        "Cost": 31.08,
+        "Cost": 30.91,
         "ParentId": "10"
       },
       {
@@ -394,7 +394,7 @@
         "Unit": "Gas 3",
         "MW": 51,
         "MVar": "8",
-        "Cost": 31.13,
+        "Cost": 31.06,
         "ParentId": "10"
       }
     ]
@@ -409,8 +409,8 @@
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 157,
-        "MVar": "46",
-        "Cost": 19.72,
+        "MVar": "48",
+        "Cost": 19.73,
         "ParentId": "11"
       },
       {
@@ -418,7 +418,7 @@
         "Unit": "STG 5",
         "MW": 53,
         "MVar": "11",
-        "Cost": 19.72,
+        "Cost": 19.73,
         "ParentId": "11"
       },
       {
@@ -426,7 +426,7 @@
         "Unit": "CTG 6",
         "MW": 159,
         "MVar": "0",
-        "Cost": 8.12,
+        "Cost": 8.13,
         "ParentId": "11"
       },
       {
@@ -434,7 +434,7 @@
         "Unit": "STG 6",
         "MW": 51,
         "MVar": "10",
-        "Cost": 8.12,
+        "Cost": 8.13,
         "ParentId": "11"
       }
     ]
@@ -443,14 +443,14 @@
     "Index": "12",
     "Type": "Ciclo Combinado",
     "Desc": "Aguirre Stag 1",
-    "SiteTotal": 1,
+    "SiteTotal": 0,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 1,
-        "MVar": "1",
-        "Cost": 27.3,
+        "MW": 0,
+        "MVar": "0",
+        "Cost": 0,
         "ParentId": "12"
       },
       {
@@ -539,7 +539,7 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 71,
+    "SiteTotal": 72,
     "units": [
       {
         "Index": "0",
@@ -560,9 +560,9 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 71,
-        "MVar": "5",
-        "Cost": 19.45,
+        "MW": 72,
+        "MVar": "4",
+        "Cost": 19.05,
         "ParentId": "14"
       },
       {
@@ -601,8 +601,8 @@
         "Index": "2",
         "Unit": "Unit 3",
         "MW": 130,
-        "MVar": "68",
-        "Cost": 17.34,
+        "MVar": "67",
+        "Cost": 17.36,
         "ParentId": "15"
       },
       {
@@ -619,7 +619,7 @@
     "Index": "16",
     "Type": "Vapor",
     "Desc": "Aguirre",
-    "SiteTotal": 274,
+    "SiteTotal": 263,
     "units": [
       {
         "Index": "0",
@@ -632,9 +632,9 @@
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 274,
-        "MVar": "153",
-        "Cost": 17.25,
+        "MW": 263,
+        "MVar": "151",
+        "Cost": 17.32,
         "ParentId": "16"
       }
     ]
@@ -673,8 +673,8 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 354,
-        "MVar": "82",
-        "Cost": 9.17,
+        "MVar": "81",
+        "Cost": 9.19,
         "ParentId": "17"
       }
     ]
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 33,
+    "SiteTotal": 31,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 33,
+        "MW": 31,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
