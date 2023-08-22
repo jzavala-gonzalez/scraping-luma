@@ -69,10 +69,6 @@
     },
     {
       "area": "BAYAMON",
-      "zone": "Carr 174 Guaraguao Bayamon"
-    },
-    {
-      "area": "BAYAMON",
       "zone": "Casco Urbano Bayamon"
     },
     {
@@ -108,7 +104,12 @@
   "CAMUY": [],
   "CANDELARIA": [],
   "CANDELARIA ARENAS": [],
-  "CANOVANAS": [],
+  "CANOVANAS": [
+    {
+      "area": "CANOVANAS",
+      "zone": "CANOVANAS"
+    }
+  ],
   "CANÓVANAS": [],
   "CAROLINA": [
     {
@@ -261,11 +262,15 @@
     },
     {
       "area": "MAYAGUEZ",
-      "zone": "URB LOS VERSALLES"
+      "zone": "SABANETAS"
     },
     {
       "area": "MAYAGUEZ",
       "zone": "URB MIRADERO HILLS"
+    },
+    {
+      "area": "MAYAGUEZ",
+      "zone": "URB PARQUE FORESTAL"
     }
   ],
   "MAYAGÜEZ": [],
@@ -280,10 +285,6 @@
     {
       "area": "NARANJITO",
       "zone": "Bo. Cedro Abajo"
-    },
-    {
-      "area": "NARANJITO",
-      "zone": "Bo. Cedro Arriba"
     }
   ],
   "OROCOVIS": [],
@@ -418,10 +419,6 @@
     {
       "area": "YABUCOA",
       "zone": "Parc. Camino Nuevo"
-    },
-    {
-      "area": "YABUCOA",
-      "zone": "Sector Jacanas Granja"
     }
   ],
   "YAUCO": [
@@ -430,5 +427,5 @@
       "zone": "BO RANCHERAS SECTOR FERRER"
     }
   ],
-  "timestamp_saved": "08/22/2023 03:01 PM"
+  "timestamp_saved": "08/22/2023 03:06 PM"
 }
