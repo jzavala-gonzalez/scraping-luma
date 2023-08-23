@@ -35,10 +35,6 @@
   "ARECIBO": [
     {
       "area": "ARECIBO",
-      "zone": "FACTOR"
-    },
-    {
-      "area": "ARECIBO",
       "zone": "FACTOR 1"
     }
   ],
@@ -80,10 +76,6 @@
     {
       "area": "CAGUAS",
       "zone": "BO TOMAS DE CASTRO 2"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "TOMAS DE CASTRO CAGUAS"
     },
     {
       "area": "CAGUAS",
@@ -227,7 +219,12 @@
   "MAYAGÜEZ": [],
   "MOCA": [],
   "MOROVIS": [],
-  "NAGUABO": [],
+  "NAGUABO": [
+    {
+      "area": "NAGUABO",
+      "zone": "DUQUE"
+    }
+  ],
   "NARANJITO": [],
   "OROCOVIS": [],
   "PAJAROS": [],
@@ -264,11 +261,19 @@
     },
     {
       "area": "SAN JUAN",
-      "zone": "CUPEY ALTO"
+      "zone": "GARDEN VALLEY CLUB"
     },
     {
       "area": "SAN JUAN",
       "zone": "GOBERNADOR PIÑERO"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "PASEO REAL"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "PDA 19"
     }
   ],
   "SAN LORENZO": [
@@ -291,14 +296,14 @@
   "SANTA ISABEL": [],
   "SANTURCE": [],
   "TOA ALTA": [],
-  "TOA BAJA": [],
-  "TRUJILLO ALTO": [],
-  "UTUADO": [
+  "TOA BAJA": [
     {
-      "area": "UTUADO",
-      "zone": "TETUAN"
+      "area": "TOA BAJA",
+      "zone": "URB MANSION DEL SOL"
     }
   ],
+  "TRUJILLO ALTO": [],
+  "UTUADO": [],
   "VEGA ALTA": [
     {
       "area": "VEGA ALTA",
@@ -315,5 +320,5 @@
   "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "08/23/2023 09:50 PM"
+  "timestamp_saved": "08/23/2023 09:56 PM"
 }
