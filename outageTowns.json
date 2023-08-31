@@ -111,10 +111,6 @@
     },
     {
       "area": "CAROLINA",
-      "zone": "GARDEN VIEW"
-    },
-    {
-      "area": "CAROLINA",
       "zone": "URB BAHIA VISTAMAR"
     },
     {
@@ -144,7 +140,12 @@
   ],
   "CEIBA": [],
   "CIALES": [],
-  "CIDRA": [],
+  "CIDRA": [
+    {
+      "area": "CIDRA",
+      "zone": "BO BEATRIZ"
+    }
+  ],
   "COAMO": [],
   "COCO": [],
   "COMERIO": [],
@@ -255,10 +256,6 @@
     {
       "area": "MAYAGUEZ",
       "zone": "LA QUINTA"
-    },
-    {
-      "area": "MAYAGUEZ",
-      "zone": "Sector Rio Canas Arrib"
     }
   ],
   "MAYAGÜEZ": [],
@@ -339,11 +336,11 @@
   "SAN JUAN": [
     {
       "area": "SAN JUAN",
-      "zone": "CAIMITO"
+      "zone": "Bo. Caimito Alto"
     },
     {
       "area": "SAN JUAN",
-      "zone": "GOBERNADOR PIÑERO"
+      "zone": "CAIMITO"
     },
     {
       "area": "SAN JUAN",
@@ -367,6 +364,10 @@
   "SAN SEBASTIAN": [
     {
       "area": "SAN SEBASTIAN",
+      "zone": "Bo. Altozano"
+    },
+    {
+      "area": "SAN SEBASTIAN",
       "zone": "Bo. Mirabales"
     },
     {
@@ -380,12 +381,21 @@
   ],
   "SAN SEBASTIÁN": [],
   "SANTA BARBARA": [],
-  "SANTA ISABEL": [],
+  "SANTA ISABEL": [
+    {
+      "area": "SANTA ISABEL",
+      "zone": "PRADERAS DEL SUR F 16"
+    }
+  ],
   "SANTURCE": [],
   "TOA ALTA": [
     {
       "area": "TOA ALTA",
       "zone": "LAS ACEROLAS"
+    },
+    {
+      "area": "TOA ALTA",
+      "zone": "Urb. Toa Alta Heights"
     }
   ],
   "TOA BAJA": [
@@ -443,5 +453,5 @@
     }
   ],
   "YAUCO": [],
-  "timestamp_saved": "08/31/2023 07:51 PM"
+  "timestamp_saved": "08/31/2023 07:56 PM"
 }
