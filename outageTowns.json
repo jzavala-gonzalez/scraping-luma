@@ -17,6 +17,10 @@
     },
     {
       "area": "AGUADILLA",
+      "zone": "Bo. Camaseyes"
+    },
+    {
+      "area": "AGUADILLA",
       "zone": "URB VILLA MARBELLA"
     }
   ],
@@ -28,10 +32,20 @@
       "zone": "Bo. Cerro Gordo"
     }
   ],
-  "ARECIBO": [],
+  "ARECIBO": [
+    {
+      "area": "ARECIBO",
+      "zone": "URB LOS PINOS"
+    }
+  ],
   "ARROYO": [],
   "AÑASCO": [],
-  "BARCELONETA": [],
+  "BARCELONETA": [
+    {
+      "area": "BARCELONETA",
+      "zone": "BZN 45 PUNTA PALMAS"
+    }
+  ],
   "BARRANQUITAS": [],
   "BAYAMON": [
     {
@@ -42,6 +56,10 @@
   "BAYAMÓN": [],
   "CABO ROJO": [],
   "CAGUAS": [
+    {
+      "area": "CAGUAS",
+      "zone": "Bo. San Antonio"
+    },
     {
       "area": "CAGUAS",
       "zone": "Bo. Tomas De Castro II"
@@ -62,14 +80,6 @@
   "CANOVANAS": [],
   "CANÓVANAS": [],
   "CAROLINA": [
-    {
-      "area": "CAROLINA",
-      "zone": "COND GOLDEN BEACH"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "URB V ARRIBA HGTS"
-    },
     {
       "area": "CAROLINA",
       "zone": "URB VISTAMAR"
@@ -127,31 +137,27 @@
     },
     {
       "area": "FAJARDO",
-      "zone": "URB ALTS DE SAN PEDRO"
-    },
-    {
-      "area": "FAJARDO",
       "zone": "Urb. Marines"
-    },
-    {
-      "area": "FAJARDO",
-      "zone": "Urb. Veve Calzada"
     }
   ],
   "FLORIDA": [],
   "GUANICA": [],
   "GUAYAMA": [],
-  "GUAYANILLA": [],
-  "GUAYNABO": [
+  "GUAYANILLA": [
     {
-      "area": "GUAYNABO",
-      "zone": "Urb. Munoz Rivera"
+      "area": "GUAYANILLA",
+      "zone": "Bo. Quebradas"
     }
   ],
+  "GUAYNABO": [],
   "GURABO": [
     {
       "area": "GURABO",
       "zone": "URB MONTE SUBASIO"
+    },
+    {
+      "area": "GURABO",
+      "zone": "Urb. Reina De Los Ánge"
     }
   ],
   "GUÁNICA": [],
@@ -182,16 +188,16 @@
     {
       "area": "JUANA DIAZ",
       "zone": "JARD JACAGUAX"
+    },
+    {
+      "area": "JUANA DIAZ",
+      "zone": "URB LA FE"
     }
   ],
   "JUANA DÍAZ": [],
   "JUNCOS": [],
   "LAJAS": [],
   "LARES": [
-    {
-      "area": "LARES",
-      "zone": "BARTOLO"
-    },
     {
       "area": "LARES",
       "zone": "Bo. Bartolo"
@@ -211,15 +217,11 @@
   "LUQUILLO": [
     {
       "area": "LUQUILLO",
-      "zone": "BO PITAHAYA"
-    },
-    {
-      "area": "LUQUILLO",
       "zone": "Bo. Rio Chiquito"
     },
     {
       "area": "LUQUILLO",
-      "zone": "POZO DEL MAR/OCEAN DRIVE"
+      "zone": "Urb. Colinas De Luquil"
     }
   ],
   "MANATI": [
@@ -268,7 +270,23 @@
     },
     {
       "area": "PONCE",
+      "zone": "Casco Urbano Ponce"
+    },
+    {
+      "area": "PONCE",
+      "zone": "RES DR PILA"
+    },
+    {
+      "area": "PONCE",
       "zone": "URB JAIME L DREW"
+    },
+    {
+      "area": "PONCE",
+      "zone": "URB VILLA PARAISO"
+    },
+    {
+      "area": "PONCE",
+      "zone": "Urb. Constancia"
     },
     {
       "area": "PONCE",
@@ -277,10 +295,6 @@
     {
       "area": "PONCE",
       "zone": "Urb. Villas Del Carmen"
-    },
-    {
-      "area": "PONCE",
-      "zone": "Zona Urbana Ponce"
     }
   ],
   "PUERTO NUEVO": [],
@@ -297,6 +311,10 @@
     {
       "area": "RIO GRANDE",
       "zone": "URB VISTAS DEL MAR"
+    },
+    {
+      "area": "RIO GRANDE",
+      "zone": "VISTAS DE RIO GRANDE"
     }
   ],
   "RIO PIEDRAS": [],
@@ -333,10 +351,6 @@
     },
     {
       "area": "SAN JUAN",
-      "zone": "Sector Morcelo"
-    },
-    {
-      "area": "SAN JUAN",
       "zone": "URB FAIR VIEW"
     },
     {
@@ -354,10 +368,6 @@
     {
       "area": "SAN JUAN",
       "zone": "URB VENUS GARDENS  PED A-42"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "Urb. Country Club 3 Se"
     },
     {
       "area": "SAN JUAN",
@@ -404,7 +414,7 @@
     },
     {
       "area": "TRUJILLO ALTO",
-      "zone": "Urb. Round Hills"
+      "zone": "Urb. Wonderville"
     }
   ],
   "UTUADO": [],
@@ -432,17 +442,17 @@
     },
     {
       "area": "YABUCOA",
+      "zone": "JUAN MARTIN"
+    },
+    {
+      "area": "YABUCOA",
       "zone": "LIMONES"
     },
     {
       "area": "YABUCOA",
       "zone": "Parcelas Ingenio"
-    },
-    {
-      "area": "YABUCOA",
-      "zone": "Urb. Jardines De Yabuc"
     }
   ],
   "YAUCO": [],
-  "timestamp_saved": "09/01/2023 11:16 PM"
+  "timestamp_saved": "09/01/2023 11:21 PM"
 }
