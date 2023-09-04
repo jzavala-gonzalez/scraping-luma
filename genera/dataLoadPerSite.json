@@ -195,12 +195,12 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 454,
+    "SiteTotal": 453,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 254,
+        "MW": 253,
         "MVar": "64",
         "Cost": 4.39,
         "ParentId": "6"
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 426,
+    "SiteTotal": 418,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 144,
-        "MVar": "38",
-        "Cost": 10.72,
+        "MW": 141,
+        "MVar": "37",
+        "Cost": 10.78,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 143,
+        "MW": 140,
         "MVar": "42",
-        "Cost": 10.72,
+        "Cost": 10.78,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 139,
+        "MW": 137,
         "MVar": "54",
-        "Cost": 10.72,
+        "Cost": 10.78,
         "ParentId": "7"
       }
     ]
@@ -306,7 +306,7 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 17.33,
+        "Cost": 17.37,
         "ParentId": "8"
       },
       {
@@ -337,8 +337,8 @@
         "Index": "0",
         "Unit": "Gas 1",
         "MW": 24,
-        "MVar": "3",
-        "Cost": 26.17,
+        "MVar": "2",
+        "Cost": 26.24,
         "ParentId": "9"
       },
       {
@@ -393,8 +393,8 @@
         "Index": "2",
         "Unit": "Gas 3",
         "MW": 51,
-        "MVar": "9",
-        "Cost": 30.98,
+        "MVar": "8",
+        "Cost": 31.06,
         "ParentId": "10"
       }
     ]
@@ -408,17 +408,17 @@
       {
         "Index": "0",
         "Unit": "CTG 5",
-        "MW": 158,
-        "MVar": "47",
-        "Cost": 19.91,
+        "MW": 159,
+        "MVar": "48",
+        "Cost": 19.88,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 52,
-        "MVar": "11",
-        "Cost": 19.91,
+        "MVar": "10",
+        "Cost": 19.88,
         "ParentId": "11"
       },
       {
@@ -561,8 +561,8 @@
         "Index": "2",
         "Unit": "Unit 9",
         "MW": 71,
-        "MVar": "17",
-        "Cost": 19.26,
+        "MVar": "18",
+        "Cost": 19.34,
         "ParentId": "14"
       },
       {
@@ -633,8 +633,8 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 280,
-        "MVar": "136",
-        "Cost": 17.37,
+        "MVar": "134",
+        "Cost": 17.35,
         "ParentId": "16"
       }
     ]
@@ -673,8 +673,8 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 255,
-        "MVar": "62",
-        "Cost": 9.81,
+        "MVar": "60",
+        "Cost": 9.78,
         "ParentId": "17"
       }
     ]
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 0,
+    "SiteTotal": 2,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 0,
+        "MW": 2,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
@@ -699,7 +699,7 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 0,
+    "SiteTotal": 2,
     "units": [
       {
         "Index": "0",
@@ -712,7 +712,7 @@
       {
         "Index": "1",
         "Unit": "Ilumina",
-        "MW": 0,
+        "MW": 1,
         "MVar": "0",
         "Cost": 21.43,
         "ParentId": "19"
@@ -721,7 +721,7 @@
         "Index": "2",
         "Unit": "Horizon",
         "MW": 0,
-        "MVar": "0",
+        "MVar": "1",
         "Cost": 19.6,
         "ParentId": "19"
       },
@@ -737,14 +737,14 @@
         "Index": "4",
         "Unit": "Oriana",
         "MW": 0,
-        "MVar": "3",
+        "MVar": "13",
         "Cost": 19.6,
         "ParentId": "19"
       },
       {
         "Index": "5",
         "Unit": "Fonroche",
-        "MW": 0,
+        "MW": 1,
         "MVar": "0",
         "Cost": 17,
         "ParentId": "19"
