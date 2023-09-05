@@ -23,10 +23,6 @@
     {
       "area": "ARECIBO",
       "zone": "Casco Urbano Arecibo"
-    },
-    {
-      "area": "ARECIBO",
-      "zone": "ESPERANZA"
     }
   ],
   "ARROYO": [
@@ -190,7 +186,12 @@
   "PATILLAS": [],
   "PENUELAS": [],
   "PEÑUELAS": [],
-  "PONCE": [],
+  "PONCE": [
+    {
+      "area": "PONCE",
+      "zone": "BO QUEBRADA LIMON - MARUENO"
+    }
+  ],
   "PUERTO NUEVO": [],
   "PUERTO REAL": [],
   "PUNTA SANTIAGO": [],
@@ -235,10 +236,6 @@
   "SAN SEBASTIAN": [
     {
       "area": "SAN SEBASTIAN",
-      "zone": "BO SONADOR  ALTOSANO"
-    },
-    {
-      "area": "SAN SEBASTIAN",
       "zone": "Bo. Hoyamala"
     }
   ],
@@ -268,16 +265,20 @@
       "zone": "VILLAS DE CANEY"
     }
   ],
-  "UTUADO": [],
+  "UTUADO": [
+    {
+      "area": "UTUADO",
+      "zone": "BO CAGUANA"
+    },
+    {
+      "area": "UTUADO",
+      "zone": "BO RONCADOR"
+    }
+  ],
   "VEGA ALTA": [],
   "VEGA BAJA": [],
   "VIEQUES": [],
-  "VILLALBA": [
-    {
-      "area": "VILLALBA",
-      "zone": "Bo. Palmarejo"
-    }
-  ],
+  "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [
     {
@@ -285,5 +286,5 @@
       "zone": "BO BARINAS LIMA"
     }
   ],
-  "timestamp_saved": "09/05/2023 08:16 PM"
+  "timestamp_saved": "09/05/2023 08:21 PM"
 }
