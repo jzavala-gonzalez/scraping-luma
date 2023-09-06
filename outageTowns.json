@@ -46,7 +46,12 @@
       "zone": "PARC RDEZ OLMO"
     }
   ],
-  "ARROYO": [],
+  "ARROYO": [
+    {
+      "area": "ARROYO",
+      "zone": "BRISAS DEL MAR"
+    }
+  ],
   "AÑASCO": [],
   "BARCELONETA": [],
   "BARRANQUITAS": [],
@@ -54,6 +59,10 @@
     {
       "area": "BAYAMON",
       "zone": "Bo. Los Dominicos"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "Urb. Hermanas Davila"
     },
     {
       "area": "BAYAMON",
@@ -107,19 +116,15 @@
   "CAROLINA": [
     {
       "area": "CAROLINA",
-      "zone": "BASE AÉREA MUÑÍZ"
+      "zone": "Bo. Canovanillas"
     },
     {
       "area": "CAROLINA",
-      "zone": "BO CANOVANILLAS"
+      "zone": "COND RIO VISTA"
     },
     {
       "area": "CAROLINA",
-      "zone": "BO MARTIN GONZALEZ"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "PORTALES DE CAROLINA"
+      "zone": "URB CAROLINA ALTA"
     },
     {
       "area": "CAROLINA",
@@ -127,17 +132,25 @@
     },
     {
       "area": "CAROLINA",
-      "zone": "URB V ARRIBA HGTS"
+      "zone": "URB VILLA CAROLINA"
     },
     {
       "area": "CAROLINA",
-      "zone": "URB VILLA CAROLINA"
+      "zone": "URB VILLA FONTANA"
+    },
+    {
+      "area": "CAROLINA",
+      "zone": "Urb. Metropolis"
     }
   ],
   "CATANO": [
     {
       "area": "CATANO",
       "zone": "COND ANGELI"
+    },
+    {
+      "area": "CATANO",
+      "zone": "Res. Coqui 1"
     },
     {
       "area": "CATANO",
@@ -151,7 +164,12 @@
     }
   ],
   "CAYEY": [],
-  "CEIBA": [],
+  "CEIBA": [
+    {
+      "area": "CEIBA",
+      "zone": "URB JARD DE CEIBA"
+    }
+  ],
   "CIALES": [
     {
       "area": "CIALES",
@@ -172,7 +190,12 @@
   "CULEBRA": [],
   "DORADO": [],
   "ESTANCIAS DE FLORIDA": [],
-  "FAJARDO": [],
+  "FAJARDO": [
+    {
+      "area": "FAJARDO",
+      "zone": "URB MONTE BRISAS"
+    }
+  ],
   "FLORIDA": [],
   "GUANICA": [],
   "GUAYAMA": [],
@@ -183,7 +206,16 @@
       "zone": "MAMEY"
     }
   ],
-  "GURABO": [],
+  "GURABO": [
+    {
+      "area": "GURABO",
+      "zone": "BO. NAVARRO"
+    },
+    {
+      "area": "GURABO",
+      "zone": "PASEO SANTA BARBARA"
+    }
+  ],
   "GUÁNICA": [],
   "HATILLO": [
     {
@@ -193,13 +225,22 @@
   ],
   "HATO REY": [],
   "HORMIGUEROS": [],
-  "HUMACAO": [],
+  "HUMACAO": [
+    {
+      "area": "HUMACAO",
+      "zone": "URB.VILLAS DE CANDELERO//26099"
+    }
+  ],
   "INGENIO": [],
   "ISABEL SEGUNDA": [],
   "ISABELA": [
     {
       "area": "ISABELA",
       "zone": "BDA. RAFOLS"
+    },
+    {
+      "area": "ISABELA",
+      "zone": "BEJUCOS"
     }
   ],
   "JAYUYA": [],
@@ -209,6 +250,14 @@
     {
       "area": "JUNCOS",
       "zone": "Bo. Ceiba Norte"
+    },
+    {
+      "area": "JUNCOS",
+      "zone": "VAL ABAJO FINCAS BONITAS"
+    },
+    {
+      "area": "JUNCOS",
+      "zone": "VAL ABAJO/ENT MARICESI R020"
     }
   ],
   "LAJAS": [],
@@ -245,7 +294,12 @@
     }
   ],
   "MAYAGÜEZ": [],
-  "MOCA": [],
+  "MOCA": [
+    {
+      "area": "MOCA",
+      "zone": "BO CERRO GORDO"
+    }
+  ],
   "MOROVIS": [
     {
       "area": "MOROVIS",
@@ -264,7 +318,16 @@
   "PATILLAS": [],
   "PENUELAS": [],
   "PEÑUELAS": [],
-  "PONCE": [],
+  "PONCE": [
+    {
+      "area": "PONCE",
+      "zone": "COM EL PARAISO"
+    },
+    {
+      "area": "PONCE",
+      "zone": "URB RIO CANAS"
+    }
+  ],
   "PUERTO NUEVO": [],
   "PUERTO REAL": [],
   "PUNTA SANTIAGO": [],
@@ -295,11 +358,31 @@
   "SAN JUAN": [
     {
       "area": "SAN JUAN",
+      "zone": "Ave. Pinero"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "URB PUERTO NUEVO"
     },
     {
       "area": "SAN JUAN",
       "zone": "URB SUMMIT HILLS"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Urb. Caparra Terrace SE"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Urb. Caparra Terrace SO"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Urb. La Riviera"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Urb. Las Lomas"
     }
   ],
   "SAN LORENZO": [],
@@ -322,11 +405,15 @@
   "TOA BAJA": [
     {
       "area": "TOA BAJA",
+      "zone": "LEVITTOWN"
+    },
+    {
+      "area": "TOA BAJA",
       "zone": "LEVITTOWN LAKES"
     },
     {
       "area": "TOA BAJA",
-      "zone": "URB LEVITTOWN"
+      "zone": "URB LEVITTOWN LAKES"
     }
   ],
   "TRUJILLO ALTO": [],
@@ -340,11 +427,7 @@
     {
       "area": "YAUCO",
       "zone": "BARINA"
-    },
-    {
-      "area": "YAUCO",
-      "zone": "Bo. Rancheras"
     }
   ],
-  "timestamp_saved": "09/06/2023 01:11 PM"
+  "timestamp_saved": "09/06/2023 01:16 PM"
 }
