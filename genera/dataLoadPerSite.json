@@ -200,16 +200,16 @@
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 255,
-        "MVar": "72",
+        "MW": 254,
+        "MVar": "71",
         "Cost": 4.39,
         "ParentId": "6"
       },
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 200,
-        "MVar": "76",
+        "MW": 201,
+        "MVar": "75",
         "Cost": 4.39,
         "ParentId": "6"
       }
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 329,
+    "SiteTotal": 320,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 106,
-        "MVar": "49",
-        "Cost": 12.16,
+        "MW": 104,
+        "MVar": "48",
+        "Cost": 12.48,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 106,
+        "MW": 103,
         "MVar": "51",
-        "Cost": 12.16,
+        "Cost": 12.48,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 119,
-        "MVar": "60",
-        "Cost": 12.16,
+        "MW": 116,
+        "MVar": "61",
+        "Cost": 12.48,
         "ParentId": "7"
       }
     ]
@@ -251,14 +251,14 @@
     "Index": "8",
     "Type": "Turbina de Gas",
     "Desc": "Estaciones GT",
-    "SiteTotal": 110,
+    "SiteTotal": 109,
     "units": [
       {
         "Index": "0",
         "Unit": "Palo Seco",
-        "MW": 110,
+        "MW": 109,
         "MVar": "0",
-        "Cost": 7.55,
+        "Cost": 7.51,
         "ParentId": "8"
       },
       {
@@ -306,14 +306,14 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 16.75,
+        "Cost": 16.77,
         "ParentId": "8"
       },
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
-        "MW": 132,
-        "MVar": "35",
+        "MW": 133,
+        "MVar": "34",
         "Cost": 0,
         "ParentId": "8"
       },
@@ -331,7 +331,7 @@
     "Index": "9",
     "Type": "Turbina de Gas",
     "Desc": "Mayaguez",
-    "SiteTotal": 3,
+    "SiteTotal": 0,
     "units": [
       {
         "Index": "0",
@@ -352,9 +352,9 @@
       {
         "Index": "2",
         "Unit": "Gas 3",
-        "MW": 3,
-        "MVar": "1",
-        "Cost": 23.31,
+        "MW": 0,
+        "MVar": "0",
+        "Cost": 0,
         "ParentId": "9"
       },
       {
@@ -371,7 +371,7 @@
     "Index": "10",
     "Type": "Turbina de Gas",
     "Desc": "Cambalache",
-    "SiteTotal": 102,
+    "SiteTotal": 101,
     "units": [
       {
         "Index": "0",
@@ -385,8 +385,8 @@
         "Index": "1",
         "Unit": "Gas 2",
         "MW": 51,
-        "MVar": "11",
-        "Cost": 30.88,
+        "MVar": "10",
+        "Cost": 31.24,
         "ParentId": "10"
       },
       {
@@ -394,7 +394,7 @@
         "Unit": "Gas 3",
         "MW": 51,
         "MVar": "14",
-        "Cost": 31.13,
+        "Cost": 30.97,
         "ParentId": "10"
       }
     ]
@@ -403,22 +403,22 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 329,
+    "SiteTotal": 330,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 123,
-        "MVar": "36",
-        "Cost": 20.45,
+        "MVar": "38",
+        "Cost": 20.36,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 43,
-        "MVar": "9",
-        "Cost": 20.45,
+        "MVar": "8",
+        "Cost": 20.36,
         "ParentId": "11"
       },
       {
@@ -426,15 +426,15 @@
         "Unit": "CTG 6",
         "MW": 123,
         "MVar": "0",
-        "Cost": 8.82,
+        "Cost": 8.79,
         "ParentId": "11"
       },
       {
         "Index": "3",
         "Unit": "STG 6",
-        "MW": 39,
-        "MVar": "9",
-        "Cost": 8.82,
+        "MW": 41,
+        "MVar": "8",
+        "Cost": 8.79,
         "ParentId": "11"
       }
     ]
@@ -443,14 +443,14 @@
     "Index": "12",
     "Type": "Ciclo Combinado",
     "Desc": "Aguirre Stag 1",
-    "SiteTotal": 29,
+    "SiteTotal": 26,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 29,
+        "MW": 26,
         "MVar": "2",
-        "Cost": 30.63,
+        "Cost": 31.48,
         "ParentId": "12"
       },
       {
@@ -562,7 +562,7 @@
         "Unit": "Unit 9",
         "MW": 71,
         "MVar": "15",
-        "Cost": 19.56,
+        "Cost": 19.25,
         "ParentId": "14"
       },
       {
@@ -601,8 +601,8 @@
         "Index": "2",
         "Unit": "Unit 3",
         "MW": 150,
-        "MVar": "92",
-        "Cost": 16.86,
+        "MVar": "86",
+        "Cost": 16.87,
         "ParentId": "15"
       },
       {
@@ -633,8 +633,8 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 346,
-        "MVar": "156",
-        "Cost": 16.75,
+        "MVar": "155",
+        "Cost": 16.77,
         "ParentId": "16"
       }
     ]
@@ -674,7 +674,7 @@
         "Unit": "Unit 6",
         "MW": 353,
         "MVar": "77",
-        "Cost": 9.17,
+        "Cost": 9.19,
         "ParentId": "17"
       }
     ]
@@ -779,7 +779,7 @@
     "Index": "21",
     "Type": "Turbina de Gas",
     "Desc": "Palo Seco",
-    "SiteTotal": 67,
+    "SiteTotal": 66,
     "units": [
       {
         "Index": "0",
@@ -810,7 +810,7 @@
         "Unit": "GT1",
         "MW": 19,
         "MVar": "0",
-        "Cost": 25.81,
+        "Cost": 25.87,
         "ParentId": "21"
       },
       {
@@ -834,7 +834,7 @@
         "Unit": "GT4",
         "MW": 0,
         "MVar": "0",
-        "Cost": 23.39,
+        "Cost": 23.02,
         "ParentId": "21"
       },
       {
