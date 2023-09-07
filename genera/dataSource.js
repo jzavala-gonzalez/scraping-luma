@@ -1,5 +1,5 @@
-const timestamp_saved = '09/07/2023 03:00 PM';
-const dataFechaAcualizado = '9/7/2023' + ' 10:55:51 AM';
+const timestamp_saved = '09/07/2023 03:05 PM';
+const dataFechaAcualizado = '9/7/2023' + ' 11:00:51 AM';
 const dataFuelCost = [
 	{place: 'San Juan', value: 100},
 	{place: 'San Juan CC', value: 144},
@@ -19,12 +19,12 @@ const dataByFuel = [
 	{fuel: 'Renew', value: 6},
 ];
 const dataMetrics = [
-	{Index:'0', Desc:'Total de Generación', value: 2490},
+	{Index:'0', Desc:'Total de Generación', value: 2497},
 	{Index:'1', Desc:'PREPA', value: 54},
 	{Index:'2', Desc:'COGEN', value: 46},
-	{Index:'3', Desc:'Reserva en Rotación', value: 377},
-	{Index:'4', Desc:'Reserva Operacional', value: 835},
-	{Index:'5', Desc:'Capacidad Disponible', value: 3321},
+	{Index:'3', Desc:'Reserva en Rotación', value: 366},
+	{Index:'4', Desc:'Reserva Operacional', value: 821},
+	{Index:'5', Desc:'Capacidad Disponible', value: 3312},
 	{Index:'6', Desc:'Próxima Hora MW', value: 2484},
 	{Index:'7', Desc:'Máxima para Hoy', value: 2599},
 	{Index:'8', Desc:'Máxima Mensual', value: 3057},
@@ -72,29 +72,29 @@ const dataLoadPerSite = [
 			{Index:'2', Unit:'Hidro 3', MW: 4, MVar:'0', Cost:9.35, ParentId: '5'},
 		]
 	},
-	{Index:'6', Type:'COGEN', Desc:'AES', SiteTotal: 453,
+	{Index:'6', Type:'COGEN', Desc:'AES', SiteTotal: 454,
 		units:[
-			{Index:'0', Unit:'Unit 1', MW: 254, MVar:'84', Cost:4.40, ParentId: '6'},
-			{Index:'1', Unit:'Unit 2', MW: 200, MVar:'90', Cost:4.40, ParentId: '6'},
+			{Index:'0', Unit:'Unit 1', MW: 255, MVar:'84', Cost:4.40, ParentId: '6'},
+			{Index:'1', Unit:'Unit 2', MW: 199, MVar:'90', Cost:4.40, ParentId: '6'},
 		]
 	},
-	{Index:'7', Type:'COGEN', Desc:'Ecoelectrica', SiteTotal: 476,
+	{Index:'7', Type:'COGEN', Desc:'Ecoelectrica', SiteTotal: 495,
 		units:[
-			{Index:'0', Unit:'Gas 1', MW: 162, MVar:'57', Cost:10.33, ParentId: '7'},
-			{Index:'1', Unit:'Gas 2', MW: 162, MVar:'47', Cost:10.33, ParentId: '7'},
-			{Index:'2', Unit:'STG', MW: 152, MVar:'49', Cost:10.33, ParentId: '7'},
+			{Index:'0', Unit:'Gas 1', MW: 171, MVar:'58', Cost:10.28, ParentId: '7'},
+			{Index:'1', Unit:'Gas 2', MW: 171, MVar:'46', Cost:10.28, ParentId: '7'},
+			{Index:'2', Unit:'STG', MW: 152, MVar:'49', Cost:10.28, ParentId: '7'},
 		]
 	},
-	{Index:'8', Type:'Turbina de Gas', Desc:'Estaciones GT', SiteTotal: 108,
+	{Index:'8', Type:'Turbina de Gas', Desc:'Estaciones GT', SiteTotal: 109,
 		units:[
-			{Index:'0', Unit:'Palo Seco', MW: 108, MVar:'0', Cost:6.98, ParentId: '8'},
+			{Index:'0', Unit:'Palo Seco', MW: 109, MVar:'0', Cost:6.92, ParentId: '8'},
 			{Index:'1', Unit:'Vega Baja', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'2', Unit:'Costa Sur', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'3', Unit:'Jobos', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'4', Unit:'Daguao', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'5', Unit:'Yabucoa', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'6', Unit:'Aguirre', MW: 0, MVar:'0', Cost:17.80, ParentId: '8'},
-			{Index:'7', Unit:'FEMA GT PS', MW: 124, MVar:'59', Cost:0, ParentId: '8'},
+			{Index:'7', Unit:'FEMA GT PS', MW: 125, MVar:'59', Cost:0, ParentId: '8'},
 			{Index:'8', Unit:'FEMA GT SJ', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 		]
 	},
@@ -110,14 +110,14 @@ const dataLoadPerSite = [
 		units:[
 			{Index:'0', Unit:'Gas 1', MW: 0, MVar:'0', Cost:0, ParentId: '10'},
 			{Index:'1', Unit:'Gas 2', MW: 0, MVar:'0', Cost:0, ParentId: '10'},
-			{Index:'2', Unit:'Gas 3', MW: 49, MVar:'23', Cost:31.33, ParentId: '10'},
+			{Index:'2', Unit:'Gas 3', MW: 49, MVar:'24', Cost:31.39, ParentId: '10'},
 		]
 	},
 	{Index:'11', Type:'Ciclo Combinado', Desc:'San Juan', SiteTotal: 410,
 		units:[
-			{Index:'0', Unit:'CTG 5', MW: 153, MVar:'47', Cost:19.72, ParentId: '11'},
-			{Index:'1', Unit:'STG 5', MW: 52, MVar:'9', Cost:19.72, ParentId: '11'},
-			{Index:'2', Unit:'CTG 6', MW: 156, MVar:'0', Cost:8.12, ParentId: '11'},
+			{Index:'0', Unit:'CTG 5', MW: 152, MVar:'47', Cost:8.24, ParentId: '11'},
+			{Index:'1', Unit:'STG 5', MW: 52, MVar:'10', Cost:8.24, ParentId: '11'},
+			{Index:'2', Unit:'CTG 6', MW: 155, MVar:'0', Cost:8.12, ParentId: '11'},
 			{Index:'3', Unit:'STG 6', MW: 50, MVar:'11', Cost:8.12, ParentId: '11'},
 		]
 	},
@@ -143,22 +143,22 @@ const dataLoadPerSite = [
 		units:[
 			{Index:'0', Unit:'Unit 7', MW: 0, MVar:'0', Cost:0, ParentId: '14'},
 			{Index:'1', Unit:'Unit 8', MW: 0, MVar:'0', Cost:0, ParentId: '14'},
-			{Index:'2', Unit:'Unit 9', MW: 71, MVar:'33', Cost:19.49, ParentId: '14'},
+			{Index:'2', Unit:'Unit 9', MW: 71, MVar:'33', Cost:19.39, ParentId: '14'},
 			{Index:'3', Unit:'Unit 10', MW: 0, MVar:'0', Cost:0, ParentId: '14'},
 		]
 	},
-	{Index:'15', Type:'Vapor', Desc:'Palo Seco', SiteTotal: 150,
+	{Index:'15', Type:'Vapor', Desc:'Palo Seco', SiteTotal: 151,
 		units:[
 			{Index:'0', Unit:'Unit 1', MW: 0, MVar:'0', Cost:0, ParentId: '15'},
 			{Index:'1', Unit:'Unit 2', MW: 0, MVar:'0', Cost:0, ParentId: '15'},
-			{Index:'2', Unit:'Unit 3', MW: 150, MVar:'98', Cost:16.86, ParentId: '15'},
+			{Index:'2', Unit:'Unit 3', MW: 151, MVar:'98', Cost:16.87, ParentId: '15'},
 			{Index:'3', Unit:'Unit 4', MW: 0, MVar:'0', Cost:0, ParentId: '15'},
 		]
 	},
 	{Index:'16', Type:'Vapor', Desc:'Aguirre', SiteTotal: 251,
 		units:[
 			{Index:'0', Unit:'Unit 1', MW: 0, MVar:'0', Cost:0, ParentId: '16'},
-			{Index:'1', Unit:'Unit 2', MW: 251, MVar:'155', Cost:17.80, ParentId: '16'},
+			{Index:'1', Unit:'Unit 2', MW: 251, MVar:'154', Cost:17.80, ParentId: '16'},
 		]
 	},
 	{Index:'17', Type:'Vapor', Desc:'Costa Sur', SiteTotal: 257,
@@ -166,7 +166,7 @@ const dataLoadPerSite = [
 			{Index:'0', Unit:'Unit 3', MW: 0, MVar:'0', Cost:0, ParentId: '17'},
 			{Index:'1', Unit:'Unit 4', MW: 0, MVar:'0', Cost:0, ParentId: '17'},
 			{Index:'2', Unit:'Unit 5', MW: 0, MVar:'0', Cost:0, ParentId: '17'},
-			{Index:'3', Unit:'Unit 6', MW: 257, MVar:'102', Cost:9.76, ParentId: '17'},
+			{Index:'3', Unit:'Unit 6', MW: 257, MVar:'103', Cost:9.80, ParentId: '17'},
 		]
 	},
 	{Index:'18', Type:'Renovable', Desc:'Wind', SiteTotal: 15,
@@ -174,14 +174,14 @@ const dataLoadPerSite = [
 			{Index:'0', Unit:'Pattern', MW: 15, MVar:'0', Cost:16.29, ParentId: '18'},
 		]
 	},
-	{Index:'19', Type:'Renovable', Desc:'Solar', SiteTotal: 115,
+	{Index:'19', Type:'Renovable', Desc:'Solar', SiteTotal: 110,
 		units:[
-			{Index:'0', Unit:'San Fermin', MW: 9, MVar:'5', Cost:18.32, ParentId: '19'},
-			{Index:'1', Unit:'Ilumina', MW: 14, MVar:'3', Cost:21.43, ParentId: '19'},
-			{Index:'2', Unit:'Horizon', MW: 8, MVar:'4', Cost:19.60, ParentId: '19'},
-			{Index:'3', Unit:'Coto Laurel', MW: 10, MVar:'0', Cost:19.10, ParentId: '19'},
-			{Index:'4', Unit:'Oriana', MW: 41, MVar:'26', Cost:19.60, ParentId: '19'},
-			{Index:'5', Unit:'Fonroche', MW: 32, MVar:'11', Cost:17, ParentId: '19'},
+			{Index:'0', Unit:'San Fermin', MW: 10, MVar:'5', Cost:18.32, ParentId: '19'},
+			{Index:'1', Unit:'Ilumina', MW: 14, MVar:'4', Cost:21.43, ParentId: '19'},
+			{Index:'2', Unit:'Horizon', MW: 9, MVar:'4', Cost:19.60, ParentId: '19'},
+			{Index:'3', Unit:'Coto Laurel', MW: 3, MVar:'3', Cost:19.10, ParentId: '19'},
+			{Index:'4', Unit:'Oriana', MW: 44, MVar:'26', Cost:19.60, ParentId: '19'},
+			{Index:'5', Unit:'Fonroche', MW: 31, MVar:'11', Cost:17, ParentId: '19'},
 		]
 	},
 	{Index:'20', Type:'Renovable', Desc:'Landfill', SiteTotal: 2,
@@ -192,13 +192,13 @@ const dataLoadPerSite = [
 	},
 	{Index:'21', Type:'Turbina de Gas', Desc:'Palo Seco', SiteTotal: 61,
 		units:[
-			{Index:'0', Unit:'CT Block 1', MW: 30, MVar:'0', Cost:26, ParentId: '21'},
-			{Index:'1', Unit:'CT Block 2', MW: 0, MVar:'0', Cost:23, ParentId: '21'},
+			{Index:'0', Unit:'CT Block 1', MW: 31, MVar:'0', Cost:26, ParentId: '21'},
+			{Index:'1', Unit:'CT Block 2', MW: 0, MVar:'0', Cost:22, ParentId: '21'},
 			{Index:'2', Unit:'CT Block 3', MW: 0, MVar:'0', Cost:0, ParentId: '21'},
-			{Index:'3', Unit:'GT1', MW: 18, MVar:'0', Cost:26.06, ParentId: '21'},
+			{Index:'3', Unit:'GT1', MW: 18, MVar:'0', Cost:26.14, ParentId: '21'},
 			{Index:'4', Unit:'GT2', MW: 12, MVar:'0', Cost:0, ParentId: '21'},
 			{Index:'5', Unit:'GT3', MW: 0, MVar:'0', Cost:0, ParentId: '21'},
-			{Index:'6', Unit:'GT4', MW: 0, MVar:'0', Cost:22.99, ParentId: '21'},
+			{Index:'6', Unit:'GT4', MW: 0, MVar:'0', Cost:21.98, ParentId: '21'},
 			{Index:'7', Unit:'GT5', MW: 0, MVar:'0', Cost:0, ParentId: '21'},
 			{Index:'8', Unit:'GT6', MW: 0, MVar:'0', Cost:0, ParentId: '21'},
 		]
