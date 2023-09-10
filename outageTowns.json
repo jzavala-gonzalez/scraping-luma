@@ -18,10 +18,6 @@
     {
       "area": "ARECIBO",
       "zone": "HATO ABAJO"
-    },
-    {
-      "area": "ARECIBO",
-      "zone": "JARDINES DE ARECIBO"
     }
   ],
   "ARROYO": [],
@@ -39,8 +35,18 @@
     }
   ],
   "BAYAMÓN": [],
-  "CABO ROJO": [],
-  "CAGUAS": [],
+  "CABO ROJO": [
+    {
+      "area": "CABO ROJO",
+      "zone": "Bo. Llanos Tuna"
+    }
+  ],
+  "CAGUAS": [
+    {
+      "area": "CAGUAS",
+      "zone": "Bo. San Antonio"
+    }
+  ],
   "CAMPANILLA": [],
   "CAMUY": [],
   "CANDELARIA": [],
@@ -57,12 +63,7 @@
   "CATAÑO": [],
   "CAYEY": [],
   "CEIBA": [],
-  "CIALES": [
-    {
-      "area": "CIALES",
-      "zone": "POZAS"
-    }
-  ],
+  "CIALES": [],
   "CIDRA": [],
   "COAMO": [],
   "COCO": [],
@@ -94,14 +95,6 @@
     {
       "area": "GUAYNABO",
       "zone": "GUAYNABO"
-    },
-    {
-      "area": "GUAYNABO",
-      "zone": "PLAZA DEL PALMAR/SANTA ROSA II"
-    },
-    {
-      "area": "GUAYNABO",
-      "zone": "SANTA ROSA"
     },
     {
       "area": "GUAYNABO",
@@ -279,7 +272,12 @@
       "zone": "URB LAGOS DE PLATA"
     }
   ],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "area": "TRUJILLO ALTO",
+      "zone": "Urb. Esmerald Lake Plantation"
+    }
+  ],
   "UTUADO": [],
   "VEGA ALTA": [
     {
@@ -287,12 +285,7 @@
       "zone": "Bo. Cerro Gordo"
     }
   ],
-  "VEGA BAJA": [
-    {
-      "area": "VEGA BAJA",
-      "zone": "ALT VEGA BAJA"
-    }
-  ],
+  "VEGA BAJA": [],
   "VIEQUES": [],
   "VILLALBA": [],
   "YABUCOA": [],
@@ -302,5 +295,5 @@
       "zone": "COLLORES"
     }
   ],
-  "timestamp_saved": "09/10/2023 11:46 PM"
+  "timestamp_saved": "09/10/2023 11:51 PM"
 }
