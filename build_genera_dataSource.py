@@ -147,18 +147,22 @@ missing_cols = set(initial_cols) - set(df.columns)
 if len(missing_cols) > 0:
     raise ValueError(f'Missing columns: {missing_cols}')
 
-out_fname = 'genera/historical/dataLoadPerSite_historical.csv'
-if os.path.exists(out_fname):
-    existing_df = pl.read_csv(out_fname)
-    existing_df = (
-        existing_df
-        .with_columns([
-            pl.col(k).cast(v) for k, v in df.schema.items()
-        ])
-    )
-    
-    df = existing_df.vstack(df)
+out_fname = 'genera/historical/dataLoadPerSite_historical.parquet'
+out_fname_csv = 'genera/historical/dataLoadPerSite_historical.csv'
+if not os.path.exists(out_fname):
+    existing_df = pl.read_csv(out_fname_csv)
+else:
+    existing_df = pl.read_parquet(out_fname)
 
-df.write_csv(out_fname)
+existing_df = (
+    existing_df
+    .with_columns([
+        pl.col(k).cast(v) for k, v in df.schema.items()
+    ])
+)
+
+df = existing_df.vstack(df)
+
+df.write_parquet(out_fname)
 print(f'Wrote {out_fname}')
 print()
