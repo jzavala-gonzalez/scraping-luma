@@ -163,6 +163,6 @@ existing_df = (
 
 df = existing_df.vstack(df)
 
-df.write_parquet(out_fname)
+df.write_parquet(out_fname, compression='zstd', compression_level=11)
 print(f'Wrote {out_fname}')
 print()
