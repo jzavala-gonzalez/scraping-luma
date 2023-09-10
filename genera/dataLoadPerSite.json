@@ -195,22 +195,22 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 454,
+    "SiteTotal": 455,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 254,
-        "MVar": "64",
-        "Cost": 4.39,
+        "MW": 255,
+        "MVar": "62",
+        "Cost": 4.41,
         "ParentId": "6"
       },
       {
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 199,
-        "MVar": "78",
-        "Cost": 4.39,
+        "MVar": "77",
+        "Cost": 4.41,
         "ParentId": "6"
       }
     ]
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 425,
+    "SiteTotal": 433,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 145,
+        "MW": 148,
         "MVar": "65",
-        "Cost": 11.06,
+        "Cost": 10.95,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 145,
-        "MVar": "62",
-        "Cost": 11.06,
+        "MW": 148,
+        "MVar": "63",
+        "Cost": 10.95,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 135,
-        "MVar": "63",
-        "Cost": 11.06,
+        "MW": 138,
+        "MVar": "64",
+        "Cost": 10.95,
         "ParentId": "7"
       }
     ]
@@ -258,7 +258,7 @@
         "Unit": "Palo Seco",
         "MW": 84,
         "MVar": "0",
-        "Cost": 9.28,
+        "Cost": 9.44,
         "ParentId": "8"
       },
       {
@@ -312,7 +312,7 @@
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
-        "MW": 157,
+        "MW": 156,
         "MVar": "46",
         "Cost": 0,
         "ParentId": "8"
@@ -385,8 +385,8 @@
         "Index": "1",
         "Unit": "Gas 2",
         "MW": 79,
-        "MVar": "14",
-        "Cost": 27.9,
+        "MVar": "13",
+        "Cost": 27.95,
         "ParentId": "10"
       },
       {
@@ -394,7 +394,7 @@
         "Unit": "Gas 3",
         "MW": 51,
         "MVar": "9",
-        "Cost": 30.94,
+        "Cost": 30.89,
         "ParentId": "10"
       }
     ]
@@ -410,7 +410,7 @@
         "Unit": "CTG 5",
         "MW": 158,
         "MVar": "49",
-        "Cost": 19.85,
+        "Cost": 19.76,
         "ParentId": "11"
       },
       {
@@ -418,7 +418,7 @@
         "Unit": "STG 5",
         "MW": 52,
         "MVar": "11",
-        "Cost": 19.85,
+        "Cost": 19.76,
         "ParentId": "11"
       },
       {
@@ -426,15 +426,15 @@
         "Unit": "CTG 6",
         "MW": 90,
         "MVar": "0",
-        "Cost": 8.26,
+        "Cost": 8.06,
         "ParentId": "11"
       },
       {
         "Index": "3",
         "Unit": "STG 6",
-        "MW": 39,
-        "MVar": "9",
-        "Cost": 8.26,
+        "MW": 38,
+        "MVar": "8",
+        "Cost": 8.06,
         "ParentId": "11"
       }
     ]
@@ -443,14 +443,14 @@
     "Index": "12",
     "Type": "Ciclo Combinado",
     "Desc": "Aguirre Stag 1",
-    "SiteTotal": 50,
+    "SiteTotal": 51,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 50,
+        "MW": 51,
         "MVar": "7",
-        "Cost": 28.5,
+        "Cost": 28.44,
         "ParentId": "12"
       },
       {
@@ -491,7 +491,7 @@
     "Index": "13",
     "Type": "Ciclo Combinado",
     "Desc": "Aguirre Stag 2",
-    "SiteTotal": 100,
+    "SiteTotal": 101,
     "units": [
       {
         "Index": "0",
@@ -520,9 +520,9 @@
       {
         "Index": "3",
         "Unit": "Gas 4",
-        "MW": 50,
+        "MW": 51,
         "MVar": "7",
-        "Cost": 28.47,
+        "Cost": 28.38,
         "ParentId": "13"
       },
       {
@@ -539,7 +539,7 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 71,
+    "SiteTotal": 69,
     "units": [
       {
         "Index": "0",
@@ -560,9 +560,9 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 71,
+        "MW": 69,
         "MVar": "10",
-        "Cost": 19.34,
+        "Cost": 19.33,
         "ParentId": "14"
       },
       {
@@ -579,7 +579,7 @@
     "Index": "15",
     "Type": "Vapor",
     "Desc": "Palo Seco",
-    "SiteTotal": 150,
+    "SiteTotal": 149,
     "units": [
       {
         "Index": "0",
@@ -600,9 +600,9 @@
       {
         "Index": "2",
         "Unit": "Unit 3",
-        "MW": 150,
+        "MW": 149,
         "MVar": "65",
-        "Cost": 16.95,
+        "Cost": 16.86,
         "ParentId": "15"
       },
       {
@@ -633,7 +633,7 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 299,
-        "MVar": "131",
+        "MVar": "130",
         "Cost": 17.13,
         "ParentId": "16"
       }
@@ -779,7 +779,7 @@
     "Index": "21",
     "Type": "Turbina de Gas",
     "Desc": "Palo Seco",
-    "SiteTotal": 63,
+    "SiteTotal": 64,
     "units": [
       {
         "Index": "0",
@@ -810,13 +810,13 @@
         "Unit": "GT1",
         "MW": 19,
         "MVar": "0",
-        "Cost": 25.82,
+        "Cost": 25.84,
         "ParentId": "21"
       },
       {
         "Index": "4",
         "Unit": "GT2",
-        "MW": 12,
+        "MW": 13,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "21"
@@ -834,7 +834,7 @@
         "Unit": "GT4",
         "MW": 0,
         "MVar": "0",
-        "Cost": 22.93,
+        "Cost": 23.2,
         "ParentId": "21"
       },
       {
