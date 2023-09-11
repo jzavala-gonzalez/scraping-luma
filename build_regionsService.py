@@ -59,7 +59,8 @@ df = (
 with pl.Config(tbl_cols=-1):
     print(df)
 
-out_fname = 'regionsWithoutService_historical.csv'
+out_fname_base = 'regionsWithoutService_historical'
+out_fname = f'{out_fname_base}.csv'
 if os.path.exists(out_fname):
     existing_df = pl.read_csv(out_fname)
     if ('csv_timestamp' in existing_df.columns):
@@ -67,4 +68,5 @@ if os.path.exists(out_fname):
     df = existing_df.vstack(df)
 
 df.write_csv(out_fname)
-print(f'Wrote {out_fname}')
+df.write_parquet(f'{out_fname_base}.parquet', compression='zstd', compression_level=11)
+print(f'Wrote {out_fname} and {out_fname_base}.parquet')
