@@ -195,22 +195,22 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 454,
+    "SiteTotal": 455,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
         "MW": 253,
-        "MVar": "63",
-        "Cost": 4.39,
+        "MVar": "64",
+        "Cost": 4.4,
         "ParentId": "6"
       },
       {
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 200,
-        "MVar": "62",
-        "Cost": 4.39,
+        "MVar": "60",
+        "Cost": 4.4,
         "ParentId": "6"
       }
     ]
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 452,
+    "SiteTotal": 438,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 153,
+        "MW": 148,
         "MVar": "48",
-        "Cost": 10.43,
+        "Cost": 10.45,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 153,
+        "MW": 148,
         "MVar": "46",
-        "Cost": 10.43,
+        "Cost": 10.45,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 145,
+        "MW": 142,
         "MVar": "60",
-        "Cost": 10.43,
+        "Cost": 10.45,
         "ParentId": "7"
       }
     ]
@@ -258,7 +258,7 @@
         "Unit": "Palo Seco",
         "MW": 84,
         "MVar": "0",
-        "Cost": 9.32,
+        "Cost": 9.21,
         "ParentId": "8"
       },
       {
@@ -306,14 +306,14 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 18.27,
+        "Cost": 18.3,
         "ParentId": "8"
       },
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
         "MW": 156,
-        "MVar": "57",
+        "MVar": "58",
         "Cost": 0,
         "ParentId": "8"
       },
@@ -337,8 +337,8 @@
         "Index": "0",
         "Unit": "Gas 1",
         "MW": 24,
-        "MVar": "0",
-        "Cost": 26.37,
+        "MVar": "1",
+        "Cost": 26.32,
         "ParentId": "9"
       },
       {
@@ -393,8 +393,8 @@
         "Index": "2",
         "Unit": "Gas 3",
         "MW": 51,
-        "MVar": "4",
-        "Cost": 30.97,
+        "MVar": "5",
+        "Cost": 31,
         "ParentId": "10"
       }
     ]
@@ -409,16 +409,16 @@
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 158,
-        "MVar": "49",
-        "Cost": 19.81,
+        "MVar": "47",
+        "Cost": 19.76,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 52,
-        "MVar": "11",
-        "Cost": 19.81,
+        "MVar": "12",
+        "Cost": 19.76,
         "ParentId": "11"
       },
       {
@@ -522,7 +522,7 @@
         "Unit": "Gas 4",
         "MW": 30,
         "MVar": "3",
-        "Cost": 31.11,
+        "Cost": 31.35,
         "ParentId": "13"
       },
       {
@@ -561,8 +561,8 @@
         "Index": "2",
         "Unit": "Unit 9",
         "MW": 71,
-        "MVar": "17",
-        "Cost": 19.33,
+        "MVar": "18",
+        "Cost": 19.31,
         "ParentId": "14"
       },
       {
@@ -602,7 +602,7 @@
         "Unit": "Unit 3",
         "MW": 150,
         "MVar": "81",
-        "Cost": 16.83,
+        "Cost": 16.89,
         "ParentId": "15"
       },
       {
@@ -633,8 +633,8 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 226,
-        "MVar": "112",
-        "Cost": 18.27,
+        "MVar": "113",
+        "Cost": 18.3,
         "ParentId": "16"
       }
     ]
@@ -673,8 +673,8 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 205,
-        "MVar": "36",
-        "Cost": 10.45,
+        "MVar": "37",
+        "Cost": 10.44,
         "ParentId": "17"
       }
     ]
@@ -699,7 +699,7 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 0,
+    "SiteTotal": 1,
     "units": [
       {
         "Index": "0",
@@ -736,7 +736,7 @@
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 0,
+        "MW": 1,
         "MVar": "0",
         "Cost": 19.6,
         "ParentId": "19"
@@ -794,7 +794,7 @@
         "Unit": "CT Block 2",
         "MW": 0,
         "MVar": "0",
-        "Cost": 23,
+        "Cost": 22,
         "ParentId": "21"
       },
       {
@@ -834,7 +834,7 @@
         "Unit": "GT4",
         "MW": 0,
         "MVar": "0",
-        "Cost": 23.13,
+        "Cost": 22.34,
         "ParentId": "21"
       },
       {
