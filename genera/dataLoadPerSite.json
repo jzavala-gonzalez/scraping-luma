@@ -185,7 +185,7 @@
         "Index": "2",
         "Unit": "Hidro 3",
         "MW": 3,
-        "MVar": "0",
+        "MVar": "1",
         "Cost": 9.35,
         "ParentId": "5"
       }
@@ -195,22 +195,22 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 454,
+    "SiteTotal": 453,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 254,
-        "MVar": "75",
-        "Cost": 4.38,
+        "MW": 253,
+        "MVar": "76",
+        "Cost": 4.41,
         "ParentId": "6"
       },
       {
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 200,
-        "MVar": "81",
-        "Cost": 4.38,
+        "MVar": "83",
+        "Cost": 4.41,
         "ParentId": "6"
       }
     ]
@@ -219,28 +219,28 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 440,
+    "SiteTotal": 450,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 151,
-        "MVar": "58",
+        "MW": 154,
+        "MVar": "57",
         "Cost": 10.68,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 151,
-        "MVar": "55",
+        "MW": 153,
+        "MVar": "57",
         "Cost": 10.68,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 137,
+        "MW": 142,
         "MVar": "68",
         "Cost": 10.68,
         "ParentId": "7"
@@ -251,14 +251,14 @@
     "Index": "8",
     "Type": "Turbina de Gas",
     "Desc": "Estaciones GT",
-    "SiteTotal": 56,
+    "SiteTotal": 57,
     "units": [
       {
         "Index": "0",
         "Unit": "Palo Seco",
-        "MW": 56,
+        "MW": 57,
         "MVar": "0",
-        "Cost": 0,
+        "Cost": 4.16,
         "ParentId": "8"
       },
       {
@@ -306,7 +306,7 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 18.23,
+        "Cost": 18.2,
         "ParentId": "8"
       },
       {
@@ -371,7 +371,7 @@
     "Index": "10",
     "Type": "Turbina de Gas",
     "Desc": "Cambalache",
-    "SiteTotal": 146,
+    "SiteTotal": 147,
     "units": [
       {
         "Index": "0",
@@ -384,17 +384,17 @@
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 73,
-        "MVar": "15",
-        "Cost": 28.39,
+        "MW": 74,
+        "MVar": "14",
+        "Cost": 28.36,
         "ParentId": "10"
       },
       {
         "Index": "2",
         "Unit": "Gas 3",
-        "MW": 73,
-        "MVar": "16",
-        "Cost": 28.3,
+        "MW": 74,
+        "MVar": "15",
+        "Cost": 28.43,
         "ParentId": "10"
       }
     ]
@@ -403,14 +403,14 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 394,
+    "SiteTotal": 398,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
-        "MW": 149,
+        "MW": 150,
         "MVar": "44",
-        "Cost": 19.83,
+        "Cost": 19.89,
         "ParentId": "11"
       },
       {
@@ -418,15 +418,15 @@
         "Unit": "STG 5",
         "MW": 51,
         "MVar": "12",
-        "Cost": 19.83,
+        "Cost": 19.89,
         "ParentId": "11"
       },
       {
         "Index": "2",
         "Unit": "CTG 6",
-        "MW": 146,
+        "MW": 150,
         "MVar": "0",
-        "Cost": 8.22,
+        "Cost": 8.21,
         "ParentId": "11"
       },
       {
@@ -434,7 +434,7 @@
         "Unit": "STG 6",
         "MW": 47,
         "MVar": "10",
-        "Cost": 8.22,
+        "Cost": 8.21,
         "ParentId": "11"
       }
     ]
@@ -539,7 +539,7 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 71,
+    "SiteTotal": 70,
     "units": [
       {
         "Index": "0",
@@ -560,9 +560,9 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 71,
+        "MW": 70,
         "MVar": "27",
-        "Cost": 19.32,
+        "Cost": 19.3,
         "ParentId": "14"
       },
       {
@@ -579,7 +579,7 @@
     "Index": "15",
     "Type": "Vapor",
     "Desc": "Palo Seco",
-    "SiteTotal": 150,
+    "SiteTotal": 151,
     "units": [
       {
         "Index": "0",
@@ -600,9 +600,9 @@
       {
         "Index": "2",
         "Unit": "Unit 3",
-        "MW": 150,
+        "MW": 151,
         "MVar": "94",
-        "Cost": 16.85,
+        "Cost": 16.89,
         "ParentId": "15"
       },
       {
@@ -633,8 +633,8 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 229,
-        "MVar": "161",
-        "Cost": 18.23,
+        "MVar": "162",
+        "Cost": 18.2,
         "ParentId": "16"
       }
     ]
@@ -643,7 +643,7 @@
     "Index": "17",
     "Type": "Vapor",
     "Desc": "Costa Sur",
-    "SiteTotal": 372,
+    "SiteTotal": 371,
     "units": [
       {
         "Index": "0",
@@ -672,8 +672,8 @@
       {
         "Index": "3",
         "Unit": "Unit 6",
-        "MW": 372,
-        "MVar": "105",
+        "MW": 371,
+        "MVar": "104",
         "Cost": 9.12,
         "ParentId": "17"
       }
@@ -699,12 +699,12 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 72,
+    "SiteTotal": 79,
     "units": [
       {
         "Index": "0",
         "Unit": "San Fermin",
-        "MW": 8,
+        "MW": 9,
         "MVar": "0",
         "Cost": 18.32,
         "ParentId": "19"
@@ -728,24 +728,24 @@
       {
         "Index": "3",
         "Unit": "Coto Laurel",
-        "MW": 8,
-        "MVar": "0",
+        "MW": 4,
+        "MVar": "1",
         "Cost": 19.1,
         "ParentId": "19"
       },
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 28,
-        "MVar": "21",
+        "MW": 39,
+        "MVar": "24",
         "Cost": 19.6,
         "ParentId": "19"
       },
       {
         "Index": "5",
         "Unit": "Fonroche",
-        "MW": 15,
-        "MVar": "18",
+        "MW": 12,
+        "MVar": "19",
         "Cost": 17,
         "ParentId": "19"
       }
@@ -755,7 +755,7 @@
     "Index": "20",
     "Type": "Renovable",
     "Desc": "Landfill",
-    "SiteTotal": 3,
+    "SiteTotal": 2,
     "units": [
       {
         "Index": "0",
@@ -786,7 +786,7 @@
         "Unit": "CT Block 1",
         "MW": 6,
         "MVar": "0",
-        "Cost": 0,
+        "Cost": 43,
         "ParentId": "21"
       },
       {
@@ -810,7 +810,7 @@
         "Unit": "GT1",
         "MW": 6,
         "MVar": "0",
-        "Cost": 0,
+        "Cost": 42.9,
         "ParentId": "21"
       },
       {
