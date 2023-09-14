@@ -24,15 +24,15 @@
       "zone": "BO MONTELLANOS PARQUE DE BOMBA"
     }
   ],
-  "ANASCO": [
-    {
-      "area": "ANASCO",
-      "zone": "URB BRISAS DE ANASCO"
-    }
-  ],
+  "ANASCO": [],
   "ARECIBO": [],
   "ARROYO": [],
-  "AÑASCO": [],
+  "AÑASCO": [
+    {
+      "area": "AÑASCO",
+      "zone": "AÑASCO ARRIBA"
+    }
+  ],
   "BARCELONETA": [
     {
       "area": "BARCELONETA",
@@ -41,10 +41,6 @@
   ],
   "BARRANQUITAS": [],
   "BAYAMON": [
-    {
-      "area": "BAYAMON",
-      "zone": "BO HIGUILLAR"
-    },
     {
       "area": "BAYAMON",
       "zone": "PAJAROS"
@@ -257,12 +253,7 @@
     }
   ],
   "RINCÓN": [],
-  "RIO GRANDE": [
-    {
-      "area": "RIO GRANDE",
-      "zone": "Urb. Rio Grande States"
-    }
-  ],
+  "RIO GRANDE": [],
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
@@ -275,7 +266,12 @@
     }
   ],
   "SAN ANTONIO": [],
-  "SAN GERMAN": [],
+  "SAN GERMAN": [
+    {
+      "area": "SAN GERMAN",
+      "zone": "Bo. Hoconuco Bajo"
+    }
+  ],
   "SAN GERMÁN": [],
   "SAN ISIDRO": [],
   "SAN JUAN": [
@@ -305,6 +301,10 @@
     },
     {
       "area": "SAN JUAN",
+      "zone": "COND LOS CEDROS"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "COND MONTE ATENAS"
     },
     {
@@ -321,11 +321,11 @@
     },
     {
       "area": "SAN JUAN",
-      "zone": "MONACILLO"
+      "zone": "MONACILLO URBANO"
     },
     {
       "area": "SAN JUAN",
-      "zone": "MONACILLO URBANO"
+      "zone": "Res. Santa Elena"
     },
     {
       "area": "SAN JUAN",
@@ -366,6 +366,10 @@
     {
       "area": "SAN JUAN",
       "zone": "Urb. Villa Capri"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "VILLAS DE PARANA"
     }
   ],
   "SAN LORENZO": [],
@@ -384,6 +388,10 @@
     {
       "area": "TOA BAJA",
       "zone": "CANDELARIA"
+    },
+    {
+      "area": "TOA BAJA",
+      "zone": "COND PARQUE DEL LAGO"
     },
     {
       "area": "TOA BAJA",
@@ -420,5 +428,5 @@
   "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "09/14/2023 06:06 PM"
+  "timestamp_saved": "09/14/2023 06:11 PM"
 }
