@@ -63,14 +63,6 @@
     {
       "area": "BAYAMON",
       "zone": "Urb. Santa Juanita"
-    },
-    {
-      "area": "BAYAMON",
-      "zone": "Urb. Santa Monica"
-    },
-    {
-      "area": "BAYAMON",
-      "zone": "Urb. Sierra Linda"
     }
   ],
   "BAYAMÓN": [],
@@ -164,7 +156,12 @@
   "COCO": [],
   "COMERIO": [],
   "COMERÍO": [],
-  "COROZAL": [],
+  "COROZAL": [
+    {
+      "area": "COROZAL",
+      "zone": "Bo. Mavillas"
+    }
+  ],
   "CULEBRA": [],
   "DORADO": [
     {
@@ -195,7 +192,16 @@
     }
   ],
   "GUÁNICA": [],
-  "HATILLO": [],
+  "HATILLO": [
+    {
+      "area": "HATILLO",
+      "zone": "BO CAMPO ALEGRE"
+    },
+    {
+      "area": "HATILLO",
+      "zone": "Bo. Bayaney"
+    }
+  ],
   "HATO REY": [],
   "HORMIGUEROS": [],
   "HUMACAO": [],
@@ -214,7 +220,7 @@
     },
     {
       "area": "LARES",
-      "zone": "Bo. Buenos Aires"
+      "zone": "BUENOS AIRES / FTE ALTO GRANDE"
     },
     {
       "area": "LARES",
@@ -242,12 +248,7 @@
   ],
   "LOÍZA": [],
   "LUQUILLO": [],
-  "MANATI": [
-    {
-      "area": "MANATI",
-      "zone": "Bo. Monte Bello"
-    }
-  ],
+  "MANATI": [],
   "MANATÍ": [],
   "MARICAO": [
     {
@@ -275,11 +276,11 @@
   "OROCOVIS": [
     {
       "area": "OROCOVIS",
-      "zone": "Parc. Barros"
+      "zone": "Bo. Arros Limones"
     },
     {
       "area": "OROCOVIS",
-      "zone": "SAIDA AIBONITO"
+      "zone": "Parc. Barros"
     }
   ],
   "PAJAROS": [],
@@ -291,12 +292,7 @@
   "PUERTO REAL": [],
   "PUNTA SANTIAGO": [],
   "QUEBRADILLAS": [],
-  "RINCON": [
-    {
-      "area": "RINCON",
-      "zone": "BO CALVACHE"
-    }
-  ],
+  "RINCON": [],
   "RINCÓN": [],
   "RIO GRANDE": [
     {
@@ -388,10 +384,6 @@
   "TOA ALTA": [
     {
       "area": "TOA ALTA",
-      "zone": "BO GALATEO SECT LOS RIVERA"
-    },
-    {
-      "area": "TOA ALTA",
       "zone": "LAS ACEROLAS-BOSQUE MAGICO"
     },
     {
@@ -426,7 +418,12 @@
       "zone": "MARICAO"
     }
   ],
-  "VEGA BAJA": [],
+  "VEGA BAJA": [
+    {
+      "area": "VEGA BAJA",
+      "zone": "Bo. Bajura"
+    }
+  ],
   "VIEQUES": [
     {
       "area": "VIEQUES",
@@ -450,5 +447,5 @@
       "zone": "ALMACIGO BAJO"
     }
   ],
-  "timestamp_saved": "09/15/2023 08:06 PM"
+  "timestamp_saved": "09/15/2023 08:11 PM"
 }
