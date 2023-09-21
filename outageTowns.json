@@ -52,7 +52,12 @@
       "zone": "RAMEY"
     }
   ],
-  "AGUAS BUENAS": [],
+  "AGUAS BUENAS": [
+    {
+      "area": "AGUAS BUENAS",
+      "zone": "BO SUMIDERO"
+    }
+  ],
   "AIBONITO": [],
   "ANASCO": [
     {
@@ -73,10 +78,27 @@
   "AÑASCO": [],
   "BARCELONETA": [],
   "BARRANQUITAS": [],
-  "BAYAMON": [],
+  "BAYAMON": [
+    {
+      "area": "BAYAMON",
+      "zone": "RIVERVIEW"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "URB REPARTO TERESITA (SANTA TERESIT"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "URB SIERRA BAYAMON"
+    }
+  ],
   "BAYAMÓN": [],
   "CABO ROJO": [],
   "CAGUAS": [
+    {
+      "area": "CAGUAS",
+      "zone": "BO BORINQUEN"
+    },
     {
       "area": "CAGUAS",
       "zone": "CAGUAS"
@@ -104,6 +126,10 @@
     },
     {
       "area": "CAROLINA",
+      "zone": "Res. Sabana Abajo"
+    },
+    {
+      "area": "CAROLINA",
       "zone": "SABANA ABAJO"
     },
     {
@@ -111,27 +137,18 @@
       "zone": "URB METROPOLIS"
     }
   ],
-  "CATANO": [
-    {
-      "area": "CATANO",
-      "zone": "URB JDNES CATANO"
-    },
-    {
-      "area": "CATANO",
-      "zone": "Urb. Las Vegas"
-    }
-  ],
+  "CATANO": [],
   "CATAÑO": [],
   "CAYEY": [],
   "CEIBA": [],
   "CIALES": [
     {
       "area": "CIALES",
-      "zone": "6 BO JAGUAS"
+      "zone": "Bo. Cialitos Cruce"
     },
     {
       "area": "CIALES",
-      "zone": "Bo. Cialitos Cruce"
+      "zone": "FRONTON CENTRO"
     }
   ],
   "CIDRA": [],
@@ -142,7 +159,7 @@
   "COROZAL": [
     {
       "area": "COROZAL",
-      "zone": "BO ABRAS MAVILLA"
+      "zone": "URB MARIA DEL CARMEN"
     }
   ],
   "CULEBRA": [],
@@ -195,12 +212,7 @@
   "HATILLO": [],
   "HATO REY": [],
   "HORMIGUEROS": [],
-  "HUMACAO": [
-    {
-      "area": "HUMACAO",
-      "zone": "Bo. Candelero Arriba"
-    }
-  ],
+  "HUMACAO": [],
   "INGENIO": [],
   "ISABEL SEGUNDA": [],
   "ISABELA": [
@@ -284,9 +296,21 @@
     {
       "area": "MOCA",
       "zone": "BO CERRO GORDO"
+    },
+    {
+      "area": "MOCA",
+      "zone": "BO PLATA/SECTOR MUNIZ"
     }
   ],
   "MOROVIS": [
+    {
+      "area": "MOROVIS",
+      "zone": "BO FRANQUEZ"
+    },
+    {
+      "area": "MOROVIS",
+      "zone": "BO FRANQUEZ/SECT CLOTILDE"
+    },
     {
       "area": "MOROVIS",
       "zone": "BO TORRECILLAS"
@@ -388,14 +412,13 @@
     {
       "area": "SAN JUAN",
       "zone": "Urb. Caparra Terrace SE"
-    }
-  ],
-  "SAN LORENZO": [
+    },
     {
-      "area": "SAN LORENZO",
-      "zone": "BO CAYAGUAX SCTR LOS GRILLOS"
+      "area": "SAN JUAN",
+      "zone": "Urb. Villa Granada"
     }
   ],
+  "SAN LORENZO": [],
   "SAN SEBASTIAN": [
     {
       "area": "SAN SEBASTIAN",
@@ -425,24 +448,12 @@
   "TOA ALTA": [
     {
       "area": "TOA ALTA",
-      "zone": "BO QDA ARENAS/SECT LOS HOYOS"
-    },
-    {
-      "area": "TOA ALTA",
       "zone": "QUEBRADA ARENAS LOS HOYOS"
-    },
-    {
-      "area": "TOA ALTA",
-      "zone": "URB.QUINTAS DE PAZA ACUARIUM"
     }
   ],
   "TOA BAJA": [],
   "TRUJILLO ALTO": [],
   "UTUADO": [
-    {
-      "area": "UTUADO",
-      "zone": "BO ANGELES ALTURA"
-    },
     {
       "area": "UTUADO",
       "zone": "BO ANGELES ALTURAS"
@@ -503,13 +514,35 @@
   "VEGA ALTA": [
     {
       "area": "VEGA ALTA",
+      "zone": "CANDELARIADAVILA"
+    },
+    {
+      "area": "VEGA ALTA",
       "zone": "Zona Urbana Vega Alta"
+    },
+    {
+      "area": "VEGA ALTA",
+      "zone": "null"
     }
   ],
-  "VEGA BAJA": [],
+  "VEGA BAJA": [
+    {
+      "area": "VEGA BAJA",
+      "zone": "BO PUEBLO NUEVO"
+    }
+  ],
   "VIEQUES": [],
   "VILLALBA": [],
-  "YABUCOA": [],
+  "YABUCOA": [
+    {
+      "area": "YABUCOA",
+      "zone": "JACANAS PIEDRA BLANCA"
+    },
+    {
+      "area": "YABUCOA",
+      "zone": "PAR MARTORELL 205"
+    }
+  ],
   "YAUCO": [
     {
       "area": "YAUCO",
@@ -520,5 +553,5 @@
       "zone": "Urb. Hill View"
     }
   ],
-  "timestamp_saved": "09/21/2023 12:41 AM"
+  "timestamp_saved": "09/21/2023 12:46 AM"
 }
