@@ -21,14 +21,15 @@
     },
     {
       "area": "ARECIBO",
-      "zone": "Casco Urbano Arecibo"
-    },
-    {
-      "area": "ARECIBO",
       "zone": "HATO ABAJO"
     }
   ],
-  "ARROYO": [],
+  "ARROYO": [
+    {
+      "area": "ARROYO",
+      "zone": "Bo. Guasima"
+    }
+  ],
   "AÑASCO": [],
   "BARCELONETA": [
     {
@@ -44,40 +45,15 @@
     },
     {
       "area": "BAYAMON",
-      "zone": "URB CIUDAD INTERAMERICANA"
-    },
-    {
-      "area": "BAYAMON",
       "zone": "URB INDUSTRIAL LUCHETT"
     }
   ],
   "BAYAMÓN": [],
-  "CABO ROJO": [
-    {
-      "area": "CABO ROJO",
-      "zone": "Bo. Boqueron"
-    },
-    {
-      "area": "CABO ROJO",
-      "zone": "Bo. Llanos Costa"
-    }
-  ],
+  "CABO ROJO": [],
   "CAGUAS": [
     {
       "area": "CAGUAS",
-      "zone": "BO BAIROA LA 25"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "COND VISTA REAL"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "Casco Urbano Caguas"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "VALLE DE SANTA CECILIA"
+      "zone": "TURABO CLUSTERS"
     }
   ],
   "CAMPANILLA": [],
@@ -89,11 +65,35 @@
   "CAROLINA": [
     {
       "area": "CAROLINA",
+      "zone": "CASTELLANA GARDENS"
+    },
+    {
+      "area": "CAROLINA",
+      "zone": "URB JDNS COUNTRY CLUB"
+    },
+    {
+      "area": "CAROLINA",
       "zone": "URB VILLA ASTURIAS"
     },
     {
       "area": "CAROLINA",
+      "zone": "Urb. Country Club 3 Se"
+    },
+    {
+      "area": "CAROLINA",
+      "zone": "Urb. Jardines Country"
+    },
+    {
+      "area": "CAROLINA",
       "zone": "Urb. Parque Ecuestre"
+    },
+    {
+      "area": "CAROLINA",
+      "zone": "Urb. Quintas Country C"
+    },
+    {
+      "area": "CAROLINA",
+      "zone": "Urb. Villa Carolina 4"
     }
   ],
   "CATANO": [],
@@ -120,28 +120,39 @@
     }
   ],
   "ESTANCIAS DE FLORIDA": [],
-  "FAJARDO": [],
-  "FLORIDA": [],
-  "GUANICA": [],
-  "GUAYAMA": [
+  "FAJARDO": [
     {
-      "area": "GUAYAMA",
-      "zone": "URB COSTA REAL"
+      "area": "FAJARDO",
+      "zone": "Urb. Puertas Del Sol"
     }
   ],
+  "FLORIDA": [],
+  "GUANICA": [],
+  "GUAYAMA": [],
   "GUAYANILLA": [],
   "GUAYNABO": [
     {
       "area": "GUAYNABO",
-      "zone": "Urb. Balcones De Santa Maria"
-    }
-  ],
-  "GURABO": [
+      "zone": "CHALETS DEL PARQUE"
+    },
     {
-      "area": "GURABO",
-      "zone": "Bo. Navarro"
+      "area": "GUAYNABO",
+      "zone": "Cond. Valles de Torrimar"
+    },
+    {
+      "area": "GUAYNABO",
+      "zone": "URB PRADO ALTO"
+    },
+    {
+      "area": "GUAYNABO",
+      "zone": "URB TORRIMAR"
+    },
+    {
+      "area": "GUAYNABO",
+      "zone": "Urb. Terraza De Guaynabo"
     }
   ],
+  "GURABO": [],
   "GUÁNICA": [],
   "HATILLO": [
     {
@@ -176,10 +187,6 @@
   "JUANA DIAZ": [],
   "JUANA DÍAZ": [],
   "JUNCOS": [
-    {
-      "area": "JUNCOS",
-      "zone": "Bo. Lirio"
-    },
     {
       "area": "JUNCOS",
       "zone": "URB VILLAS DE LA CENTRAL VICTO"
@@ -242,7 +249,12 @@
   "PATILLAS": [],
   "PENUELAS": [],
   "PEÑUELAS": [],
-  "PONCE": [],
+  "PONCE": [
+    {
+      "area": "PONCE",
+      "zone": "Casco Urbano Ponce"
+    }
+  ],
   "PUERTO NUEVO": [],
   "PUERTO REAL": [],
   "PUNTA SANTIAGO": [],
@@ -254,7 +266,12 @@
   ],
   "RINCON": [],
   "RINCÓN": [],
-  "RIO GRANDE": [],
+  "RIO GRANDE": [
+    {
+      "area": "RIO GRANDE",
+      "zone": "Bo. Guzman Arriba"
+    }
+  ],
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
@@ -262,13 +279,26 @@
   "SABANA SECA": [],
   "SALINAS": [],
   "SAN ANTONIO": [],
-  "SAN GERMAN": [],
+  "SAN GERMAN": [
+    {
+      "area": "SAN GERMAN",
+      "zone": "URB QUINTAS DE LA CEIBA"
+    }
+  ],
   "SAN GERMÁN": [],
   "SAN ISIDRO": [],
   "SAN JUAN": [
     {
       "area": "SAN JUAN",
       "zone": "Ave. Fernandez Juncos"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Ave. Roosevelt"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Bo. Monacillos"
     },
     {
       "area": "SAN JUAN",
@@ -292,6 +322,10 @@
     },
     {
       "area": "SAN JUAN",
+      "zone": "URB ROOSEVELT"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "URB SANTA ANA"
     },
     {
@@ -309,7 +343,12 @@
       "zone": "CERRO GORDO  LORENZO DEL VALLE"
     }
   ],
-  "SAN SEBASTIAN": [],
+  "SAN SEBASTIAN": [
+    {
+      "area": "SAN SEBASTIAN",
+      "zone": "BO GUATEMALA-5M TRADDING CO"
+    }
+  ],
   "SAN SEBASTIÁN": [],
   "SANTA BARBARA": [],
   "SANTA ISABEL": [],
@@ -362,15 +401,11 @@
     },
     {
       "area": "VEGA BAJA",
-      "zone": "EXT BETANCES"
+      "zone": "Bo. Tortuguero"
     },
     {
       "area": "VEGA BAJA",
       "zone": "Playa Vega Baja"
-    },
-    {
-      "area": "VEGA BAJA",
-      "zone": "Urb. Ciudad Real"
     },
     {
       "area": "VEGA BAJA",
@@ -380,11 +415,6 @@
   "VIEQUES": [],
   "VILLALBA": [],
   "YABUCOA": [],
-  "YAUCO": [
-    {
-      "area": "YAUCO",
-      "zone": "Bo. Palomas"
-    }
-  ],
-  "timestamp_saved": "09/25/2023 05:16 PM"
+  "YAUCO": [],
+  "timestamp_saved": "09/25/2023 05:21 PM"
 }
