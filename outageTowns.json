@@ -3,10 +3,6 @@
     {
       "area": "ADJUNTAS",
       "zone": "URBANO-PARCELAS IRRIZARRY"
-    },
-    {
-      "area": "ADJUNTAS",
-      "zone": "VEGAS ARRIBA"
     }
   ],
   "AGUADA": [
@@ -125,13 +121,18 @@
   ],
   "CANDELARIA": [],
   "CANDELARIA ARENAS": [],
-  "CANOVANAS": [],
+  "CANOVANAS": [
+    {
+      "area": "CANOVANAS",
+      "zone": "Bo. La Central"
+    },
+    {
+      "area": "CANOVANAS",
+      "zone": "STA CATALINA LOIZA ALDEA"
+    }
+  ],
   "CANÓVANAS": [],
   "CAROLINA": [
-    {
-      "area": "CAROLINA",
-      "zone": "CANOVANILLAS"
-    },
     {
       "area": "CAROLINA",
       "zone": "COND CAROLINA COURT"
@@ -179,12 +180,7 @@
     }
   ],
   "COMERÍO": [],
-  "COROZAL": [
-    {
-      "area": "COROZAL",
-      "zone": "  -  "
-    }
-  ],
+  "COROZAL": [],
   "CULEBRA": [],
   "DORADO": [],
   "ESTANCIAS DE FLORIDA": [],
@@ -276,6 +272,10 @@
     {
       "area": "MANATI",
       "zone": "BOMBA AAA IZQ.DETRAS DEL FONDO"
+    },
+    {
+      "area": "MANATI",
+      "zone": "Bda. Alta Gracia"
     },
     {
       "area": "MANATI",
@@ -394,7 +394,7 @@
     },
     {
       "area": "SAN JUAN",
-      "zone": "EXT SAN AGUSTIN"
+      "zone": "SABANA LLANA SUR"
     },
     {
       "area": "SAN JUAN",
@@ -442,10 +442,6 @@
     },
     {
       "area": "TRUJILLO ALTO",
-      "zone": "COND MONTE REAL"
-    },
-    {
-      "area": "TRUJILLO ALTO",
       "zone": "Res. Interamericana"
     }
   ],
@@ -453,11 +449,19 @@
   "VEGA ALTA": [
     {
       "area": "VEGA ALTA",
+      "zone": "Bo. Candelaria"
+    },
+    {
+      "area": "VEGA ALTA",
       "zone": "Bo. Maricao"
     },
     {
       "area": "VEGA ALTA",
       "zone": "CANDELARIA"
+    },
+    {
+      "area": "VEGA ALTA",
+      "zone": "Urb. Esperanza VA"
     }
   ],
   "VEGA BAJA": [
@@ -509,5 +513,5 @@
       "zone": "Bo. Rancheras"
     }
   ],
-  "timestamp_saved": "09/27/2023 05:36 PM"
+  "timestamp_saved": "09/27/2023 05:41 PM"
 }
