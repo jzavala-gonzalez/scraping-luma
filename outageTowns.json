@@ -136,10 +136,6 @@
     {
       "area": "HUMACAO",
       "zone": "Bo. Tejas"
-    },
-    {
-      "area": "HUMACAO",
-      "zone": "CIUDAD CRISTIANA         26093"
     }
   ],
   "INGENIO": [],
@@ -194,10 +190,6 @@
     },
     {
       "area": "MAYAGUEZ",
-      "zone": "CAM CELESTINO"
-    },
-    {
-      "area": "MAYAGUEZ",
       "zone": "LIMON"
     },
     {
@@ -234,7 +226,12 @@
     }
   ],
   "PAJAROS": [],
-  "PATILLAS": [],
+  "PATILLAS": [
+    {
+      "area": "PATILLAS",
+      "zone": "BO BAJOS/VILLA PESQUERA"
+    }
+  ],
   "PENUELAS": [],
   "PEÑUELAS": [],
   "PONCE": [],
@@ -309,14 +306,22 @@
   "SAN LORENZO": [
     {
       "area": "SAN LORENZO",
+      "zone": "BO HATO"
+    },
+    {
+      "area": "SAN LORENZO",
       "zone": "BO JAGUAL,SEC LOS DIAZ/R-116"
     },
     {
       "area": "SAN LORENZO",
-      "zone": "Bo. Hato"
+      "zone": "BO TOMAS DE CASTRO HATO"
     }
   ],
   "SAN SEBASTIAN": [
+    {
+      "area": "SAN SEBASTIAN",
+      "zone": "Bo. Guatemala"
+    },
     {
       "area": "SAN SEBASTIAN",
       "zone": "Bo. Hato Arriba"
@@ -376,12 +381,7 @@
       "zone": "URB CIUDAD UNIVERSITARIA"
     }
   ],
-  "UTUADO": [
-    {
-      "area": "UTUADO",
-      "zone": "BO ARENAS"
-    }
-  ],
+  "UTUADO": [],
   "VEGA ALTA": [],
   "VEGA BAJA": [
     {
@@ -402,5 +402,5 @@
     }
   ],
   "YAUCO": [],
-  "timestamp_saved": "10/04/2023 01:31 AM"
+  "timestamp_saved": "10/04/2023 01:36 AM"
 }
