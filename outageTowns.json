@@ -26,7 +26,12 @@
     }
   ],
   "AGUAS BUENAS": [],
-  "AIBONITO": [],
+  "AIBONITO": [
+    {
+      "area": "AIBONITO",
+      "zone": "BO PASTO MIRADOR LAS DELICIAS"
+    }
+  ],
   "ANASCO": [],
   "ARECIBO": [],
   "ARROYO": [],
@@ -39,10 +44,6 @@
     }
   ],
   "BAYAMON": [
-    {
-      "area": "BAYAMON",
-      "zone": "BO DAJAOS/SECTOR EL RI-ITO"
-    },
     {
       "area": "BAYAMON",
       "zone": "BO JUAN ASENCIO ANDALUZ LOPEZ"
@@ -58,6 +59,14 @@
     {
       "area": "BAYAMON",
       "zone": "Bo. Juan Sanchez"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "DAJAOS"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "FOREST HILLS"
     },
     {
       "area": "BAYAMON",
@@ -82,15 +91,7 @@
   "CAGUAS": [
     {
       "area": "CAGUAS",
-      "zone": "BO BORINQUEN/SEC PARC NUEVAS"
-    },
-    {
-      "area": "CAGUAS",
       "zone": "Bo. Hato"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "Bo. Tomas De Castro I"
     },
     {
       "area": "CAGUAS",
@@ -168,6 +169,10 @@
     {
       "area": "COROZAL",
       "zone": "Bo. Padilla"
+    },
+    {
+      "area": "COROZAL",
+      "zone": "COROZAL"
     }
   ],
   "CULEBRA": [],
@@ -188,10 +193,6 @@
     },
     {
       "area": "GUAYAMA",
-      "zone": "GUAYAMA"
-    },
-    {
-      "area": "GUAYAMA",
       "zone": "Urb. Estancias Dulces Suenos"
     }
   ],
@@ -204,10 +205,6 @@
     {
       "area": "GUAYNABO",
       "zone": "PUEBLO VIEJO"
-    },
-    {
-      "area": "GUAYNABO",
-      "zone": "Sector Canta Gallo"
     }
   ],
   "GURABO": [
@@ -226,10 +223,6 @@
   "HATO REY": [],
   "HORMIGUEROS": [],
   "HUMACAO": [
-    {
-      "area": "HUMACAO",
-      "zone": "PARC NUEVAS"
-    },
     {
       "area": "HUMACAO",
       "zone": "RIO ABAJO"
@@ -303,15 +296,14 @@
     }
   ],
   "MAYAGÜEZ": [],
-  "MOCA": [
-    {
-      "area": "MOCA",
-      "zone": "PUEBLO"
-    }
-  ],
+  "MOCA": [],
   "MOROVIS": [],
   "NAGUABO": [],
   "NARANJITO": [
+    {
+      "area": "NARANJITO",
+      "zone": "BO GUADIANA ALTO"
+    },
     {
       "area": "NARANJITO",
       "zone": "Bo. Nuevo"
@@ -329,14 +321,6 @@
     {
       "area": "OROCOVIS",
       "zone": "INT BO SANAMUERTOS"
-    },
-    {
-      "area": "OROCOVIS",
-      "zone": "Parc. Barros"
-    },
-    {
-      "area": "OROCOVIS",
-      "zone": "Sector Maravilla"
     }
   ],
   "PAJAROS": [],
@@ -352,10 +336,6 @@
     {
       "area": "PONCE",
       "zone": "BO CORRAL VIEJO"
-    },
-    {
-      "area": "PONCE",
-      "zone": "Bo. Quebrada Limon"
     },
     {
       "area": "PONCE",
@@ -388,27 +368,11 @@
     },
     {
       "area": "RIO GRANDE",
-      "zone": "BO LAS TRES T"
-    },
-    {
-      "area": "RIO GRANDE",
       "zone": "Bo. Cienaga Alta"
     },
     {
       "area": "RIO GRANDE",
       "zone": "Bo. Jiménez"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "Bo. Las 3T"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "Bo. Zarzal"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "GUZMAN ARRIBA"
     },
     {
       "area": "RIO GRANDE",
@@ -437,11 +401,20 @@
   "SABANA GRANDE": [
     {
       "area": "SABANA GRANDE",
+      "zone": "Bo. Susua"
+    },
+    {
+      "area": "SABANA GRANDE",
       "zone": "RAYO"
     }
   ],
   "SABANA SECA": [],
-  "SALINAS": [],
+  "SALINAS": [
+    {
+      "area": "SALINAS",
+      "zone": "COM. SANTA ANA I"
+    }
+  ],
   "SAN ANTONIO": [],
   "SAN GERMAN": [
     {
@@ -530,6 +503,10 @@
     },
     {
       "area": "SAN JUAN",
+      "zone": "Urb. El Comandante Ri"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "Urb. Las Lomas"
     },
     {
@@ -596,10 +573,6 @@
     {
       "area": "UTUADO",
       "zone": "Bo. Vivi Abajo"
-    },
-    {
-      "area": "UTUADO",
-      "zone": "LOS CANOS SAN MARTIN DE PORRES"
     }
   ],
   "VEGA ALTA": [
@@ -640,5 +613,5 @@
       "zone": "Zona Urbana Yauco"
     }
   ],
-  "timestamp_saved": "10/05/2023 07:01 PM"
+  "timestamp_saved": "10/05/2023 07:06 PM"
 }
