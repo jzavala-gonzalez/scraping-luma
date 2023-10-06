@@ -116,10 +116,6 @@
     },
     {
       "area": "CANOVANAS",
-      "zone": "Sector Lomas Del Viento"
-    },
-    {
-      "area": "CANOVANAS",
       "zone": "X IGL DEF FE/DESP CHEMO"
     }
   ],
@@ -127,19 +123,11 @@
   "CAROLINA": [
     {
       "area": "CAROLINA",
-      "zone": "JARD DE COUNTRY CLUB"
-    },
-    {
-      "area": "CAROLINA",
       "zone": "SABANA ABAJO"
     },
     {
       "area": "CAROLINA",
       "zone": "URB CHARLYN INDUSTRIAL PARK"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "Urb. Jardines Country"
     }
   ],
   "CATANO": [
@@ -227,13 +215,14 @@
   ],
   "FLORIDA": [],
   "GUANICA": [],
-  "GUAYAMA": [],
+  "GUAYAMA": [
+    {
+      "area": "GUAYAMA",
+      "zone": "BO CARITE PALMA SOLA"
+    }
+  ],
   "GUAYANILLA": [],
   "GUAYNABO": [
-    {
-      "area": "GUAYNABO",
-      "zone": "URB GOLDEN GATE"
-    },
     {
       "area": "GUAYNABO",
       "zone": "URB PUERTO NUEVO"
@@ -261,12 +250,13 @@
     }
   ],
   "HATO REY": [],
-  "HORMIGUEROS": [],
-  "HUMACAO": [
+  "HORMIGUEROS": [
     {
-      "area": "HUMACAO",
-      "zone": "MAMBICHE PRIETO          26037"
-    },
+      "area": "HORMIGUEROS",
+      "zone": "URB MANSIONES DE MONSERRATE"
+    }
+  ],
+  "HUMACAO": [
     {
       "area": "HUMACAO",
       "zone": "URB PALACIOS DEL MAR"
@@ -320,7 +310,12 @@
     }
   ],
   "MANATÍ": [],
-  "MARICAO": [],
+  "MARICAO": [
+    {
+      "area": "MARICAO",
+      "zone": "INDIERA FRIA SECT LAS PIEDRAS"
+    }
+  ],
   "MAUNABO": [],
   "MAYAGUEZ": [
     {
@@ -353,6 +348,10 @@
     {
       "area": "NARANJITO",
       "zone": "BO CEDRO ABAJO 4 CALLES"
+    },
+    {
+      "area": "NARANJITO",
+      "zone": "Bo. Guadiana"
     }
   ],
   "OROCOVIS": [
@@ -393,27 +392,7 @@
   "RIO GRANDE": [
     {
       "area": "RIO GRANDE",
-      "zone": "BO GUZMAN ARRIBA SEC EL RAYO"
-    },
-    {
-      "area": "RIO GRANDE",
       "zone": "BO ZARZAL"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "Bo. Guzman Arriba"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "Bo. Las 3T"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "Casco Urbano"
-    },
-    {
-      "area": "RIO GRANDE",
-      "zone": "Sector Matibulen"
     },
     {
       "area": "RIO GRANDE",
@@ -431,10 +410,6 @@
     {
       "area": "SABANA GRANDE",
       "zone": "BP RAYO GUARAS"
-    },
-    {
-      "area": "SABANA GRANDE",
-      "zone": "Bo. La Maquina"
     },
     {
       "area": "SABANA GRANDE",
@@ -476,6 +451,10 @@
     {
       "area": "SAN JUAN",
       "zone": "GOBERNADOR PIÑERO"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "MONTE BRISAS , CAIMITO"
     },
     {
       "area": "SAN JUAN",
@@ -569,5 +548,5 @@
       "zone": "BO BARINAS LIMA"
     }
   ],
-  "timestamp_saved": "10/06/2023 02:46 PM"
+  "timestamp_saved": "10/06/2023 02:51 PM"
 }
