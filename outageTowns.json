@@ -163,10 +163,6 @@
     {
       "area": "GUAYNABO",
       "zone": "COND GAIA/ VILLA CLEMENTINA"
-    },
-    {
-      "area": "GUAYNABO",
-      "zone": "URB PUERTO NUEVO"
     }
   ],
   "GURABO": [],
@@ -232,24 +228,25 @@
   ],
   "MAYAGÜEZ": [],
   "MOCA": [],
-  "MOROVIS": [],
+  "MOROVIS": [
+    {
+      "area": "MOROVIS",
+      "zone": "Bo. Perchas"
+    }
+  ],
   "NAGUABO": [],
   "NARANJITO": [
+    {
+      "area": "NARANJITO",
+      "zone": "Bo. Achiote"
+    },
     {
       "area": "NARANJITO",
       "zone": "Bo. Cedro Abajo"
     },
     {
       "area": "NARANJITO",
-      "zone": "Bo. Nuevo"
-    },
-    {
-      "area": "NARANJITO",
       "zone": "GUADIANA"
-    },
-    {
-      "area": "NARANJITO",
-      "zone": "GUADIANA-SECTOR ESPINELL"
     }
   ],
   "OROCOVIS": [],
@@ -260,7 +257,12 @@
       "zone": "SECTOR VAQUERIA"
     }
   ],
-  "PENUELAS": [],
+  "PENUELAS": [
+    {
+      "area": "PENUELAS",
+      "zone": "BO QDA CEIBA COREA"
+    }
+  ],
   "PEÑUELAS": [],
   "PONCE": [
     {
@@ -277,11 +279,11 @@
   "RIO GRANDE": [
     {
       "area": "RIO GRANDE",
-      "zone": "Bo. Guzman Arriba"
+      "zone": "Bo. Las 3T"
     },
     {
       "area": "RIO GRANDE",
-      "zone": "Bo. Las 3T"
+      "zone": "GUZMAN ARRIBA"
     },
     {
       "area": "RIO GRANDE",
@@ -301,6 +303,10 @@
     {
       "area": "SALINAS",
       "zone": "BO PLAYA"
+    },
+    {
+      "area": "SALINAS",
+      "zone": "BO PLAYA /SECTOR VILLA VERDE"
     },
     {
       "area": "SALINAS",
@@ -395,5 +401,5 @@
       "zone": "BO CAIMITO SECTOR EL HOYO"
     }
   ],
-  "timestamp_saved": "10/06/2023 09:01 PM"
+  "timestamp_saved": "10/06/2023 09:06 PM"
 }
