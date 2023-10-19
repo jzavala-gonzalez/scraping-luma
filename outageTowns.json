@@ -24,10 +24,6 @@
     {
       "area": "BAYAMON",
       "zone": "Bo. Nuevo"
-    },
-    {
-      "area": "BAYAMON",
-      "zone": "URB PARQUE SAN MIGUEL"
     }
   ],
   "BAYAMÓN": [],
@@ -41,10 +37,6 @@
     {
       "area": "CAGUAS",
       "zone": "BO CA&ABONCITO"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "Bda. Morales"
     },
     {
       "area": "CAGUAS",
@@ -95,17 +87,18 @@
       "zone": "Bo. Jaguas"
     }
   ],
-  "CIDRA": [],
+  "CIDRA": [
+    {
+      "area": "CIDRA",
+      "zone": "Bo. Bayamon"
+    }
+  ],
   "COAMO": [],
   "COCO": [],
   "COMERIO": [
     {
       "area": "COMERIO",
       "zone": "BO NARANJO SEC EL VERDE"
-    },
-    {
-      "area": "COMERIO",
-      "zone": "Bo. Naranjo"
     }
   ],
   "COMERÍO": [],
@@ -127,16 +120,15 @@
     }
   ],
   "ESTANCIAS DE FLORIDA": [],
-  "FAJARDO": [
-    {
-      "area": "FAJARDO",
-      "zone": "QUEBRADA FAJARDO"
-    }
-  ],
+  "FAJARDO": [],
   "FLORIDA": [],
   "GUANICA": [],
   "GUAYAMA": [],
   "GUAYANILLA": [
+    {
+      "area": "GUAYANILLA",
+      "zone": "BO MACANA"
+    },
     {
       "area": "GUAYANILLA",
       "zone": "GUAYANILLA"
@@ -152,11 +144,7 @@
   "HATILLO": [
     {
       "area": "HATILLO",
-      "zone": "BO PUEBLO"
-    },
-    {
-      "area": "HATILLO",
-      "zone": "NARANJITO"
+      "zone": "CARRIZALES"
     }
   ],
   "HATO REY": [],
@@ -212,6 +200,10 @@
   "MOROVIS": [
     {
       "area": "MOROVIS",
+      "zone": "BO BARAHONA"
+    },
+    {
+      "area": "MOROVIS",
       "zone": "BUZON 56 BO BARAHONA"
     },
     {
@@ -225,13 +217,13 @@
     {
       "area": "MOROVIS",
       "zone": "MONTE LLANO"
+    },
+    {
+      "area": "MOROVIS",
+      "zone": "MOROVIS NORTE LOS YUPOS"
     }
   ],
   "NAGUABO": [
-    {
-      "area": "NAGUABO",
-      "zone": "CITY PALACE"
-    },
     {
       "area": "NAGUABO",
       "zone": "URB.JARDINES DE LA VIA.RTA/139"
@@ -272,11 +264,20 @@
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
-  "SABANA GRANDE": [],
+  "SABANA GRANDE": [
+    {
+      "area": "SABANA GRANDE",
+      "zone": "BO MACHUCHAL SECTOR PAPAYO"
+    }
+  ],
   "SABANA SECA": [],
   "SALINAS": [],
   "SAN ANTONIO": [],
   "SAN GERMAN": [
+    {
+      "area": "SAN GERMAN",
+      "zone": "MINILLAS SECTOR IGUERO"
+    },
     {
       "area": "SAN GERMAN",
       "zone": "RETIRO"
@@ -288,6 +289,10 @@
     {
       "area": "SAN JUAN",
       "zone": "Ave. Baldorioty De Castro"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "COND EXECUTIVE"
     },
     {
       "area": "SAN JUAN",
@@ -324,12 +329,7 @@
       "zone": "Sector Quebrada"
     }
   ],
-  "SAN SEBASTIAN": [
-    {
-      "area": "SAN SEBASTIAN",
-      "zone": "Bo. Saltos"
-    }
-  ],
+  "SAN SEBASTIAN": [],
   "SAN SEBASTIÁN": [],
   "SANTA BARBARA": [],
   "SANTA ISABEL": [],
@@ -345,7 +345,7 @@
     },
     {
       "area": "TOA ALTA",
-      "zone": "RIO LAJAS"
+      "zone": "MUCARABONES"
     },
     {
       "area": "TOA ALTA",
@@ -372,6 +372,10 @@
   ],
   "TRUJILLO ALTO": [],
   "UTUADO": [
+    {
+      "area": "UTUADO",
+      "zone": "BO SABANA GRANDE"
+    },
     {
       "area": "UTUADO",
       "zone": "BO SABANA GRANDE-CERRO AVISPAS"
@@ -421,5 +425,5 @@
       "zone": "BO SIERRA BAJA  SECT PIMIENTO"
     }
   ],
-  "timestamp_saved": "10/19/2023 10:31 PM"
+  "timestamp_saved": "10/19/2023 10:36 PM"
 }
