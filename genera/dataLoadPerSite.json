@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 323,
+    "SiteTotal": 325,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 105,
+        "MW": 106,
         "MVar": "19",
-        "Cost": 12.46,
+        "Cost": 12.62,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 104,
+        "MW": 106,
         "MVar": "18",
-        "Cost": 12.46,
+        "Cost": 12.62,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 116,
+        "MW": 114,
         "MVar": "56",
-        "Cost": 12.46,
+        "Cost": 12.62,
         "ParentId": "7"
       }
     ]
@@ -258,7 +258,7 @@
         "Unit": "Palo Seco",
         "MW": 38,
         "MVar": "0",
-        "Cost": 26.03,
+        "Cost": 25.96,
         "ParentId": "8"
       },
       {
@@ -306,14 +306,14 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 17.8,
+        "Cost": 17.82,
         "ParentId": "8"
       },
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
         "MW": 134,
-        "MVar": "22",
+        "MVar": "23",
         "Cost": 0,
         "ParentId": "8"
       },
@@ -403,22 +403,22 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 377,
+    "SiteTotal": 376,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
-        "MW": 158,
-        "MVar": "48",
-        "Cost": 17.06,
+        "MW": 159,
+        "MVar": "47",
+        "Cost": 16.92,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 55,
-        "MVar": "10",
-        "Cost": 17.06,
+        "MVar": "11",
+        "Cost": 16.92,
         "ParentId": "11"
       },
       {
@@ -426,7 +426,7 @@
         "Unit": "CTG 6",
         "MW": 123,
         "MVar": "37",
-        "Cost": 18.14,
+        "Cost": 18.13,
         "ParentId": "11"
       },
       {
@@ -434,7 +434,7 @@
         "Unit": "STG 6",
         "MW": 40,
         "MVar": "8",
-        "Cost": 18.14,
+        "Cost": 18.13,
         "ParentId": "11"
       }
     ]
@@ -443,14 +443,14 @@
     "Index": "12",
     "Type": "Ciclo Combinado",
     "Desc": "Aguirre Stag 1",
-    "SiteTotal": 30,
+    "SiteTotal": 28,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 30,
-        "MVar": "2",
-        "Cost": 31.14,
+        "MW": 28,
+        "MVar": "0",
+        "Cost": 30.83,
         "ParentId": "12"
       },
       {
@@ -539,7 +539,7 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 70,
+    "SiteTotal": 72,
     "units": [
       {
         "Index": "0",
@@ -560,9 +560,9 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 70,
+        "MW": 72,
         "MVar": "6",
-        "Cost": 19.33,
+        "Cost": 19.36,
         "ParentId": "14"
       },
       {
@@ -601,8 +601,8 @@
         "Index": "2",
         "Unit": "Unit 3",
         "MW": 150,
-        "MVar": "59",
-        "Cost": 16.88,
+        "MVar": "60",
+        "Cost": 16.9,
         "ParentId": "15"
       },
       {
@@ -634,7 +634,7 @@
         "Unit": "Unit 2",
         "MW": 250,
         "MVar": "139",
-        "Cost": 17.8,
+        "Cost": 17.82,
         "ParentId": "16"
       }
     ]
@@ -643,7 +643,7 @@
     "Index": "17",
     "Type": "Vapor",
     "Desc": "Costa Sur",
-    "SiteTotal": 277,
+    "SiteTotal": 276,
     "units": [
       {
         "Index": "0",
@@ -672,9 +672,9 @@
       {
         "Index": "3",
         "Unit": "Unit 6",
-        "MW": 277,
-        "MVar": "68",
-        "Cost": 11.04,
+        "MW": 276,
+        "MVar": "67",
+        "Cost": 11.03,
         "ParentId": "17"
       }
     ]
@@ -818,7 +818,7 @@
         "Unit": "GT2",
         "MW": 0,
         "MVar": "0",
-        "Cost": 26.15,
+        "Cost": 26.01,
         "ParentId": "21"
       },
       {
