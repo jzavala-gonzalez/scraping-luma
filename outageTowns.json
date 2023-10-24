@@ -51,10 +51,6 @@
     {
       "area": "CAGUAS",
       "zone": "BO SAN ANTONIO"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "CAGUAS"
     }
   ],
   "CAMPANILLA": [],
@@ -134,7 +130,12 @@
     }
   ],
   "FLORIDA": [],
-  "GUANICA": [],
+  "GUANICA": [
+    {
+      "area": "GUANICA",
+      "zone": "Bo. Magueyes"
+    }
+  ],
   "GUAYAMA": [],
   "GUAYANILLA": [],
   "GUAYNABO": [],
@@ -259,16 +260,17 @@
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
-  "SABANA GRANDE": [],
+  "SABANA GRANDE": [
+    {
+      "area": "SABANA GRANDE",
+      "zone": "Casco Urbano Sab. Gran"
+    }
+  ],
   "SABANA SECA": [],
   "SALINAS": [
     {
       "area": "SALINAS",
-      "zone": "URB ESTANCIAS TRINITARIA III"
-    },
-    {
-      "area": "SALINAS",
-      "zone": "URB PASEO COSTA DEL SUR"
+      "zone": "URB EST DE LA TRINITARIA III"
     }
   ],
   "SAN ANTONIO": [],
@@ -349,10 +351,6 @@
     {
       "area": "TRUJILLO ALTO",
       "zone": "CARRAIZO"
-    },
-    {
-      "area": "TRUJILLO ALTO",
-      "zone": "Casco Urbano Truj. Alt"
     }
   ],
   "UTUADO": [
@@ -377,5 +375,5 @@
       "zone": "Bo. Susua Alta"
     }
   ],
-  "timestamp_saved": "10/24/2023 01:26 PM"
+  "timestamp_saved": "10/24/2023 01:31 PM"
 }
