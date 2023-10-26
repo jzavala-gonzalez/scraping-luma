@@ -1,22 +1,5 @@
 {
-  "ADJUNTAS": [
-    {
-      "area": "ADJUNTAS",
-      "zone": "BO SALTILLO SECT VACA"
-    },
-    {
-      "area": "ADJUNTAS",
-      "zone": "Bo. Garzas"
-    },
-    {
-      "area": "ADJUNTAS",
-      "zone": "Bo. Garzas Centro"
-    },
-    {
-      "area": "ADJUNTAS",
-      "zone": "Bo. Saltillo Vaca"
-    }
-  ],
+  "ADJUNTAS": [],
   "AGUADA": [],
   "AGUADILLA": [],
   "AGUAS BUENAS": [
@@ -127,7 +110,12 @@
   "ESTANCIAS DE FLORIDA": [],
   "FAJARDO": [],
   "FLORIDA": [],
-  "GUANICA": [],
+  "GUANICA": [
+    {
+      "area": "GUANICA",
+      "zone": "CAÑO"
+    }
+  ],
   "GUAYAMA": [],
   "GUAYANILLA": [],
   "GUAYNABO": [
@@ -199,15 +187,7 @@
   "LARES": [
     {
       "area": "LARES",
-      "zone": "BO CALLEJONES LARES"
-    },
-    {
-      "area": "LARES",
       "zone": "CALLEJONES"
-    },
-    {
-      "area": "LARES",
-      "zone": "PILETAS/CABAN"
     }
   ],
   "LAS MARIAS": [],
@@ -276,10 +256,6 @@
     {
       "area": "PONCE",
       "zone": "REAL"
-    },
-    {
-      "area": "PONCE",
-      "zone": "Urb. Los Maestros"
     }
   ],
   "PUERTO NUEVO": [],
@@ -453,5 +429,5 @@
   ],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "10/26/2023 01:21 PM"
+  "timestamp_saved": "10/26/2023 01:26 PM"
 }
