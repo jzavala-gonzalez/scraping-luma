@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 470,
+    "SiteTotal": 469,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
         "MW": 161,
         "MVar": "47",
-        "Cost": 10.33,
+        "Cost": 10.37,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
         "MW": 161,
-        "MVar": "48",
-        "Cost": 10.33,
+        "MVar": "50",
+        "Cost": 10.37,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 147,
+        "MW": 148,
         "MVar": "50",
-        "Cost": 10.33,
+        "Cost": 10.37,
         "ParentId": "7"
       }
     ]
@@ -320,7 +320,7 @@
       {
         "Index": "8",
         "Unit": "FEMA GT SJ",
-        "MW": 203,
+        "MW": 204,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "8"
@@ -409,23 +409,23 @@
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 123,
-        "MVar": "37",
-        "Cost": 17.24,
+        "MVar": "38",
+        "Cost": 18.43,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 40,
-        "MVar": "8",
-        "Cost": 17.24,
+        "MVar": "9",
+        "Cost": 18.43,
         "ParentId": "11"
       },
       {
         "Index": "2",
         "Unit": "CTG 6",
         "MW": 123,
-        "MVar": "39",
+        "MVar": "36",
         "Cost": 18.17,
         "ParentId": "11"
       },
@@ -433,7 +433,7 @@
         "Index": "3",
         "Unit": "STG 6",
         "MW": 39,
-        "MVar": "8",
+        "MVar": "9",
         "Cost": 18.17,
         "ParentId": "11"
       }
@@ -539,7 +539,7 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 72,
+    "SiteTotal": 73,
     "units": [
       {
         "Index": "0",
@@ -560,7 +560,7 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 72,
+        "MW": 73,
         "MVar": "25",
         "Cost": 19.26,
         "ParentId": "14"
@@ -579,7 +579,7 @@
     "Index": "15",
     "Type": "Vapor",
     "Desc": "Palo Seco",
-    "SiteTotal": 150,
+    "SiteTotal": 145,
     "units": [
       {
         "Index": "0",
@@ -600,9 +600,9 @@
       {
         "Index": "2",
         "Unit": "Unit 3",
-        "MW": 150,
+        "MW": 145,
         "MVar": "89",
-        "Cost": 16.88,
+        "Cost": 16.66,
         "ParentId": "15"
       },
       {
@@ -699,7 +699,7 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 3,
+    "SiteTotal": 4,
     "units": [
       {
         "Index": "0",
@@ -737,7 +737,7 @@
         "Index": "4",
         "Unit": "Oriana",
         "MW": 1,
-        "MVar": "10",
+        "MVar": "12",
         "Cost": 19.6,
         "ParentId": "19"
       },
