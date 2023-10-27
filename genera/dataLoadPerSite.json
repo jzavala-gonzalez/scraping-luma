@@ -219,22 +219,22 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 391,
+    "SiteTotal": 390,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
         "MW": 131,
         "MVar": "40",
-        "Cost": 11.34,
+        "Cost": 11.36,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 132,
-        "MVar": "41",
-        "Cost": 11.34,
+        "MW": 131,
+        "MVar": "43",
+        "Cost": 11.36,
         "ParentId": "7"
       },
       {
@@ -242,7 +242,7 @@
         "Unit": "STG",
         "MW": 128,
         "MVar": "46",
-        "Cost": 11.34,
+        "Cost": 11.36,
         "ParentId": "7"
       }
     ]
@@ -312,7 +312,7 @@
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
-        "MW": 158,
+        "MW": 157,
         "MVar": "32",
         "Cost": 0,
         "ParentId": "8"
@@ -320,7 +320,7 @@
       {
         "Index": "8",
         "Unit": "FEMA GT SJ",
-        "MW": 203,
+        "MW": 204,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "8"
@@ -331,12 +331,12 @@
     "Index": "9",
     "Type": "Turbina de Gas",
     "Desc": "Mayaguez",
-    "SiteTotal": 0,
+    "SiteTotal": 2,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 0,
+        "MW": 2,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "9"
@@ -403,14 +403,14 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 326,
+    "SiteTotal": 325,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 123,
         "MVar": "37",
-        "Cost": 17.25,
+        "Cost": 17.28,
         "ParentId": "11"
       },
       {
@@ -418,7 +418,7 @@
         "Unit": "STG 5",
         "MW": 40,
         "MVar": "8",
-        "Cost": 17.25,
+        "Cost": 17.28,
         "ParentId": "11"
       },
       {
@@ -539,7 +539,7 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 70,
+    "SiteTotal": 71,
     "units": [
       {
         "Index": "0",
@@ -560,7 +560,7 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 70,
+        "MW": 71,
         "MVar": "14",
         "Cost": 19.37,
         "ParentId": "14"
@@ -579,7 +579,7 @@
     "Index": "15",
     "Type": "Vapor",
     "Desc": "Palo Seco",
-    "SiteTotal": 150,
+    "SiteTotal": 151,
     "units": [
       {
         "Index": "0",
@@ -600,9 +600,9 @@
       {
         "Index": "2",
         "Unit": "Unit 3",
-        "MW": 150,
-        "MVar": "74",
-        "Cost": 16.85,
+        "MW": 151,
+        "MVar": "75",
+        "Cost": 16.87,
         "ParentId": "15"
       },
       {
@@ -619,7 +619,7 @@
     "Index": "16",
     "Type": "Vapor",
     "Desc": "Aguirre",
-    "SiteTotal": 229,
+    "SiteTotal": 0,
     "units": [
       {
         "Index": "0",
@@ -632,9 +632,9 @@
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 229,
+        "MW": 0,
         "MVar": "89",
-        "Cost": 0,
+        "Cost": 21.08,
         "ParentId": "16"
       }
     ]
