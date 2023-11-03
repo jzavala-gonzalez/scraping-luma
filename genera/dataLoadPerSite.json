@@ -195,12 +195,12 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 253,
+    "SiteTotal": 254,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 253,
+        "MW": 254,
         "MVar": "71",
         "Cost": 4.39,
         "ParentId": "6"
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 327,
+    "SiteTotal": 329,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 104,
-        "MVar": "51",
-        "Cost": 12.22,
+        "MW": 107,
+        "MVar": "50",
+        "Cost": 12.77,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 104,
+        "MW": 107,
         "MVar": "50",
-        "Cost": 12.22,
+        "Cost": 12.77,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 119,
-        "MVar": "48",
-        "Cost": 12.22,
+        "MW": 116,
+        "MVar": "47",
+        "Cost": 12.77,
         "ParentId": "7"
       }
     ]
@@ -258,7 +258,7 @@
         "Unit": "Palo Seco",
         "MW": 36,
         "MVar": "0",
-        "Cost": 26.28,
+        "Cost": 26.43,
         "ParentId": "8"
       },
       {
@@ -306,21 +306,21 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 17.37,
+        "Cost": 17.3,
         "ParentId": "8"
       },
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
-        "MW": 152,
-        "MVar": "39",
+        "MW": 153,
+        "MVar": "38",
         "Cost": 0,
         "ParentId": "8"
       },
       {
         "Index": "8",
         "Unit": "FEMA GT SJ",
-        "MW": 202,
+        "MW": 208,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "8"
@@ -331,14 +331,14 @@
     "Index": "9",
     "Type": "Turbina de Gas",
     "Desc": "Mayaguez",
-    "SiteTotal": 47,
+    "SiteTotal": 31,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
         "MW": 24,
         "MVar": "0",
-        "Cost": 26.25,
+        "Cost": 26.21,
         "ParentId": "9"
       },
       {
@@ -360,9 +360,9 @@
       {
         "Index": "3",
         "Unit": "Gas 4",
-        "MW": 23,
-        "MVar": "4",
-        "Cost": 26.64,
+        "MW": 7,
+        "MVar": "1",
+        "Cost": 25.07,
         "ParentId": "9"
       }
     ]
@@ -403,22 +403,22 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 281,
+    "SiteTotal": 282,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 123,
-        "MVar": "37",
-        "Cost": 18.29,
+        "MVar": "39",
+        "Cost": 17.15,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 44,
-        "MVar": "12",
-        "Cost": 18.29,
+        "MVar": "9",
+        "Cost": 17.15,
         "ParentId": "11"
       },
       {
@@ -491,7 +491,7 @@
     "Index": "13",
     "Type": "Ciclo Combinado",
     "Desc": "Aguirre Stag 2",
-    "SiteTotal": 60,
+    "SiteTotal": 61,
     "units": [
       {
         "Index": "0",
@@ -520,9 +520,9 @@
       {
         "Index": "3",
         "Unit": "Gas 4",
-        "MW": 30,
+        "MW": 31,
         "MVar": "7",
-        "Cost": 31.03,
+        "Cost": 31.62,
         "ParentId": "13"
       },
       {
@@ -546,7 +546,7 @@
         "Unit": "Unit 7",
         "MW": 53,
         "MVar": "16",
-        "Cost": 21.13,
+        "Cost": 21.11,
         "ParentId": "14"
       },
       {
@@ -579,7 +579,7 @@
     "Index": "15",
     "Type": "Vapor",
     "Desc": "Palo Seco",
-    "SiteTotal": 150,
+    "SiteTotal": 152,
     "units": [
       {
         "Index": "0",
@@ -600,9 +600,9 @@
       {
         "Index": "2",
         "Unit": "Unit 3",
-        "MW": 150,
+        "MW": 152,
         "MVar": "87",
-        "Cost": 16.93,
+        "Cost": 16.96,
         "ParentId": "15"
       },
       {
@@ -619,7 +619,7 @@
     "Index": "16",
     "Type": "Vapor",
     "Desc": "Aguirre",
-    "SiteTotal": 286,
+    "SiteTotal": 292,
     "units": [
       {
         "Index": "0",
@@ -632,9 +632,9 @@
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 286,
+        "MW": 292,
         "MVar": "142",
-        "Cost": 17.37,
+        "Cost": 17.3,
         "ParentId": "16"
       }
     ]
@@ -673,8 +673,8 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 307,
-        "MVar": "72",
-        "Cost": 9.39,
+        "MVar": "74",
+        "Cost": 9.4,
         "ParentId": "17"
       }
     ]
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 6,
+    "SiteTotal": 5,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 6,
+        "MW": 5,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
@@ -699,7 +699,7 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 59,
+    "SiteTotal": 63,
     "units": [
       {
         "Index": "0",
@@ -720,8 +720,8 @@
       {
         "Index": "2",
         "Unit": "Horizon",
-        "MW": 5,
-        "MVar": "2",
+        "MW": 6,
+        "MVar": "3",
         "Cost": 19.6,
         "ParentId": "19"
       },
@@ -736,15 +736,15 @@
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 20,
-        "MVar": "10",
+        "MW": 22,
+        "MVar": "14",
         "Cost": 19.6,
         "ParentId": "19"
       },
       {
         "Index": "5",
         "Unit": "Fonroche",
-        "MW": 16,
+        "MW": 17,
         "MVar": "1",
         "Cost": 17,
         "ParentId": "19"
@@ -810,7 +810,7 @@
         "Unit": "GT1",
         "MW": 17,
         "MVar": "0",
-        "Cost": 26.59,
+        "Cost": 26.91,
         "ParentId": "21"
       },
       {
@@ -818,7 +818,7 @@
         "Unit": "GT2",
         "MW": 0,
         "MVar": "0",
-        "Cost": 26,
+        "Cost": 26.01,
         "ParentId": "21"
       },
       {
