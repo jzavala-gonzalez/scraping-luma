@@ -28,17 +28,18 @@
   "AÑASCO": [],
   "BARCELONETA": [],
   "BARRANQUITAS": [],
-  "BAYAMON": [],
+  "BAYAMON": [
+    {
+      "area": "BAYAMON",
+      "zone": "MINILLAS"
+    }
+  ],
   "BAYAMÓN": [],
   "CABO ROJO": [],
   "CAGUAS": [
     {
       "area": "CAGUAS",
       "zone": "TOMAS DE CASTRO/SECTOR SOLA"
-    },
-    {
-      "area": "CAGUAS",
-      "zone": "URB GRAN SAVANNAH"
     },
     {
       "area": "CAGUAS",
@@ -59,15 +60,7 @@
   "CAROLINA": [
     {
       "area": "CAROLINA",
-      "zone": "BO CANOVANILLAS"
-    },
-    {
-      "area": "CAROLINA",
       "zone": "Bo. Canovanillas"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "Carr 185"
     },
     {
       "area": "CAROLINA",
@@ -100,10 +93,6 @@
     {
       "area": "DORADO",
       "zone": "Bo. Espinosa"
-    },
-    {
-      "area": "DORADO",
-      "zone": "URB SARDINERA BEACH"
     }
   ],
   "ESTANCIAS DE FLORIDA": [],
@@ -111,10 +100,6 @@
     {
       "area": "FAJARDO",
       "zone": "FAJARDO"
-    },
-    {
-      "area": "FAJARDO",
-      "zone": "PAR BELTRAN"
     }
   ],
   "FLORIDA": [],
@@ -174,12 +159,7 @@
       "zone": "BO MATA DE PLATANO"
     }
   ],
-  "MANATI": [
-    {
-      "area": "MANATI",
-      "zone": "BO RIO ARRIBA PONIENTE"
-    }
-  ],
+  "MANATI": [],
   "MANATÍ": [],
   "MARICAO": [],
   "MAUNABO": [],
@@ -187,6 +167,10 @@
     {
       "area": "MAYAGUEZ",
       "zone": "Bo. Quebrada Grande"
+    },
+    {
+      "area": "MAYAGUEZ",
+      "zone": "COND LA GAVIOTA APT 5C"
     },
     {
       "area": "MAYAGUEZ",
@@ -259,7 +243,19 @@
     },
     {
       "area": "SAN JUAN",
+      "zone": "Parcelas Falu"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "SAN JUAN PR 00901-0000"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "URB MONTECARLO"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "URB SUMMIT HILLS"
     },
     {
       "area": "SAN JUAN",
@@ -335,7 +331,16 @@
     }
   ],
   "UTUADO": [],
-  "VEGA ALTA": [],
+  "VEGA ALTA": [
+    {
+      "area": "VEGA ALTA",
+      "zone": "HACIENDAS DEL MAR/CERRO GORDO"
+    },
+    {
+      "area": "VEGA ALTA",
+      "zone": "LAS PALMAS DE CERRO GORDO"
+    }
+  ],
   "VEGA BAJA": [
     {
       "area": "VEGA BAJA",
@@ -346,7 +351,12 @@
       "zone": "PARC COLOMBO LAS PINAS"
     }
   ],
-  "VIEQUES": [],
+  "VIEQUES": [
+    {
+      "area": "VIEQUES",
+      "zone": "BDA B DE BOSTON"
+    }
+  ],
   "VILLALBA": [
     {
       "area": "VILLALBA",
@@ -355,5 +365,5 @@
   ],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "11/07/2023 06:46 PM"
+  "timestamp_saved": "11/07/2023 06:51 PM"
 }
