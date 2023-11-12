@@ -195,14 +195,14 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 251,
+    "SiteTotal": 252,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 251,
-        "MVar": "79",
-        "Cost": 4.4,
+        "MW": 252,
+        "MVar": "78",
+        "Cost": 4.38,
         "ParentId": "6"
       },
       {
@@ -210,7 +210,7 @@
         "Unit": "Unit 2",
         "MW": 0,
         "MVar": "0",
-        "Cost": 4.4,
+        "Cost": 4.38,
         "ParentId": "6"
       }
     ]
@@ -219,22 +219,22 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 317,
+    "SiteTotal": 313,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 102,
+        "MW": 101,
         "MVar": "44",
-        "Cost": 13.03,
+        "Cost": 13.1,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 102,
-        "MVar": "45",
-        "Cost": 13.03,
+        "MW": 101,
+        "MVar": "46",
+        "Cost": 13.1,
         "ParentId": "7"
       },
       {
@@ -242,7 +242,7 @@
         "Unit": "STG",
         "MW": 113,
         "MVar": "55",
-        "Cost": 13.03,
+        "Cost": 13.1,
         "ParentId": "7"
       }
     ]
@@ -312,8 +312,8 @@
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
-        "MW": 152,
-        "MVar": "33",
+        "MW": 151,
+        "MVar": "30",
         "Cost": 0,
         "ParentId": "8"
       },
@@ -371,7 +371,7 @@
     "Index": "10",
     "Type": "Turbina de Gas",
     "Desc": "Cambalache",
-    "SiteTotal": 51,
+    "SiteTotal": 52,
     "units": [
       {
         "Index": "0",
@@ -384,9 +384,9 @@
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 51,
-        "MVar": "10",
-        "Cost": 31.16,
+        "MW": 52,
+        "MVar": "11",
+        "Cost": 30.85,
         "ParentId": "10"
       },
       {
@@ -409,8 +409,8 @@
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 123,
-        "MVar": "36",
-        "Cost": 17.83,
+        "MVar": "37",
+        "Cost": 17.46,
         "ParentId": "11"
       },
       {
@@ -418,7 +418,7 @@
         "Unit": "STG 5",
         "MW": 47,
         "MVar": "10",
-        "Cost": 17.83,
+        "Cost": 17.46,
         "ParentId": "11"
       },
       {
@@ -539,14 +539,14 @@
     "Index": "14",
     "Type": "Vapor",
     "Desc": "San Juan",
-    "SiteTotal": 114,
+    "SiteTotal": 116,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 7",
         "MW": 45,
-        "MVar": "12",
-        "Cost": 22.21,
+        "MVar": "11",
+        "Cost": 22.13,
         "ParentId": "14"
       },
       {
@@ -560,9 +560,9 @@
       {
         "Index": "2",
         "Unit": "Unit 9",
-        "MW": 70,
+        "MW": 71,
         "MVar": "23",
-        "Cost": 19.31,
+        "Cost": 19.3,
         "ParentId": "14"
       },
       {
@@ -601,8 +601,8 @@
         "Index": "2",
         "Unit": "Unit 3",
         "MW": 120,
-        "MVar": "65",
-        "Cost": 17.66,
+        "MVar": "64",
+        "Cost": 17.64,
         "ParentId": "15"
       },
       {
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 66,
+    "SiteTotal": 61,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 66,
+        "MW": 61,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
@@ -699,13 +699,13 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 107,
+    "SiteTotal": 98,
     "units": [
       {
         "Index": "0",
         "Unit": "San Fermin",
-        "MW": 7,
-        "MVar": "2",
+        "MW": 4,
+        "MVar": "3",
         "Cost": 18.32,
         "ParentId": "19"
       },
@@ -728,16 +728,16 @@
       {
         "Index": "3",
         "Unit": "Coto Laurel",
-        "MW": 6,
-        "MVar": "0",
+        "MW": 3,
+        "MVar": "3",
         "Cost": 19.1,
         "ParentId": "19"
       },
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 40,
-        "MVar": "16",
+        "MW": 39,
+        "MVar": "15",
         "Cost": 19.6,
         "ParentId": "19"
       },
@@ -745,7 +745,7 @@
         "Index": "5",
         "Unit": "Fonroche",
         "MW": 28,
-        "MVar": "7",
+        "MVar": "6",
         "Cost": 17,
         "ParentId": "19"
       }
@@ -755,12 +755,12 @@
     "Index": "20",
     "Type": "Renovable",
     "Desc": "Landfill",
-    "SiteTotal": 1,
+    "SiteTotal": 2,
     "units": [
       {
         "Index": "0",
         "Unit": "Toa Baja",
-        "MW": 1,
+        "MW": 2,
         "MVar": "0",
         "Cost": 10,
         "ParentId": "20"
