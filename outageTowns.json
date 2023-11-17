@@ -25,10 +25,6 @@
   "AIBONITO": [
     {
       "area": "AIBONITO",
-      "zone": "AIBONITO"
-    },
-    {
-      "area": "AIBONITO",
       "zone": "Bo. Los Llanos"
     }
   ],
@@ -36,12 +32,12 @@
   "ARECIBO": [],
   "ARROYO": [],
   "AÑASCO": [],
-  "BARCELONETA": [
-    {
-      "area": "BARCELONETA"
-    }
-  ],
+  "BARCELONETA": [],
   "BARRANQUITAS": [
+    {
+      "area": "BARRANQUITAS",
+      "zone": "BO BARRANCAS SEC LA PACHECA"
+    },
     {
       "area": "BARRANQUITAS",
       "zone": "BO BARRANCAS/PACHECA"
@@ -105,7 +101,12 @@
       "zone": "Bo. Palmas"
     }
   ],
-  "CATAÑO": [],
+  "CATAÑO": [
+    {
+      "area": "CATAÑO",
+      "zone": "PALMAS"
+    }
+  ],
   "CAYEY": [],
   "CEIBA": [
     {
@@ -256,17 +257,18 @@
     {
       "area": "MAYAGUEZ",
       "zone": "MAYAGUEZ"
-    },
-    {
-      "area": "MAYAGUEZ",
-      "zone": "URB HOSTOS"
     }
   ],
   "MAYAGÜEZ": [],
   "MOCA": [],
   "MOROVIS": [],
   "NAGUABO": [],
-  "NARANJITO": [],
+  "NARANJITO": [
+    {
+      "area": "NARANJITO",
+      "zone": "Bo. Cedro Arriba"
+    }
+  ],
   "OROCOVIS": [
     {
       "area": "OROCOVIS",
@@ -302,15 +304,11 @@
   "RINCON": [
     {
       "area": "RINCON",
-      "zone": "BO CRUCES"
-    },
-    {
-      "area": "RINCON",
       "zone": "BO CRUCES/ SECT JUAN SOTO"
     },
     {
       "area": "RINCON",
-      "zone": "BO RIO GRANDE"
+      "zone": "BO RIO GRANDESEC PEDRO ROSADO"
     }
   ],
   "RINCÓN": [],
@@ -338,19 +336,11 @@
     },
     {
       "area": "SAN GERMAN",
-      "zone": "Bo. Guama"
-    },
-    {
-      "area": "SAN GERMAN",
       "zone": "GUAMA"
     },
     {
       "area": "SAN GERMAN",
-      "zone": "SABANA ENEAS"
-    },
-    {
-      "area": "SAN GERMAN",
-      "zone": "Sector Minillas Valle"
+      "zone": "MARESUA"
     }
   ],
   "SAN GERMÁN": [],
@@ -394,6 +384,10 @@
   "TRUJILLO ALTO": [
     {
       "area": "TRUJILLO ALTO",
+      "zone": "Bo. La Gloria"
+    },
+    {
+      "area": "TRUJILLO ALTO",
       "zone": "LAS CUEVAS"
     }
   ],
@@ -418,5 +412,5 @@
       "zone": "Bo. Almacigo Bajo"
     }
   ],
-  "timestamp_saved": "11/17/2023 07:26 PM"
+  "timestamp_saved": "11/17/2023 07:31 PM"
 }
