@@ -2,10 +2,6 @@
   "ADJUNTAS": [
     {
       "area": "ADJUNTAS",
-      "zone": "BO TANAMA-SECT EL NOVILLO"
-    },
-    {
-      "area": "ADJUNTAS",
       "zone": "Bo. Garzas Centro"
     },
     {
@@ -44,12 +40,12 @@
   "ARECIBO": [],
   "ARROYO": [],
   "AÑASCO": [],
-  "BARCELONETA": [],
-  "BARRANQUITAS": [
+  "BARCELONETA": [
     {
-      "area": "BARRANQUITAS",
-      "zone": "BO BARRANCAS SEC L PACHEC"
-    },
+      "area": "BARCELONETA"
+    }
+  ],
+  "BARRANQUITAS": [
     {
       "area": "BARRANQUITAS",
       "zone": "BO BARRANCAS SEC LA PACHECA"
@@ -123,7 +119,12 @@
       "zone": "TRUJILLO BAJO"
     }
   ],
-  "CATANO": [],
+  "CATANO": [
+    {
+      "area": "CATANO",
+      "zone": "Bo. Palmas"
+    }
+  ],
   "CATAÑO": [],
   "CAYEY": [],
   "CEIBA": [
@@ -151,10 +152,6 @@
   ],
   "COCO": [],
   "COMERIO": [
-    {
-      "area": "COMERIO",
-      "zone": "CEDRITO"
-    },
     {
       "area": "COMERIO",
       "zone": "NARANJO"
@@ -221,12 +218,20 @@
     {
       "area": "LAJAS",
       "zone": "BO SALINAS FORTUNA/LOS HORNOS"
+    },
+    {
+      "area": "LAJAS",
+      "zone": "SABANA YEGUAS"
     }
   ],
   "LARES": [
     {
       "area": "LARES",
       "zone": "BO BUENOS AIRES SECT LA MATILD"
+    },
+    {
+      "area": "LARES",
+      "zone": "PEZUELA II"
     },
     {
       "area": "LARES",
@@ -246,10 +251,6 @@
     {
       "area": "LOIZA",
       "zone": "BO LAS COLES CANOVANAS"
-    },
-    {
-      "area": "LOIZA",
-      "zone": "LOIZA"
     }
   ],
   "LOÍZA": [],
@@ -296,6 +297,10 @@
     },
     {
       "area": "PONCE",
+      "zone": "Bo. Corral Viejo"
+    },
+    {
+      "area": "PONCE",
       "zone": "MAGUEYES"
     },
     {
@@ -309,7 +314,12 @@
   "QUEBRADILLAS": [],
   "RINCON": [],
   "RINCÓN": [],
-  "RIO GRANDE": [],
+  "RIO GRANDE": [
+    {
+      "area": "RIO GRANDE",
+      "zone": "URB MIRAMELINDA"
+    }
+  ],
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
@@ -371,10 +381,6 @@
   "SAN LORENZO": [
     {
       "area": "SAN LORENZO",
-      "zone": "QUEBRADA"
-    },
-    {
-      "area": "SAN LORENZO",
       "zone": "QUEMADOS"
     }
   ],
@@ -418,5 +424,5 @@
       "zone": "BARINA"
     }
   ],
-  "timestamp_saved": "11/17/2023 06:31 PM"
+  "timestamp_saved": "11/17/2023 06:36 PM"
 }
