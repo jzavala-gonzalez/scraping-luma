@@ -45,19 +45,11 @@
     },
     {
       "area": "AIBONITO",
-      "zone": "BO ROBLES SIERRA"
-    },
-    {
-      "area": "AIBONITO",
       "zone": "EL CERRO BO. ASOMANTE"
     },
     {
       "area": "AIBONITO",
       "zone": "PLATA"
-    },
-    {
-      "area": "AIBONITO",
-      "zone": "ROBLES"
     }
   ],
   "ANASCO": [],
@@ -69,15 +61,15 @@
   ],
   "ARROYO": [],
   "AÑASCO": [],
-  "BARCELONETA": [],
+  "BARCELONETA": [
+    {
+      "area": "BARCELONETA"
+    }
+  ],
   "BARRANQUITAS": [
     {
       "area": "BARRANQUITAS",
       "zone": "BO CAÑABON SEC T CANTERA"
-    },
-    {
-      "area": "BARRANQUITAS",
-      "zone": "BO HELECHAL SEC OTILIO COLON"
     },
     {
       "area": "BARRANQUITAS",
@@ -95,11 +87,19 @@
   "BAYAMON": [
     {
       "area": "BAYAMON",
+      "zone": "Bo. Hato Tejas"
+    },
+    {
+      "area": "BAYAMON",
       "zone": "KM 5.6 BO. NUEVO, LOS VARGAS"
     },
     {
       "area": "BAYAMON",
       "zone": "MINILLAS"
+    },
+    {
+      "area": "BAYAMON",
+      "zone": "Sector El Volcan"
     }
   ],
   "BAYAMÓN": [],
@@ -148,6 +148,10 @@
     },
     {
       "area": "CAROLINA",
+      "zone": "BO SANTA CRUZ"
+    },
+    {
+      "area": "CAROLINA",
       "zone": "Bo. Santa Cruz"
     },
     {
@@ -170,7 +174,12 @@
   "CATANO": [],
   "CATAÑO": [],
   "CAYEY": [],
-  "CEIBA": [],
+  "CEIBA": [
+    {
+      "area": "CEIBA",
+      "zone": "BO LOS MACHOS"
+    }
+  ],
   "CIALES": [
     {
       "area": "CIALES",
@@ -213,11 +222,11 @@
   "FAJARDO": [
     {
       "area": "FAJARDO",
-      "zone": "RIO ARRIBA"
+      "zone": "QUEBRADA FAJARDO"
     },
     {
       "area": "FAJARDO",
-      "zone": "URB MARINES"
+      "zone": "RIO ARRIBA"
     }
   ],
   "FLORIDA": [],
@@ -229,10 +238,6 @@
     {
       "area": "GURABO",
       "zone": "BO STA RITA/SEC JUANITO DIAZ"
-    },
-    {
-      "area": "GURABO",
-      "zone": "Urb. Massas II"
     }
   ],
   "GUÁNICA": [],
@@ -326,7 +331,7 @@
     },
     {
       "area": "MAYAGUEZ",
-      "zone": "URB BELLAS LOMAS"
+      "zone": "Sector Rio Canas Arrib"
     }
   ],
   "MAYAGÜEZ": [],
@@ -355,6 +360,10 @@
     {
       "area": "OROCOVIS",
       "zone": "BO SALTOS CABRA"
+    },
+    {
+      "area": "OROCOVIS",
+      "zone": "Bo. Cacao Hacienda"
     },
     {
       "area": "OROCOVIS",
@@ -434,14 +443,6 @@
     {
       "area": "SAN JUAN",
       "zone": "URB ALTAMESA"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "URB CAPARRA TERRRACE"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "URB COLLEGE PARK"
     }
   ],
   "SAN LORENZO": [
@@ -470,12 +471,7 @@
       "zone": "QUEBRADA CRUZ"
     }
   ],
-  "TOA BAJA": [
-    {
-      "area": "TOA BAJA",
-      "zone": "URB LEVITTOWN LAKES"
-    }
-  ],
+  "TOA BAJA": [],
   "TRUJILLO ALTO": [
     {
       "area": "TRUJILLO ALTO",
@@ -501,6 +497,10 @@
     },
     {
       "area": "UTUADO",
+      "zone": "CAGUANA"
+    },
+    {
+      "area": "UTUADO",
       "zone": "VIVI ARRIBA"
     }
   ],
@@ -520,5 +520,5 @@
       "zone": "BO RUBIAS COROZAS"
     }
   ],
-  "timestamp_saved": "11/19/2023 08:16 PM"
+  "timestamp_saved": "11/19/2023 08:21 PM"
 }
