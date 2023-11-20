@@ -55,10 +55,6 @@
     },
     {
       "area": "BARRANQUITAS",
-      "zone": "BO PALO HINCADO"
-    },
-    {
-      "area": "BARRANQUITAS",
       "zone": "BO PALO HINCADO-LA CUCHILLA"
     },
     {
@@ -107,15 +103,7 @@
     },
     {
       "area": "CANOVANAS",
-      "zone": "URB VILLAS DE LOIZA"
-    },
-    {
-      "area": "CANOVANAS",
       "zone": "URB. VILLAS DE LOIZA"
-    },
-    {
-      "area": "CANOVANAS",
-      "zone": "VILLAS DE LOIZA"
     }
   ],
   "CANÓVANAS": [],
@@ -271,7 +259,12 @@
   "LAS MARÍAS": [],
   "LAS PIEDRAS": [],
   "LEVITTOWN": [],
-  "LOIZA": [],
+  "LOIZA": [
+    {
+      "area": "LOIZA",
+      "zone": "CANOVANAS"
+    }
+  ],
   "LOÍZA": [],
   "LUQUILLO": [
     {
@@ -309,6 +302,10 @@
   "NARANJITO": [
     {
       "area": "NARANJITO",
+      "zone": "BO CEDRO ARRIBA"
+    },
+    {
+      "area": "NARANJITO",
       "zone": "Bo. Anones"
     },
     {
@@ -324,10 +321,6 @@
     {
       "area": "OROCOVIS",
       "zone": "BO BAUTA ABAJO SEC LA FRANCIA"
-    },
-    {
-      "area": "OROCOVIS",
-      "zone": "BO BAUTA ABAJO-LA FRANCIA"
     },
     {
       "area": "OROCOVIS",
@@ -457,5 +450,5 @@
       "zone": "RUBIAS"
     }
   ],
-  "timestamp_saved": "11/20/2023 03:21 AM"
+  "timestamp_saved": "11/20/2023 03:26 AM"
 }
