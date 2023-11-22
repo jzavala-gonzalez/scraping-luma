@@ -195,13 +195,13 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 254,
+    "SiteTotal": 253,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 254,
-        "MVar": "86",
+        "MW": 253,
+        "MVar": "85",
         "Cost": 4.39,
         "ParentId": "6"
       },
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 434,
+    "SiteTotal": 409,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 150,
-        "MVar": "35",
-        "Cost": 11.17,
+        "MW": 137,
+        "MVar": "33",
+        "Cost": 10.72,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 150,
-        "MVar": "44",
-        "Cost": 11.17,
+        "MW": 137,
+        "MVar": "43",
+        "Cost": 10.72,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 134,
-        "MVar": "56",
-        "Cost": 11.17,
+        "MW": 135,
+        "MVar": "57",
+        "Cost": 10.72,
         "ParentId": "7"
       }
     ]
@@ -306,7 +306,7 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 18.28,
+        "Cost": 18.3,
         "ParentId": "8"
       },
       {
@@ -403,22 +403,22 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 324,
+    "SiteTotal": 326,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
-        "MW": 156,
+        "MW": 157,
         "MVar": "47",
-        "Cost": 17.52,
+        "Cost": 17.45,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
         "MW": 54,
-        "MVar": "11",
-        "Cost": 17.52,
+        "MVar": "10",
+        "Cost": 17.45,
         "ParentId": "11"
       },
       {
@@ -545,8 +545,8 @@
         "Index": "0",
         "Unit": "Unit 7",
         "MW": 69,
-        "MVar": "10",
-        "Cost": 19.79,
+        "MVar": "11",
+        "Cost": 19.78,
         "ParentId": "14"
       },
       {
@@ -562,7 +562,7 @@
         "Unit": "Unit 9",
         "MW": 71,
         "MVar": "29",
-        "Cost": 19.3,
+        "Cost": 19.32,
         "ParentId": "14"
       },
       {
@@ -633,8 +633,8 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 226,
-        "MVar": "168",
-        "Cost": 18.28,
+        "MVar": "167",
+        "Cost": 18.3,
         "ParentId": "16"
       }
     ]
@@ -673,8 +673,8 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 255,
-        "MVar": "93",
-        "Cost": 9.79,
+        "MVar": "91",
+        "Cost": 9.8,
         "ParentId": "17"
       }
     ]
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 43,
+    "SiteTotal": 38,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 43,
+        "MW": 38,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
@@ -699,12 +699,12 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 53,
+    "SiteTotal": 86,
     "units": [
       {
         "Index": "0",
         "Unit": "San Fermin",
-        "MW": 6,
+        "MW": 7,
         "MVar": "4",
         "Cost": 18.32,
         "ParentId": "19"
@@ -720,7 +720,7 @@
       {
         "Index": "2",
         "Unit": "Horizon",
-        "MW": 2,
+        "MW": 5,
         "MVar": "0",
         "Cost": 19.6,
         "ParentId": "19"
@@ -728,7 +728,7 @@
       {
         "Index": "3",
         "Unit": "Coto Laurel",
-        "MW": 5,
+        "MW": 7,
         "MVar": "1",
         "Cost": 19.1,
         "ParentId": "19"
@@ -736,16 +736,16 @@
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 17,
-        "MVar": "29",
+        "MW": 36,
+        "MVar": "27",
         "Cost": 19.6,
         "ParentId": "19"
       },
       {
         "Index": "5",
         "Unit": "Fonroche",
-        "MW": 12,
-        "MVar": "12",
+        "MW": 23,
+        "MVar": "11",
         "Cost": 17,
         "ParentId": "19"
       }
