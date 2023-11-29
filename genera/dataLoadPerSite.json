@@ -195,14 +195,14 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 247,
+    "SiteTotal": 246,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 247,
-        "MVar": "79",
-        "Cost": 4.39,
+        "MW": 246,
+        "MVar": "77",
+        "Cost": 4.4,
         "ParentId": "6"
       },
       {
@@ -210,7 +210,7 @@
         "Unit": "Unit 2",
         "MW": 0,
         "MVar": "0",
-        "Cost": 4.39,
+        "Cost": 4.4,
         "ParentId": "6"
       }
     ]
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 457,
+    "SiteTotal": 438,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 148,
-        "MVar": "49",
-        "Cost": 10.36,
+        "MW": 136,
+        "MVar": "48",
+        "Cost": 10.47,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 160,
+        "MW": 161,
         "MVar": "53",
-        "Cost": 10.36,
+        "Cost": 10.47,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 147,
+        "MW": 143,
         "MVar": "53",
-        "Cost": 10.36,
+        "Cost": 10.47,
         "ParentId": "7"
       }
     ]
@@ -312,7 +312,7 @@
       {
         "Index": "7",
         "Unit": "FEMA GT PS",
-        "MW": 153,
+        "MW": 155,
         "MVar": "48",
         "Cost": 0,
         "ParentId": "8"
@@ -403,30 +403,30 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 394,
+    "SiteTotal": 407,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
-        "MW": 138,
-        "MVar": "41",
-        "Cost": 18.01,
+        "MW": 150,
+        "MVar": "44",
+        "Cost": 17.85,
         "ParentId": "11"
       },
       {
         "Index": "1",
         "Unit": "STG 5",
-        "MW": 46,
-        "MVar": "10",
-        "Cost": 18.01,
+        "MW": 47,
+        "MVar": "9",
+        "Cost": 17.85,
         "ParentId": "11"
       },
       {
         "Index": "2",
         "Unit": "CTG 6",
         "MW": 158,
-        "MVar": "48",
-        "Cost": 8.13,
+        "MVar": "47",
+        "Cost": 8.1,
         "ParentId": "11"
       },
       {
@@ -434,7 +434,7 @@
         "Unit": "STG 6",
         "MW": 51,
         "MVar": "11",
-        "Cost": 8.13,
+        "Cost": 8.1,
         "ParentId": "11"
       }
     ]
@@ -561,8 +561,8 @@
         "Index": "2",
         "Unit": "Unit 9",
         "MW": 72,
-        "MVar": "29",
-        "Cost": 19.3,
+        "MVar": "28",
+        "Cost": 19.27,
         "ParentId": "14"
       },
       {
@@ -633,7 +633,7 @@
         "Index": "1",
         "Unit": "Unit 2",
         "MW": 229,
-        "MVar": "158",
+        "MVar": "156",
         "Cost": 18.21,
         "ParentId": "16"
       }
@@ -673,7 +673,7 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 254,
-        "MVar": "84",
+        "MVar": "83",
         "Cost": 9.81,
         "ParentId": "17"
       }
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 37,
+    "SiteTotal": 39,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 37,
+        "MW": 39,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
@@ -699,7 +699,7 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 98,
+    "SiteTotal": 97,
     "units": [
       {
         "Index": "0",
@@ -745,7 +745,7 @@
         "Index": "5",
         "Unit": "Fonroche",
         "MW": 24,
-        "MVar": "16",
+        "MVar": "15",
         "Cost": 17,
         "ParentId": "19"
       }
@@ -873,7 +873,7 @@
         "Index": "1",
         "Unit": "GT2",
         "MW": 0,
-        "MVar": "0",
+        "MVar": "22",
         "Cost": 0,
         "ParentId": "22"
       }
