@@ -195,13 +195,13 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 253,
+    "SiteTotal": 255,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 253,
-        "MVar": "66",
+        "MW": 255,
+        "MVar": "64",
         "Cost": 4.4,
         "ParentId": "6"
       },
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 324,
+    "SiteTotal": 328,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 106,
-        "MVar": "34",
-        "Cost": 12.78,
+        "MW": 107,
+        "MVar": "35",
+        "Cost": 12.63,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 105,
+        "MW": 107,
         "MVar": "40",
-        "Cost": 12.78,
+        "Cost": 12.63,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 112,
+        "MW": 113,
         "MVar": "45",
-        "Cost": 12.78,
+        "Cost": 12.63,
         "ParentId": "7"
       }
     ]
@@ -320,7 +320,7 @@
       {
         "Index": "8",
         "Unit": "FEMA GT SJ",
-        "MW": 202,
+        "MW": 201,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "8"
@@ -403,14 +403,14 @@
     "Index": "11",
     "Type": "Ciclo Combinado",
     "Desc": "San Juan",
-    "SiteTotal": 429,
+    "SiteTotal": 430,
     "units": [
       {
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 161,
         "MVar": "48",
-        "Cost": 17.49,
+        "Cost": 8.19,
         "ParentId": "11"
       },
       {
@@ -418,7 +418,7 @@
         "Unit": "STG 5",
         "MW": 53,
         "MVar": "10",
-        "Cost": 17.49,
+        "Cost": 8.19,
         "ParentId": "11"
       },
       {
@@ -426,7 +426,7 @@
         "Unit": "CTG 6",
         "MW": 163,
         "MVar": "48",
-        "Cost": 8.08,
+        "Cost": 8.1,
         "ParentId": "11"
       },
       {
@@ -434,7 +434,7 @@
         "Unit": "STG 6",
         "MW": 52,
         "MVar": "9",
-        "Cost": 8.08,
+        "Cost": 8.1,
         "ParentId": "11"
       }
     ]
@@ -562,7 +562,7 @@
         "Unit": "Unit 9",
         "MW": 72,
         "MVar": "6",
-        "Cost": 19.25,
+        "Cost": 19.28,
         "ParentId": "14"
       },
       {
@@ -674,7 +674,7 @@
         "Unit": "Unit 6",
         "MW": 258,
         "MVar": "59",
-        "Cost": 9.76,
+        "Cost": 9.77,
         "ParentId": "17"
       }
     ]
