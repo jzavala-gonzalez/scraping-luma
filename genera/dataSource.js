@@ -1,4 +1,4 @@
-const timestamp_saved = '12/02/2023 03:55 AM';
+const timestamp_saved = '12/02/2023 04:00 AM';
 const dataFechaAcualizado = '12/1/2023' + ' 11:51:24 PM';
 const dataFuelCost = [
 	{place: 'San Juan', value: 98},
