@@ -1,5 +1,5 @@
-const timestamp_saved = '12/03/2023 02:05 AM';
-const dataFechaAcualizado = '12/2/2023' + ' 10:01:24 PM';
+const timestamp_saved = '12/03/2023 02:10 AM';
+const dataFechaAcualizado = '12/2/2023' + ' 10:06:24 PM';
 const dataFuelCost = [
 	{place: 'San Juan', value: 98},
 	{place: 'San Juan CC', value: 127},
@@ -94,7 +94,7 @@ const dataLoadPerSite = [
 			{Index:'4', Unit:'Daguao', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'5', Unit:'Yabucoa', MW: 0, MVar:'0', Cost:0, ParentId: '8'},
 			{Index:'6', Unit:'Aguirre', MW: 0, MVar:'0', Cost:18.22, ParentId: '8'},
-			{Index:'7', Unit:'FEMA GT PS', MW: 157, MVar:'26', Cost:0, ParentId: '8'},
+			{Index:'7', Unit:'FEMA GT PS', MW: 159, MVar:'25', Cost:0, ParentId: '8'},
 			{Index:'8', Unit:'FEMA GT SJ', MW: 200, MVar:'0', Cost:0, ParentId: '8'},
 		]
 	},
@@ -115,9 +115,9 @@ const dataLoadPerSite = [
 	},
 	{Index:'11', Type:'Ciclo Combinado', Desc:'San Juan', SiteTotal: 424,
 		units:[
-			{Index:'0', Unit:'CTG 5', MW: 158, MVar:'48', Cost:17.32, ParentId: '11'},
-			{Index:'1', Unit:'STG 5', MW: 54, MVar:'12', Cost:17.32, ParentId: '11'},
-			{Index:'2', Unit:'CTG 6', MW: 162, MVar:'48', Cost:8.09, ParentId: '11'},
+			{Index:'0', Unit:'CTG 5', MW: 158, MVar:'48', Cost:17.46, ParentId: '11'},
+			{Index:'1', Unit:'STG 5', MW: 54, MVar:'12', Cost:17.46, ParentId: '11'},
+			{Index:'2', Unit:'CTG 6', MW: 161, MVar:'48', Cost:8.09, ParentId: '11'},
 			{Index:'3', Unit:'STG 6', MW: 51, MVar:'9', Cost:8.09, ParentId: '11'},
 		]
 	},
