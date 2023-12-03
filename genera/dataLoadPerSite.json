@@ -195,14 +195,14 @@
     "Index": "6",
     "Type": "COGEN",
     "Desc": "AES",
-    "SiteTotal": 159,
+    "SiteTotal": 160,
     "units": [
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 159,
+        "MW": 160,
         "MVar": "59",
-        "Cost": 4.4,
+        "Cost": 4.41,
         "ParentId": "6"
       },
       {
@@ -210,7 +210,7 @@
         "Unit": "Unit 2",
         "MW": 0,
         "MVar": "0",
-        "Cost": 4.4,
+        "Cost": 4.41,
         "ParentId": "6"
       }
     ]
@@ -226,23 +226,23 @@
         "Unit": "Gas 1",
         "MW": 93,
         "MVar": "36",
-        "Cost": 13.52,
+        "Cost": 13.5,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 92,
+        "MW": 93,
         "MVar": "38",
-        "Cost": 13.52,
+        "Cost": 13.5,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
         "MW": 105,
-        "MVar": "45",
-        "Cost": 13.52,
+        "MVar": "44",
+        "Cost": 13.5,
         "ParentId": "7"
       }
     ]
@@ -313,14 +313,14 @@
         "Index": "7",
         "Unit": "FEMA GT PS",
         "MW": 150,
-        "MVar": "36",
+        "MVar": "37",
         "Cost": 0,
         "ParentId": "8"
       },
       {
         "Index": "8",
         "Unit": "FEMA GT SJ",
-        "MW": 200,
+        "MW": 202,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "8"
@@ -409,8 +409,8 @@
         "Index": "0",
         "Unit": "CTG 5",
         "MW": 120,
-        "MVar": "38",
-        "Cost": 18.06,
+        "MVar": "34",
+        "Cost": 8.84,
         "ParentId": "11"
       },
       {
@@ -418,23 +418,23 @@
         "Unit": "STG 5",
         "MW": 45,
         "MVar": "10",
-        "Cost": 18.06,
+        "Cost": 8.84,
         "ParentId": "11"
       },
       {
         "Index": "2",
         "Unit": "CTG 6",
         "MW": 120,
-        "MVar": "35",
-        "Cost": 8.74,
+        "MVar": "36",
+        "Cost": 8.76,
         "ParentId": "11"
       },
       {
         "Index": "3",
         "Unit": "STG 6",
         "MW": 43,
-        "MVar": "9",
-        "Cost": 8.74,
+        "MVar": "10",
+        "Cost": 8.76,
         "ParentId": "11"
       }
     ]
@@ -562,7 +562,7 @@
         "Unit": "Unit 9",
         "MW": 66,
         "MVar": "17",
-        "Cost": 19.7,
+        "Cost": 19.71,
         "ParentId": "14"
       },
       {
@@ -619,7 +619,7 @@
     "Index": "16",
     "Type": "Vapor",
     "Desc": "Aguirre",
-    "SiteTotal": 228,
+    "SiteTotal": 229,
     "units": [
       {
         "Index": "0",
@@ -632,8 +632,8 @@
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 228,
-        "MVar": "91",
+        "MW": 229,
+        "MVar": "94",
         "Cost": 18.22,
         "ParentId": "16"
       }
@@ -673,8 +673,8 @@
         "Index": "3",
         "Unit": "Unit 6",
         "MW": 232,
-        "MVar": "51",
-        "Cost": 11.92,
+        "MVar": "50",
+        "Cost": 11.91,
         "ParentId": "17"
       }
     ]
@@ -699,7 +699,7 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 77,
+    "SiteTotal": 74,
     "units": [
       {
         "Index": "0",
@@ -713,14 +713,14 @@
         "Index": "1",
         "Unit": "Ilumina",
         "MW": 5,
-        "MVar": "2",
+        "MVar": "1",
         "Cost": 21.43,
         "ParentId": "19"
       },
       {
         "Index": "2",
         "Unit": "Horizon",
-        "MW": 10,
+        "MW": 6,
         "MVar": "0",
         "Cost": 19.6,
         "ParentId": "19"
@@ -736,7 +736,7 @@
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 19,
+        "MW": 20,
         "MVar": "13",
         "Cost": 19.6,
         "ParentId": "19"
@@ -744,7 +744,7 @@
       {
         "Index": "5",
         "Unit": "Fonroche",
-        "MW": 26,
+        "MW": 27,
         "MVar": "2",
         "Cost": 17,
         "ParentId": "19"
