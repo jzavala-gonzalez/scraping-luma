@@ -1,5 +1,5 @@
-const timestamp_saved = '12/03/2023 01:45 AM';
-const dataFechaAcualizado = '12/2/2023' + ' 9:41:24 PM';
+const timestamp_saved = '12/03/2023 01:50 AM';
+const dataFechaAcualizado = '12/2/2023' + ' 9:46:24 PM';
 const dataFuelCost = [
 	{place: 'San Juan', value: 98},
 	{place: 'San Juan CC', value: 127},
@@ -115,8 +115,8 @@ const dataLoadPerSite = [
 	},
 	{Index:'11', Type:'Ciclo Combinado', Desc:'San Juan', SiteTotal: 424,
 		units:[
-			{Index:'0', Unit:'CTG 5', MW: 158, MVar:'46', Cost:17.32, ParentId: '11'},
-			{Index:'1', Unit:'STG 5', MW: 54, MVar:'12', Cost:17.32, ParentId: '11'},
+			{Index:'0', Unit:'CTG 5', MW: 158, MVar:'46', Cost:17.36, ParentId: '11'},
+			{Index:'1', Unit:'STG 5', MW: 54, MVar:'12', Cost:17.36, ParentId: '11'},
 			{Index:'2', Unit:'CTG 6', MW: 161, MVar:'49', Cost:8.11, ParentId: '11'},
 			{Index:'3', Unit:'STG 6', MW: 51, MVar:'9', Cost:8.11, ParentId: '11'},
 		]
