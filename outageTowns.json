@@ -38,10 +38,6 @@
     {
       "area": "CAROLINA",
       "zone": "MARTIN GONZALEZ"
-    },
-    {
-      "area": "CAROLINA",
-      "zone": "URB VILLA FONTANA PARK"
     }
   ],
   "CATANO": [],
@@ -100,7 +96,11 @@
   "MANATÍ": [],
   "MARICAO": [],
   "MAUNABO": [],
-  "MAYAGUEZ": [],
+  "MAYAGUEZ": [
+    {
+      "area": "MAYAGUEZ"
+    }
+  ],
   "MAYAGÜEZ": [],
   "MOCA": [],
   "MOROVIS": [],
@@ -119,11 +119,20 @@
     {
       "area": "QUEBRADILLAS",
       "zone": "BO SAN JOSE/URB BRISA TROPICAL"
+    },
+    {
+      "area": "QUEBRADILLAS",
+      "zone": "URB BRISA TROPICAL"
     }
   ],
   "RINCON": [],
   "RINCÓN": [],
-  "RIO GRANDE": [],
+  "RIO GRANDE": [
+    {
+      "area": "RIO GRANDE",
+      "zone": "URB RIO GRANDE ESTATES"
+    }
+  ],
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
@@ -181,5 +190,5 @@
   "VILLALBA": [],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "12/05/2023 12:21 AM"
+  "timestamp_saved": "12/05/2023 12:26 AM"
 }
