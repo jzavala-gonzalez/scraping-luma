@@ -200,7 +200,7 @@
       {
         "Index": "0",
         "Unit": "Unit 1",
-        "MW": 254,
+        "MW": 253,
         "MVar": "78",
         "Cost": 4.39,
         "ParentId": "6"
@@ -219,30 +219,30 @@
     "Index": "7",
     "Type": "COGEN",
     "Desc": "Ecoelectrica",
-    "SiteTotal": 289,
+    "SiteTotal": 288,
     "units": [
       {
         "Index": "0",
         "Unit": "Gas 1",
-        "MW": 93,
+        "MW": 92,
         "MVar": "46",
-        "Cost": 13.51,
+        "Cost": 13.52,
         "ParentId": "7"
       },
       {
         "Index": "1",
         "Unit": "Gas 2",
-        "MW": 93,
+        "MW": 92,
         "MVar": "49",
-        "Cost": 13.51,
+        "Cost": 13.52,
         "ParentId": "7"
       },
       {
         "Index": "2",
         "Unit": "STG",
-        "MW": 105,
+        "MW": 104,
         "MVar": "56",
-        "Cost": 13.51,
+        "Cost": 13.52,
         "ParentId": "7"
       }
     ]
@@ -306,7 +306,7 @@
         "Unit": "Aguirre",
         "MW": 0,
         "MVar": "0",
-        "Cost": 18.25,
+        "Cost": 18.11,
         "ParentId": "8"
       },
       {
@@ -320,7 +320,7 @@
       {
         "Index": "8",
         "Unit": "FEMA GT SJ",
-        "MW": 199,
+        "MW": 201,
         "MVar": "0",
         "Cost": 0,
         "ParentId": "8"
@@ -410,7 +410,7 @@
         "Unit": "CTG 5",
         "MW": 123,
         "MVar": "37",
-        "Cost": 17.84,
+        "Cost": 17.94,
         "ParentId": "11"
       },
       {
@@ -418,14 +418,14 @@
         "Unit": "STG 5",
         "MW": 45,
         "MVar": "10",
-        "Cost": 17.84,
+        "Cost": 17.94,
         "ParentId": "11"
       },
       {
         "Index": "2",
         "Unit": "CTG 6",
         "MW": 150,
-        "MVar": "46",
+        "MVar": "45",
         "Cost": 8.2,
         "ParentId": "11"
       },
@@ -544,9 +544,9 @@
       {
         "Index": "0",
         "Unit": "Unit 7",
-        "MW": 98,
+        "MW": 99,
         "MVar": "11",
-        "Cost": 18.54,
+        "Cost": 18.46,
         "ParentId": "14"
       },
       {
@@ -562,7 +562,7 @@
         "Unit": "Unit 9",
         "MW": 68,
         "MVar": "27",
-        "Cost": 19.4,
+        "Cost": 19.51,
         "ParentId": "14"
       },
       {
@@ -619,7 +619,7 @@
     "Index": "16",
     "Type": "Vapor",
     "Desc": "Aguirre",
-    "SiteTotal": 227,
+    "SiteTotal": 221,
     "units": [
       {
         "Index": "0",
@@ -632,9 +632,9 @@
       {
         "Index": "1",
         "Unit": "Unit 2",
-        "MW": 227,
-        "MVar": "118",
-        "Cost": 18.25,
+        "MW": 221,
+        "MVar": "116",
+        "Cost": 18.27,
         "ParentId": "16"
       }
     ]
@@ -674,7 +674,7 @@
         "Unit": "Unit 6",
         "MW": 254,
         "MVar": "64",
-        "Cost": 11.62,
+        "Cost": 11.6,
         "ParentId": "17"
       }
     ]
@@ -683,12 +683,12 @@
     "Index": "18",
     "Type": "Renovable",
     "Desc": "Wind",
-    "SiteTotal": 36,
+    "SiteTotal": 41,
     "units": [
       {
         "Index": "0",
         "Unit": "Pattern",
-        "MW": 30,
+        "MW": 36,
         "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
@@ -696,8 +696,8 @@
       {
         "Index": "1",
         "Unit": "Punta Lima",
-        "MW": 6,
-        "MVar": "1",
+        "MW": 4,
+        "MVar": "0",
         "Cost": 16.29,
         "ParentId": "18"
       }
@@ -707,12 +707,12 @@
     "Index": "19",
     "Type": "Renovable",
     "Desc": "Solar",
-    "SiteTotal": 106,
+    "SiteTotal": 109,
     "units": [
       {
         "Index": "0",
         "Unit": "San Fermin",
-        "MW": 8,
+        "MW": 9,
         "MVar": "0",
         "Cost": 18.32,
         "ParentId": "19"
@@ -721,7 +721,7 @@
         "Index": "1",
         "Unit": "Ilumina",
         "MW": 14,
-        "MVar": "0",
+        "MVar": "1",
         "Cost": 21.43,
         "ParentId": "19"
       },
@@ -744,7 +744,7 @@
       {
         "Index": "4",
         "Unit": "Oriana",
-        "MW": 38,
+        "MW": 40,
         "MVar": "26",
         "Cost": 19.6,
         "ParentId": "19"
