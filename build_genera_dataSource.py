@@ -91,6 +91,9 @@ for fbase in ['dataFuelCost', 'dataByFuel', 'dataMetrics']:
     out_fname = f'genera/historical/{fbase}_historical.csv'
     if os.path.exists(out_fname):
         existing_df = pl.read_csv(out_fname)
+        print("existing_df (pre-vstack)")
+        with pl.Config(tbl_cols=-1):
+            print(existing_df)
         
         df = existing_df.vstack(df)
 
