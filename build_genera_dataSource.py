@@ -76,6 +76,7 @@ for fbase in ['dataFuelCost', 'dataByFuel', 'dataMetrics']:
     # To match historical data
     cast_map = {
         'Index': int,
+        'value': int,
     }
     for col in cast_map:
         if col in df.columns:
