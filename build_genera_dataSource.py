@@ -72,6 +72,11 @@ for fbase in ['dataFuelCost', 'dataByFuel', 'dataMetrics']:
         pl.lit(dataFechaActualizado).alias('dataFechaActualizado'),
         *initial_cols
     ])
+    
+    print(fbase, "(pre-cast)")
+    with pl.Config(tbl_cols=-1):
+        print(df)
+    print()
 
     # To match historical data
     cast_map = {
