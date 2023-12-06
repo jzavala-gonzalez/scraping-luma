@@ -96,7 +96,7 @@ for fbase in ['dataFuelCost', 'dataByFuel', 'dataMetrics']:
 
     out_fname = f'genera/historical/{fbase}_historical.csv'
     if os.path.exists(out_fname):
-        existing_df = pl.read_csv(out_fname)
+        existing_df = pl.read_csv(out_fname, infer_schema_length=None)
         for col in cast_map:
             if col in existing_df.columns:
                 existing_df = existing_df.with_columns([pl.col(col).cast(cast_map[col])])
