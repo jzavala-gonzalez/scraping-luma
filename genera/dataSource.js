@@ -1,2 +1,8 @@
-const timestamp_saved = '12/07/2023 02:55 AM';
-The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.
+const timestamp_saved = '12/07/2023 03:00 AM';
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+<hr><center>Microsoft-Azure-Application-Gateway/v2</center>
+</body>
+</html>
