@@ -1,7 +1,12 @@
 {
   "ADJUNTAS": [],
   "AGUADA": [],
-  "AGUADILLA": [],
+  "AGUADILLA": [
+    {
+      "area": "AGUADILLA",
+      "zone": "COND LADERAS DEL MAR"
+    }
+  ],
   "AGUAS BUENAS": [
     {
       "area": "AGUAS BUENAS",
@@ -74,10 +79,6 @@
     }
   ],
   "CAGUAS": [
-    {
-      "area": "CAGUAS",
-      "zone": "BO SAN ANTONIO SEC CARMELITA"
-    },
     {
       "area": "CAGUAS",
       "zone": "SAN ANTONIO/LAS CARMELITAS"
@@ -313,7 +314,11 @@
   "MANATÍ": [],
   "MARICAO": [],
   "MAUNABO": [],
-  "MAYAGUEZ": [],
+  "MAYAGUEZ": [
+    {
+      "area": "MAYAGUEZ"
+    }
+  ],
   "MAYAGÜEZ": [],
   "MOCA": [
     {
@@ -384,6 +389,14 @@
   "RIO GRANDE": [
     {
       "area": "RIO GRANDE",
+      "zone": "BO JUAN GONZALEZ"
+    },
+    {
+      "area": "RIO GRANDE",
+      "zone": "BO LAS TRES T RIO GRANDE"
+    },
+    {
+      "area": "RIO GRANDE",
       "zone": "BO MALPICA/SECT LA RUEDA"
     },
     {
@@ -393,6 +406,10 @@
     {
       "area": "RIO GRANDE",
       "zone": "Bo. Zarzal"
+    },
+    {
+      "area": "RIO GRANDE",
+      "zone": "HACIENDA DE JIMENEZ A 4"
     },
     {
       "area": "RIO GRANDE",
@@ -480,11 +497,19 @@
     },
     {
       "area": "SAN JUAN",
+      "zone": "URB REP METROPOLITANO"
+    },
+    {
+      "area": "SAN JUAN",
       "zone": "URB SAN IGNACIO"
     },
     {
       "area": "SAN JUAN",
       "zone": "URB SAN JOSE"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "URB SANTA MARIA"
     },
     {
       "area": "SAN JUAN",
@@ -497,6 +522,9 @@
     {
       "area": "SAN JUAN",
       "zone": "VILLAS DE PASEO SOL-LOS PASEOS"
+    },
+    {
+      "area": "SAN JUAN"
     }
   ],
   "SAN LORENZO": [
@@ -611,5 +639,5 @@
     }
   ],
   "YAUCO": [],
-  "timestamp_saved": "12/10/2023 11:51 AM"
+  "timestamp_saved": "12/10/2023 11:56 AM"
 }
