@@ -30,6 +30,10 @@
     },
     {
       "area": "ARECIBO",
+      "zone": "PARC SABANA HOYOS"
+    },
+    {
+      "area": "ARECIBO",
       "zone": "URB VILLA LOS SANTOS NUM N 11"
     }
   ],
@@ -53,6 +57,10 @@
     },
     {
       "area": "BAYAMON",
+      "zone": "Bo. Santa Olaya"
+    },
+    {
+      "area": "BAYAMON",
       "zone": "CAMINO ESTEBAN CRUZ,CERRO GORD"
     },
     {
@@ -62,10 +70,6 @@
     {
       "area": "BAYAMON",
       "zone": "REPTO TERESITA"
-    },
-    {
-      "area": "BAYAMON",
-      "zone": "URB BAYAMON GARDENS"
     },
     {
       "area": "BAYAMON",
@@ -142,8 +146,18 @@
   "CULEBRA": [],
   "DORADO": [],
   "ESTANCIAS DE FLORIDA": [],
-  "FAJARDO": [],
-  "FLORIDA": [],
+  "FAJARDO": [
+    {
+      "area": "FAJARDO",
+      "zone": "Bo. Espantasuenos"
+    }
+  ],
+  "FLORIDA": [
+    {
+      "area": "FLORIDA",
+      "zone": "BO FLORIDA ADENTRO"
+    }
+  ],
   "GUANICA": [],
   "GUAYAMA": [
     {
@@ -156,10 +170,6 @@
     {
       "area": "GUAYNABO",
       "zone": "Casco Urbano Guaynabo"
-    },
-    {
-      "area": "GUAYNABO",
-      "zone": "ENTRADA AL AMAL"
     },
     {
       "area": "GUAYNABO",
@@ -314,7 +324,12 @@
   ],
   "RINCON": [],
   "RINCÓN": [],
-  "RIO GRANDE": [],
+  "RIO GRANDE": [
+    {
+      "area": "RIO GRANDE",
+      "zone": "EL VERDE PARC DAVILA"
+    }
+  ],
   "RIO PIEDRAS": [],
   "RÍO GRANDE": [],
   "RÍO PIEDRAS": [],
@@ -322,13 +337,22 @@
   "SABANA SECA": [],
   "SALINAS": [],
   "SAN ANTONIO": [],
-  "SAN GERMAN": [],
+  "SAN GERMAN": [
+    {
+      "area": "SAN GERMAN",
+      "zone": "OFI 214 MEDICAL CENTER PLAZA"
+    }
+  ],
   "SAN GERMÁN": [],
   "SAN ISIDRO": [],
   "SAN JUAN": [
     {
       "area": "SAN JUAN",
       "zone": "Bo. Hill Brothers"
+    },
+    {
+      "area": "SAN JUAN",
+      "zone": "Bo. Villa Palmeras Sa"
     },
     {
       "area": "SAN JUAN",
@@ -345,10 +369,6 @@
     {
       "area": "SAN JUAN",
       "zone": "COND TERRAZAS DE SAN JUAN"
-    },
-    {
-      "area": "SAN JUAN",
-      "zone": "EXT SANTA MARIA"
     },
     {
       "area": "SAN JUAN",
@@ -457,15 +477,15 @@
   "VEGA BAJA": [
     {
       "area": "VEGA BAJA",
+      "zone": "ALMIRANTE NORTE"
+    },
+    {
+      "area": "VEGA BAJA",
       "zone": "Bo. Almirante Sur"
     },
     {
       "area": "VEGA BAJA",
       "zone": "Bo. Puerto Nuevo VB"
-    },
-    {
-      "area": "VEGA BAJA",
-      "zone": "CARR 160 K4 H1 ALM NORTE"
     },
     {
       "area": "VEGA BAJA",
@@ -485,5 +505,5 @@
   ],
   "YABUCOA": [],
   "YAUCO": [],
-  "timestamp_saved": "12/11/2023 12:46 PM"
+  "timestamp_saved": "12/11/2023 12:51 PM"
 }
